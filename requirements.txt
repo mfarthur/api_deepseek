@@ -1,0 +1,25 @@
+# Instale tudo com: pip install -r requirements.txt
+
+# requirements.txt
+
+# Para a API
+fastapi
+uvicorn[standard]
+
+# Para validação de dados e configurações
+pydantic
+pydantic-settings
+
+# Para processamento de texto e embeddings
+langchain
+sentence-transformers
+pypdf # Para extrair texto de PDFs
+
+# Para a base vetorial
+chromadb
+
+# Para chamadas HTTP assíncronas ao LLM
+httpx
+
+# Para carregar variáveis de ambiente
+python-dotenv
