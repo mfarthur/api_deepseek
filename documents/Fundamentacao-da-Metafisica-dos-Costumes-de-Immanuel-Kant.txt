@@ -1,0 +1,2355 @@
+Fundamentação da Metafísica dos Costumes
+Immanuel Kant
+Tradução de Antônio Pinto de Carvalho
+Companhia Editora Nacional
+PREFÁCIO
+A ANTIGA filosofia grega repartia-se em três ciências: a Física, a Ética e a Lógica.. Esta
+divisão está inteiramente de acordo com a natureza das coisas, nem temos que
+introduzir-lhe qualquer espécie de aperfeiçoamento, a não ser acrescentar o princípio em
+que ela se baseia, para que desse modo possamos, por um lado, possuir a certeza de ela
+ser completa e, por outro lado, determinar com exatidão as subdivisões necessárias.
+Todo conhecimento racional é ou material e refere-se a qualquer objeto, ou formal e
+ocupa-se exclusivamente com a forma do entendimento e da razão, um e outro em si
+mesmos considerados, e com as regras universais do pensamento em geral, sem
+distinção de objetos. A filosofia formal denomina-se LÓGICA, mas a filosofia material,
+que trata de objetos determinados e das leis a que eles estão sujeitos, divide-se, por sua
+vez, em duas, visto estas leis serem ou leis da natureza ou leis da liberdade. A ciência
+das primeiras chama-se FÍSICA; a das segundas, ÉTICA. Aquela dá-se também o nome de
+Filosofia da natureza ou Filosofia natural; a esta, o de Filosofia dos costumes.
+A Lógica não pode comportar parte empírica, ou seja, parte na qual as leis universais e.
+necessárias do pensamento estribem em princípios tomados da experiência; de
+contrário, não seria lógica, isto é, cânone do entendimento e da razão, válido para todo
+pensamento e capaz de ser demonstrado. Ao invés, tanto a Filosofia natural como a
+Filosofia moral podem, cada uma, possuir uma parte empírica, pois devem aplicar suas
+leis, aquela à natureza como a objeto da experiência, e esta à vontade humana enquanto
+afetada pela natureza: leis, no primeiro, caso, em conformidade com as quais tudo
+acontece; leis, no segundo caso, de acordo com as quais tudo deve (388) acontecer,
+tomando todavia em consideração as condições, mercê das quais muitas vezes não
+acontece o que deveria acontecer.
+Pode-se denominar empírica toda filosofia que se apóia em princípios da experiência; e
+pura, a que deriva suas doutrinas exclusivamente de princípios a priori. Esta, quando
+simplesmente formal, chama-se Lógica; mas, se for circunscrita a determinados objetos
+do entendimento, recebe o nome de Metafísica.
+Deste modo, surge a idéia de uma dupla metafísica: uma Metafísica da natureza e uma
+Metafísica dos costumes. A Física terá pois, além de sua parte empírica, uma parte
+racional . Outro tanto sucede com a Ética; embora, aqui, a parte empírica possa
+denominar-se particularmente Antropologia prática, e a parte racional receber o nome
+de Moral.
+Todas as indústrias, mesteres e artes lucraram com a divisão do trabalho. Devido a ela,
+não é um só que faz todas as coisas, mas cada qual se circunscreve àquela tarefa
+peculiar que, por seu modo de execução, se distingue sensivelmente das demais, a fim
+de poder cumpri-la com o máximo de perfeição e de facilidade possível. Onde os
+trabalhos não são assim divididos e discriminados, e cada artista tem de realizar tudo
+por si, as indústrias permanecem numa fase de grande barbárie. Ora seria, por certo,
+questão digna de ser examinada, perguntar se a filosofia pura não exige em todas as suas
+partes uni especialista que se lhe dedique exclusivamente, e se, para o conjunto desta
+indústria que é a ciência, não seria preferível que os que estão habituados a apresentar,
+conforme ao gosto do público, o empírico imiscuído com o racional, combinado em
+toda a sorte de proporções que eles próprios desconhecem, que a si próprios se
+qualificam de autênticos pensadores ao mesmo tempo que apodam de visionários os que
+se ocupam da parte puramente racional, se não seria preferível, digo, que esses tais
+fossem advertidos a que não se incumbissem simultaneamente de duas tarefas que
+devem ser desempenhadas de maneira inteiramente diferente, cada uma das quais
+reclama sem dúvida talento particular, e cuja reunião numa só pessoa conduz fatalmente
+a produzir obra imperfeita. Limito-me, entanto, aqui, a perguntar se a natureza da
+ciência não exige que se separe sempre com sumo cuidado a parte empírica da parte
+racional, que se faça preceder a Física propriamente dita (empírica) de uma Metafísica
+da natureza, e a Antropologia prática de uma Metafísica dos costumes, as quais
+Metafísicas deveriam ser cuidadosamente expurgadas de todo elemento (389) empírico,
+com o intuito de saber tudo o que a razão pura pode fazer em ambos os casos e em que
+mananciais ela haure esta sua doutrinação a priori, quer semelhante tarefa seja
+empreendida por todos os moralistas (que não têm conto), quer somente por alguns que
+para tal se sintam especialmente chamados.
+Como aqui não tenho em vista senão propriamente a filosofia moral, limito a estes
+termos a questão proposta: não seria de suma necessidade elaborar, de vez, uma
+Filosofia moral. pura completamente expurgada de tudo quanto é empírico e pertence à
+Antropologia? Que tal filosofia deva existir resulta manifestamente da idéia comum do
+dever e das leis morais. Deve-se concordar que uma lei, para possuir valor moral, isto é,
+para fundamentar uma obrigação, precisa de implicar em si uma absoluta necessidade;
+requer, além disso, que o mandamento: "Não deves mentir" não seja válido somente
+para os homens, deixando a outros seres racionais a faculdade de não lhe ligarem
+importância. O mesmo se diga das restantes morais propriamente ditas. Por conseguinte,
+o princípio da obrigação não deve ser aqui buscado na natureza do homem, nem nas
+circunstâncias em que ele se encontra situado no mundo, mas a priori. só nos conceitos
+da razão pura]; e qualquer outra prescrição, que estribe nos princípios da simples
+experiência, mesmo que sob certos aspectos fosse prescrição universal, por pouco que
+se apóie em razões empíricas, nem que seja por um motivo apenas, pode ser
+denominada regra prática, nunca porém lei moral.
+Pelo que, em todo conhecimento prático não só as leis morais, juntamente com seus
+princípios, se distinguem essencialmente de tudo o que contém algum elemento
+empírico, como também toda filosofia moral se apóia inteiramente em sua parte pura, e,
+aplicada ao homem, não deduz coisa alguma do conhecimento do que este é
+(Antropologia), senão que lhe confere, na medida em que ele é ser racional, leis a
+priori. Sem dúvida tais leis exigem uma faculdade de julgar aguçada pela experiência,
+capaz de, em parte, discernir em que casos elas são aplicáveis e, em parte, procurar-lhes
+acesso à vontade humana e influência para a prática; porque o homem, sujeito como se
+encontra a tantas inclinações, possui decerto capacidade para conceber a idéia de uma
+razão pura prática, mas não pode assim com facilidade Tornar essa idéia eficaz in
+concreto em seu procedimento.
+(390) Uma Metafísica dos costumes é pois rigorosamente necessária, não só por motivo
+de necessidade da especulação, a fim de indagar a origem dos princípios práticos que
+existem a priori em nossa razão, mas também porque a própria moralidade está sujeita a
+toda a espécie de perversões, enquanto carecer deste fio condutor e desta norma
+suprema de sua exata apreciação. Com efeito, para que uma ação seja moralmente boa,
+não basta que seja conforme com a lei moral; é preciso, além disso, que seja praticada
+por causa da mesma lei moral; de contrário, aquela conformidade e apenas muito
+acidental e muito incerta, visto como o princípio estranho à moral produzirá, sem
+dúvida, de quando em quando, ações conformes com a lei, mas muitas vezes também
+ações que lhe são contrárias - Ora, a lei moral em sua pureza e genuinidade (e
+justamente é isto o que mais importa na prática) não deve ser buscada senão numa
+Filosofia pura; donde, a necessidade de esta (a Metafísica) vir em primeiro lugar, pois
+sem ela não pode haver filosofia moral. Nem a filosofia, que confunde princípios puros
+com princípios práticos merece o nome de filosofia (pois esta distingue-se do
+conhecimento racional comum, precisamente por expor numa ciência à parte o que este
+conhecimento comum apreende apenas de modo confuso); merece menos ainda o nome
+de filosofia moral, porque justamente devido a tal confusão prejudica a pureza da
+moralidade e vai de encontro a seu próprio fim.
+Não se pense todavia que o que se requer aqui se encontre já na propedêutica que o
+ilustre WOLFF antepõe à sua filosofia moral, a saber na obra a que deu o título de
+Filosofia prática universal, e que, por conseguinte, não há campo inteiramente novo
+que explorar. Precisamente porque essa propedêutica devia ser uma filosofia prática
+universal, considerou ela, não uma vontade de qualquer espécie particular, como seria,
+por exemplo, uma vontade determinada, não por motivos empíricos, mas só por
+princípios a priori, e que pudesse ser denominada vontade pura, mas o querer em geral,
+com todas as ações e condições que lhe convém dentro deste significado geral;
+distingue-se pois da Metafísica dos costumes, do mesmo modo que a Lógica geral se
+distingue da Filosofia transcendental: a Lógica geral expõe as operações e regras do
+pensamento em geral, ao passo que a Filosofia transcendental expõe unicamente as
+operações e regras particulares do pensamento puro, ou seja, do pensamento, por meio
+do qual os objetos são conhecidos inteiramente a priori. É que a Metafísica dos
+costumes deve indagar a idéia e os princípios de uma vontade pura possível, e não as
+ações e condições do humano querer em geral, as quais, e m sua maioria, são tomadas
+da Psicologia. O fato de na Filosofia prática geral se falar igualmente (391) (embora
+sem razão) de leis morais e de dever não constitui objeção contra o que afirmo. Com
+efeito, os autores dessa ciência permanecem fiéis, neste ponto, à idéia que dela formam;
+não distinguem, entre os princípios de determinação, aqueles que, como tais, são
+representados absolutamente a priori pela só razão e são propriamente morais, daqueles
+que são empíricos, e que o entendimento erige em conceitos gerais por um simples
+confronto das experiências; consideram-nos, ao invés, sem atentarem na diferença de
+suas origens, apenas segundo seu número maior ou menor (pois os encaram como sendo
+todos da mesma espécie) e formam assim seu conceito de obrigação. Na verdade, este
+conceito é tudo menos moral; mas é o único que se pode esperar de uma filosofia que,
+sobre a origem de todos os conceitos práticos possíveis, não decide de maneira nenhuma
+se se produzem a priori ou só a posteriori.
+Ora, propondo-me publicar, um dia, uma Metafísica dos costumes, faço-a preceder deste
+opúsculo que lhe serve de fundamentação. Decerto não há, um rigor, outro fundamento
+em que da possa assentar, de não seja a Crítica de uma razão pura prática, do mesmo
+modo que, para fundamentar a Metafísica, se requer a Crítica da razão pura especulativa
+por mim já publicada. Mas, em parte, a primeira destas Críticas não é de tão extrema
+necessidade como a segunda, porque em matéria moral a razão humana, mesmo entre o
+comum dos mortais, pode ser facilmente levada a alto grau de exatidão e de perfeição,
+ao passo que no seu uso teorético, mas puro, da é totalmente dialética; e, em parte, no
+que concerne à Crítica de uma razão pura prática, para que ela seja completa, reputo
+imprescindível que se mostre ao mesmo tempo a unidade da razão prática e da razão
+especulativa num princípio comum; pois que, em última instância, só pode haver uma e
+a mesma razão, e só na aplicação desta há lugar para distinções. Ora, não me seria
+possível aqui realizar um trabalho tão esmiuçado e completo, sem introduzir
+considerações de ordem inteiramente diferente e sem lançar a confusão no ânimo do
+leitor. Por isso, em vez de dar a este livrinho o título de Crítica da razão pura prática,
+denominei-o Fundamentação da Meta física dos costumes.
+Mas, porque, em terceiro lugar, uma Metafísica dos costumes, não obstante o que o
+título comporta de assustador, pode entanto ser exposta em forma popular e adequada à
+inteligência do vulgo, afigura-se-me útil publicar à parte este trabalho preliminar, no
+qual são assentes os fundamentos, (392) para posteriormente não me ver obrigado a
+imiscuir sutilezas, inevitáveis em semelhante matéria, a doutrinas de mais fácil
+compreensão.
+A presente Fundamentação não é mais do que a pesquisa e a determinação do princípio
+supremo da moralidade, o bastante para constituir um todo completo, separado e
+distinto de qualquer outra investigação moral. Certamente minhas afirmações sobre tão
+momentoso problema, e que até ao presente não foi tratado de modo satisfatório, muito
+pelo contrário, receberiam ampla e elucidativa confirmação, se o princípio em questão
+fosse aplicado a todo o sistema, mercê do poder de explicação suficiente que ele em
+tudo manifesta; vi-me porém obrigado a renunciar a esta vantagem, que, no fundo,
+estaria mais de acordo com o meu amor próprio do que com o interesse geral, uma vez
+que a facilidade de aplicação de um princípio bem como sua aparente suficiência não
+fornecem prova absolutamente segura de sua exatidão, antes, pelo contrário, suscitam
+em nós certa atitude de parcialidade capaz de nos induzir a não examiná-lo e apreciá-lo
+rigorosamente por si mesmo, sem atender às conseqüências.
+Segui, neste opúsculo, o método que penso ser o mais conveniente, quando pretendemos
+elevar-nos analiticamente do conhecimento vulgar à determinação do princípio supremo
+do mesmo, e, depois, por caminho inverso, tornar a descer sintèticamente do exame
+deste princípio e de suas origens ao conhecimento vulgar, onde se verifica sua
+aplicação. A divisão da obra é pois a seguinte:
+1) Primeira secção: Passagem do conhecimento racional comum da moralidade ao
+conhecimento filosófico.
+2) Segunda secção: Passagem da filosofia moral popular à Metafísica dos costumes.
+3) Terceira secção: Último passo da Metafísica dos costumes à Crítica da razão pura
+prática.
+PRIMEIRA SEÇÃO
+Passagem do conhecimento racional comum da moralidade ao conhecimento
+filosófico
+NÃO É POSSÍVEL conceber coisa alguma no mundo, ou mesmo fora do mundo, que sem
+restrição possa ser considerada boa, a não ser uma só: uma BOA VONTADE. A
+inteligência, o dom de apreender as semelhanças das coisas, a faculdade de julgar, e os
+demais talentos do espírito, seja qual for o nome que se lhes dê, ou a coragem, a
+decisão, a perseverança nos propósitos, como qualidades do temperamento, são sem
+dúvida, sob múltiplos respeitos, coisas boas e apetecíveis; podem entanto estes dons da
+natureza tornar-se extremamente maus e prejudiciais, se não for boa vontade que deles
+deve servir-se e cuja especial disposição se denomina caráter. O mesmo se diga dos
+dons da fortuna. O poder, a riqueza, a honra, a própria saúde e o completo bem-estar e
+satisfação do próprio estado, em resumo o que se chama felicidade, geram uma
+confiança em si mesmo que muitas vezes se converte em presunção, quando falta a boa
+vontade para moderar e fazer convergir para fins universais tanto a imprudência que tais
+dons exercem sobre a alma como também o princípio da ação. Isto, sem contar que um
+espectador razoável e imparcial nunca lograria sentir satisfação em ver que tudo corre
+ininterruptamente segundo os desejos de uma pessoa que não ostenta nenhum vestígio
+de verdadeira boa vontade; donde parece que a boa vontade constitui a condição
+indispensável para ser feliz.
+Há certas qualidades favoráveis a esta boa vontade e que podem facilitar muito sua
+obra, mas que, não obstante, (394) não possuem valor intrínseco absoluto, antes
+pressupõem sempre uma boa vontade. É esta uma condição que limita o alto apreço em
+que, justificadamente, as temos, e que não permite reputá-las incondicionalmente boas.
+A moderação nos afetos e paixões, o domínio de si e a calma reflexão, não são apenas
+bons sob múltiplos aspectos, mas parece constituírem até uma parte do valor intrínseco
+da pessoa; falta contudo ainda muito para que sem restrição possam ser considerados
+bons (a despeito do valor incondicionado que os antigos lhes atribuíam). Sem os
+princípios de uma boa vontade podem tais qualidades tornar-se extremamente más: por
+exemplo, o sangue frio de um celerado não só o torna muito mais perigoso, como
+também, a nossos olhos, muito mais detestável do que o teríamos julgado sem ele.
+A boa vontade é tal, não por suas obras ou realizações, não por sua aptidão para
+alcançariam fim proposto, mas só pelo "querer " por outras palavras, é boa em si e,
+considerada em si mesma, deve sem comparação ser apreciada em maior estima do que
+tudo quanto por meio dela poderia ser cumprido unicamente em favor de alguma
+inclinação ou, se , se prefere, em favor da soma de todas as inclinações. Mesmo quando,
+por singular adversidade do destino ou por avara dotação de uma natureza madrasta,
+essa vontade fosse completamente desprovida do poder de levar a bom termo seus
+propósitos; admitindo até que seus esforços mais tenazes permanecessem estéreis; na
+hipótese mesmo de que nada mais restasse do que a só boa vontade (entendendo por
+esta não um mero desejo, mas o apelo a todos os meios que estão ao nosso alcance), ela
+nem por isso deixaria de refulgir como pedra preciosa dotada de brilho próprio, como
+alguma coisa que em si possui valor. A utilidade ou inutilidade em nada logra aumentar
+ou diminuir esse valor. A utilidade seria, por assim dizer, apenas o engaste que faculta o
+manejo da jóia no uso corrente, ou capaz de fazer convergir para si a atenção dos que
+não são suficientemente entendidos no assunto, mas que nunca poderia torná-la
+recomendável aos peritos nem determinar-lhe o valor.
+Há todavia nesta idéia do valor absoluto da simples vontade, neste modo de a estimar
+prescindindo de qualquer critério, de utilidade, algo de tão estranho que, a despeito do
+completo acordo existente entre ela e a razão comum, pode todavia surgir uma suspeita:
+quem sabe se, na realidade, não se alberga aqui, no fundo, senão uma vaporosa
+fantasmagoria e (395) se não será compreender falsamente a natureza em sua intenção
+de conferir à razão a direção de nossa vontade. Pelo que, propomo-nos examinar, desde
+este ponto de vista, a idéia do valor absoluto da pura vontade.
+Na constituição natural de um ser organizado, ou seja, de um ser constituído em vista da
+vida, assentamos como princípio fundamental que não existe órgão destinado a uma
+função, que não seja igualmente o mais próprio e adaptado a essa função. Ora, se num
+ser prendado de razão e de vontade a natureza tivesse como fim peculiar a sua
+conservação, o seu bem-estar, numa palavra, a sua felicidade, devemos confessar que
+ela teria tomado muito mal suas precauções, escolhendo a razão desse ser como
+executora de sua intenção. Todas as ações, que um tal ser deve cumprir para realizar
+este fim, bem como a regra completa de seu comportamento, ter-lhe-iam sido indicadas
+com muito maior exatidão pelo instinto, podendo desse modo aquele fim ter sido muito
+mais facilmente alcançado do que por meio da razão; e se a uma tal criatura devesse ser
+concedida por acréscimo a razão, esta não deveria servir-lhe senão para refletir sobre as
+felizes disposições de sua natureza, para as admirar, para delas se regozijar e se mostrar
+grata à Causa benfazeja; que não para submeter àquela, fraca e ilusória direção sua
+potência apetitiva, estragando assim os planos da natureza, Numa palavra, a natureza
+teria impedido que a razão se imiscuísse num uso prático e tivesse a presunção de, com
+suas fracas luzes, formular para si o plano da felicidade e os meios de a alcançar; a
+natureza teria tomado sobre si a escolha, não só dos fins, como também dos meios, e
+com sábia previdência os teria confiado ao instinto
+.
+É fato que, quanto mais uma razão cultivada se afadiga na busca dos prazeres da vida e
+da felicidade, tanto mais o homem se afasta do verdadeiro contentamento; donde
+acontece que para muitos, e justamente para os mais experimentados no uso da razão, se
+eles são bastante sinceros para o confessar, surge um certo grau de mesologia ou, por
+outras palavras, de ódio da razão. Feito o cômputo das vantagens que auferem, não
+digo da descoberta de todas as artes que convergem no luxo vulgar, mas também das
+ciências (que, no fim, lhes aparecem como um luxo do entendimento), verificam eles
+que as fadigas sofridas superam em muito a felicidade desfrutada; (396) e, por tal
+motivo, comparando-se com a categoria de homens inferiores, que de preferência se
+deixam guiar pelo instinto, nem concedem à razão senão diminuta influência sobre seu
+procedimento, acabam por sentir mais inveja do que desprezo deles. Importa, além
+disso, confessar que o juízo de tais homens que rebaixam muito e chegam a reduzir a
+nada as pomposas glorificações das vantagens que a razão nos deveria proporcionar
+relativamente à felicidade e contentamento da vida, não provém de maneira nenhuma do
+mau humor ou da falta de agradecimento à bondade da Providência; mas que, no fundo
+deste juízo, se alberga a idéia, não expressa, de que o fim de sua existência é, de fato,
+diferente e muito mais nobre, que a este fim e não à felicidade a razão é peculiarmente
+destinada, e que, por conseguinte, a ele, como a condição suprema, devem as mais das
+vezes submeter-se as intenções particulares do homem.
+Com efeito, dado que a razão não é suficientemente capaz de guiar com segurança a
+vontade no concernente a seus objetos e satisfação de todas as nossas necessidades (que
+ela em parte concorre para multiplicar), e que um instinto natural inato a guiaria mais
+seguramente a esse fim; atendendo entanto a que a razão nos foi outorgada como
+potência prática; isto é, como potência que deve exercer influência sobre a vontade, é
+mister que sua verdadeira destinação seja produzir uma vontade boa, não como meio
+para conseguir qualquer outro fim, mas boa cm si mesma; para o que a razão era
+absolutamente necessária, uma vez que, em tudo o mais, a natureza, na repartição de
+suas propriedades, procedeu de acordo com. fins determinados. Esta vontade poderá
+não ser o único bem, o bem integral; deve porém ser necessariamente o bem supremo, a
+condição donde dependem os restantes bens, e até mesmo a aspiração à felicidade.
+""Neste caso, é perfeitamente coadunável com a sabedoria da natureza o fato de a
+cultura da razão, indispensável para obter o primeiro destes fins que é incondicionado,
+limitar de muitos modos, ao menos nesta vida, a obtenção segundo, que é sempre um
+fim condicionado, ou seja, a felicidade, até ao ponto de reduzir a nada a sua realização.
+Nisto a natureza não age contra toda finalidade, pois a razão, que reconhece que seu
+supremo destino prático consiste em criar uma boa vontade, não pode encontrar o
+cumprimento deste propósito senão satisfação a ela adequada, ou seja, resultante da
+realização de um fim que só ela determina, embora daí redunde algum prejuízo para os
+fins da inclinação.
+A fim de elucidar o conceito de uma vontade (397) altamente estimável em si, de uma
+vontade boa independentemente de qualquer intenção ulterior, conceito já inerente a
+todo entendimento são e que precisa não tanto de ser ensinado quanto apenas de ser
+explicado; a fim de elucidar este conceito, que ocupa sempre o posto mais elevado na
+apreciação do valor completo de nossas ações e constitui a condição de tudo o mais,
+examinaremos o conceito do DÊVER, que contém o de uma boa vontade, com certas
+restrições, e certo, e com certos entraves subjetivos, mas que, longe de o dissimularem e
+tornarem irreconhecível, mais o salientam por contraste e o tornam mais esplendente.
+Passo aqui em silêncio todas as ações geralmente havidas por contrárias ao dever, se
+bem que, deste ou daquele ponto de vista, possam ser úteis, pois nelas não se põe a
+questão de saber se podem ser praticadas por dever\ uma vez que estão em contradição
+com ele. Deixo também de lado as ações que são realmente conformes com o dever,
+para as quais entanto os homens não sentem inclinação imediata, mas que apesar disso
+executam sob o impulso de outra tendência porque, em tal caso, é fácil distinguir se a
+ação conforme com o dever foi realizada por dever ou por cálculo interesseiro. Muito
+mais difícil é notar esta distinção, quando, sendo a ação conforme com o dever, o sujeito
+sente para com ela uma inclinação imediata. Por exemplo, é manifestamente conforme
+com o dever que o comerciante não peça um preço demasiado elevado a um comprador
+inexperiente, e, mesmo quando o comércio é intenso, o comerciante hábil não procede
+desse modo; mantém, pelo contrário, um preço fixo igual para todos, de sorte que uma
+criança lhe pode comprar uma coisa pelo mesmo preço que qualquer outro cliente. As
+pessoas são pois servidas lealmente; mas isso não basta para crer que o negociante
+procedeu assim por dever ou por princípios de probidade; movia-o o interesse; e não se
+pode supor neste caso que ele tivesse, além disso, uma inclinação imediata para com
+seus clientes, que o induzisse a fazer, por amor, preços mais convenientes a um do que a
+outro. Eis aí uma ação cumprida não por dever, nem por inclinação imediata, mas tão-
+somente por cálculo interesseiro.
+Pelo contrário, conservar a própria vida é um dever, e é, além disso, uma coisa para a
+qual todos sentimos inclinação imediata. Justamente por isso a solicitude muitas vezes
+angustiante que a maior parte dos homens demonstra pela vida é destituída de todo valor
+intrínseco, e a máxima, que, (398) exprime tal solicitude, não tem nenhum valor moral.
+De fato, eles conservam a vida conformemente ao dever, mas não por dever. Ao invés,
+se contrariedades ou uma dor sem esperança tiraram a um homem todo o prazer da vida,
+se o infeliz, de ânimo forte, se sente mais enojado de sua sorte que descoroçoado ou
+abatido, se deseja a morte, e, no entanto, conserva a vida sem a amar, não por inclinação
+ou temor, mas por dever, então sua máxima comporta valor moral.
+Ser benfazejo, quando se pode, é um dever; contudo há certas almas tão propensas à
+simpatia que, sem motivo de vaidade ou de interesse, experimentam viva satisfação em'
+difundir em volta de si a alegria e se comprazem em ver os outros felizes, na medida em
+que isso é obra delas. Mas afirmo que, em tal caso, semelhante ação, por conforme ao
+dever e por amável que seja, não possui valor moral verdadeiro; é simplesmente
+concomitante com outras inclinações, por exemplo, com o amor da glória, o qual,
+quando tem em vista um objeto em harmonia com o interesse público e com o dever,
+com o que, por conseguinte, é honroso, merece louvor e estímulo, mas não merece
+respeito; pois à máxima da ação falta o valor moral, que só está presente quando as
+ações são praticadas, não por inclinação, por dever. Imaginemos pois a alma deste
+filantropo anuviada por um daqueles desgostos pessoais que sufocam toda simpatia para
+com a sorte alheia; que ele tenha ainda a possibilidade de minorar os males de outros
+desgraçados, sem que todavia se sinta comovido com os sofrimentos deles, por se
+encontrar demasiado absorvido pelos seus próprios; e que, nestas condições, sem ser
+induzido por nenhuma inclinação, se arranca a essa extrema insensibilidade e age, não
+por inclinação, mas só por dever: só nesse caso seu ato possui verdadeiro valor moral.
+Mais ainda. Se a natureza houvesse deposto no coração deste ou daquele pequena dose
+de inclinação para a simpatia se um tal homem (aliás honesto), fosse de temperamento
+frio e indiferente para com os sofrimentos alheios, talvez porque, sendo prendado de
+especial dom de resistência e de paciente energia contra os sofrimentos próprios, supõe
+igualmente nos outros, ou deles exige, qualidades idênticas; se a natureza não tivesse
+particularmente formado este homem (que, na verdade, não seria a sua pior obra) para
+dele fazer um filantropo, não encontraria ele em si estofo com que se atribuir um valor
+muito superior ao de um homem de temperamento naturalmente benévolo?. Por certo
+quê sim. E justamente aqui transparece o valor moral incontestavelmente mais elevado
+de seu (399) caráter, resultante de ele praticar o bem, não por inclinação, {mas por
+dever. assegurar a própria, felicidade é um, dever (ao menos, indireto), porque o não
+estar satisfeito com o seu estado, o viver oprimido por inumeráveis preocupações e no
+meio de necessidades não preenchidas pode muito facilmente converter-se em grande
+tentação de infringir seus deveres. Mas, uma vez mais, independentemente do dever,
+todos os homens possuem dentro em si uma inclinação muito forte e muito profunda
+para a felicidade, pois que justamente nesta idéia de felicidade se unem todas as suas
+tendências. Simplesmente o preceito, que nos manda buscar a felicidade, apresenta
+muitas vezes caráter tal que prejudica algumas de nossas inclinações, de sorte que não é
+possível ao homem formar idéia nítida e bem definida do complexo de satisfação de
+seus desejos, a que dá o nome de felicidade. Não há pois motivo para ficar surpreendido
+de que'uma só inclinação, determinada quanto ao prazer que promete e quanto à época
+em que poderá ser satisfeita, seja capaz de sobrepujar uma idéia vaga. Por exemplo, um
+gotoso preferirá saborear um acepipe de seu agrado, não se lhe dando de sofrer as
+conseqüências, porque segundo seus cálculos, ao menos nesta circunstância, acha
+preferível não se privar de um prazer atual, pela esperança acaso infundada de uma
+felicidade associada à saúde. Mas, também neste caso, se a saúde, para ele ao menos,
+não fosse coisa a que devesse outorgar lugar preponderante em seus cálculos,
+permaneceria ainda de pé, neste como nos demais casos, uma lei, a saber, a lei que
+manda trabalhar pela própria felicidade, não por inclinação, por inclinação, mas por
+dever. Só então seu comportamento possui autêntico valor moral.
+Assim devem, sem dúvida, ser compreendidos também os passos da Escritura, onde se
+ordena amar o próximo e ate os inimigos. Com efeito, o amor, como inclinação, não
+pode ser comandado; mas praticar o bem por dever, quando nenhuma inclinação a isso
+nos incita, ou quando uma aversão natural e invencível se opõe, eis um amor prático e
+não patológico, que reside na vontade, e não na tendência da sensibilidade, nos
+princípios da ação, e não numa compaixão emoliente. Ora, é este único amor que pode
+ser comandado.
+Venhamos à segunda proposição. Uma ação cumprida por dever tira seu valor
+moral não do fim que por ela deve ser alcançado, mas da máxima que a determina. Este
+valor (400) não depende, portanto, da realidade do objeto da ação, mas unicamente do
+princípio do querer, segundo o qual a ação foi produzida, sem tomar em conta nenhum
+dos objetos da faculdade apetitiva. De tudo quanto precede, segue-.se que os fins que
+podemos ter em nossas ações, bem como os efeitos daí resultantes, considerados como
+fins e molas da vontade, não podem comunicar às ações nenhum valor moral absoluto.
+Onde pode pois residir esse valor, se não deve encontrar-se na relação da vontade com
+os resultados esperados destas ações ? Em nenhuma outra parte é possível encontrá-lo
+senão no principio da vontade, abstraindo dos fins que podem ser realizados por meio
+de uma tal ação. De fato, a vontade, situada entre seu princípio a. priori, que é formal e
+seu móbil a posteriori, que é material, está como que na bifurcação
+de dois caminhos; e, como é necessário que alguma coisa a determine, será
+determinada pelo princípio formal do querer em geral, sempre que a ação se pratique
+por dever, pois lhe é retirado todo princípio material.
+Quanto à terceira proposição, conseqüência das duas precedentes, eis como a formulo o
+dever é a necessidade de cumprir uma ação pelo respeito à lei. Para. o objeto
+concebido como efeito da ação que me proponho, posso verdadeiramente sentir
+inclinação, nunca porém respeito, precisamente porque ele é simples efeito, e não a
+atividade de uma vontade. Do mesmo modo, não posso ter respeito a uma inclinação em
+geral, seja ela minha ou de outrem; quando muito, posso aprová-la no primeiro caso,
+no segundo caso talvez até amá-la, isto é, considerá-la como favorável a meu interesse.
+Só o que está ligado à minha vontade unicamente como princípio, e nunca como efeito,
+o que não serve a minha inclinação mas a domina, e ao menos a exclui totalmente da
+avaliação no ato de decidir, por conseguinte a simples lei por si mesma é que
+pode ser objeto de respeito, e, portanto, ordem, para mim. Ora, se uma ação cumprida
+por dever elimina completamente a influência da inclinação e, com ela, todo objeto da
+vontade," nada resta capaz de determinar a mesma vontade, a não ser objetivamente a.
+lei e subjetivamente um puro respeito a esta lei prática, portanto a máxima (*) de
+obedecer a essa lei, embora com dano de todas as minhas inclinações"
+Portanto, o valor moral da ação não reside no (401) efeito que dela se espera, como nem
+em qualquer princípio da ação que precise de tirar seu móbil deste efeito esperado. Com
+efeito, todos estes resultados (contentamento de seu estado, e até mesmo contribuição
+para a felicidade alheia) poderiam provir de outras causas; não é necessária para isso a
+vontade de um ser raciona, muito embora somente nesta se possa encontrar o supremo
+bem, o bem incondicionado. Por isso a representação da lei cm si mesma, que
+seguramente só tem lugar num ser racional, com a condição de ser esta representação, e
+não o resultado esperado, o princípio determinado da vontade, eis o que só é capaz de
+constituir o bem tão excelente que denominamos moral, o qual já se encontra presente
+na pessoa que age segundo essa idéia, mas que não deve ser esperado somente do efeito
+de sua ação(**).
+(•)Máxima é o princípio subjetivo do querer; o princípio objetivo (isto é, o princípio capaz de
+servir também subjetivamente' de principio pratico para todos os seres racionais, se a razão
+tivesse pleno poder sobre a faculdade apetitiva) é a lei prática (58).
+(**) Poderiam objetar-me que, servindo-me do termo respeito, tento apenas refugiar-me num
+sentimento obscuro, em vez de aclarar a questão por meio de um conceito da razão. Mas,
+conquanto o respeito seja um sentimento, não é todavia sentimento proveniente de influência
+estranha, mas, sim, pelo contrário, sentimento espontaneamente produzido por um conceito da
+razão, e por isso mesmo especificamente distinto dos sentimentos da primeira espécie, referentes
+à inclinação ou ao temor. O que reconheço imediatamente como lei para mim, reconheço-o com
+um sentimento de respeito que exprime simplesmente a consciência que tenho da subordinação
+de minha vontade a uma lei, sem intromissão de outras influências em minha sensibilidade. A
+determinação imediata da vontade pela lei, e a consciência que tenho dessa determinação,
+chama-se respeito, de sorte que este deve ser considerado, não como causa da lei, mas como
+efeito, da mesma sobre o sujeito. Em rigor de expressão o respeito é a representação —de um
+valor que vai de encontro ao meu amor próprio. Conseguintemente é alguma coisa que não é
+considerada nem como objeto de inclinação, nem como de temor, se bem que apresente alguma
+analogia com ambos ao mesmo tempo. O objeto do respeito é pois simplesmente, a lei, lei que
+nos impomos a nós mesmos, mas que no entanto é necessária em si. Enquanto lei, estamos -lhes
+sujeitos, sem consultar nosso amor próprio; enquanto imposta por nós a nós mesmos, é
+conseqüência de nossa vontade. Do primeiro ponto de vista oferece analogia com o temor; do
+segundo ponto de vista, tem analogia com a inclinação. O respeito que se sente para com uma
+pessoa, na realidade não 6 mais do que* o respeito da lei (da honestidade, etc.) de qu e essa
+pessoa nos dá exemplo. Do mesmo modo que consideramos um dever cultivar nossos talentos,
+assim também vemos numa pessoa prendada de talentos como que o exemplo de. uma lei (que
+ordena que nos exercitemos cm nos assemelhar-nos nela nisto): eis o que constitui o nosso
+respeito. Tudo quanto se designa interesse moral consiste unicamente no respeito da lei.
+(402) Mas que lei pode ser esta, cuja representação, sem qualquer espécie de
+consideração pelo efeito que dela se espera, deve determinar a vontade, para que esta
+possa ser denominada boa absolutamente e sem restrição ? Após ter despojado a
+vontade de todos os impulsos capazes de nela serem suscitados pela idéia dos resultados
+provenientes da observância de uma lei, nada mais resta do que a conformidade
+universal das ações a uma lei em geral que deva servir-lhe de princípio: noutros termos,
+devo portar-me sempre de modo que eu possa também querer que minha máxima se
+torne em lei universal. A simples conformidade com a lei em geral (sem tomar por
+base uma determinada lei para certas ações) é a que serve aqui de princípio à vontade,
+e por conseguinte deve igualmente servir-lhe de princípio, se o dever não é ilusão vã e
+conceito quimérico. O bom -senso vulgar, no exercício de seu juízo prát ico,
+concorda plenamente com o princípio exposto, e nunca o perde de vista.
+Tomemos, por exemplo, a questão seguinte: ser -me-á lícito, em meio de graves apuros,
+fazer uma promessa com intenção de a não observar ? Não oferece dificuldade
+distinguir os dois sentidos que a questão pode comportar, consoante se deseja saber
+se é prudente, ou se é conforme ao dever, fazer uma promessa falsa. Sem dúvida que
+muitas vezes pode ser prudente; mas é claro que não basta safar-me, mercê deste
+expediente, de um embaraço presente; devo ainda examinar com cuidado se dessa
+mentira não me redundarão, no futuro, aborrecimentos muito mais graves do que
+aqueles de que me liberto neste momento; e como, a despeito de toda minha
+sagacidade, não são fáceis de prever as conseqüências, de meu ato, devo./ recear que
+a perda de confiança por parte de ou trem me acarrete maiores prejuízos que todo o
+mal que neste momento penso evitar. Agirei pois mais sensatamente, portando-
+me, nesta ocorrência em conformidade com uma máxima universal e procurando criar o
+hábito de nada prometer sem intenção de cumprir, Mas depressa se me afigura
+evidente que tal máxima estriba sempre no temor das conseqüências. Ora, uma
+coisa é ser sincero por dever, e outra coisa ser sincero pôr temos das conseqüências
+desagradáveis: no primeiro caso, o conceito da ação em si mesma contém já uma lei
+para mim; mas no segundo caso, preciso, antes de mais nada, tentar descobrir alhures
+quais as conseqüências que se seguirão à minha ação. Porque, se me desvio do
+princípio do dever, cometo decerto uma ação má; mas se abandono minha máxima de
+prudência, posso, em certos casos, auferir daí grandes (403) vantagens, embora, na
+verdade, seja mais seguro ater-me a ela. Afinal de contas, no concernente à resposta a
+esta questão: se uma promessa mentirosa é conforme ao dever, o meio mais rápido e
+infalível de me informar consiste em perguntar a mim mesmo: ficaria eu satisfeito, se
+minha máxima (tirar -me de dificuldades por meio de uma promessa enganadora
+devesse valer como lei universal (tanto para mim como para os outros? Poderei
+dizer a mim mesmo: pode cada homem fazer uma promessa falsa, quando se encontra
+em dificuldades, das quais não logra safar-se de outra maneira ? Deste modo, depressa
+me convenço que posso bem querer a mentira! mas não posso, de maneira nenhuma
+querer uma lei que mande mentir; pois, como conseqüência de tal lei, não mais haveria
+qualquer espécie de promessa, porque seria, de fato, inútil manifestar minha vontade a
+respeito de minhas ações futuras a outras pessoas que não acreditariam nessa
+declaração, ou que, se acreditassem à toa, me retribuiriam depois na mesma moeda; de
+sorte que minha máxima, tão logo fosse arvorada em lei universal, necessariamente se
+destruiria a si mesma.
+Portanto não preciso de possuir grande perspicácia para saber o que devo fazer, a fim de
+que minha vontade seja moralmente boa. Mesmo que me faleça a experiência das coisas
+do mundo, e me sinta incapaz de enfrentar todos os acontecimentos que nele se
+produzem, basta que a mim próprio pergunte: Podes querer qu e também tua máxima se
+converta em lei universal ? Se isso não for possível, deve a máxima, ser rejeitada, não
+precisamente por causa de algum dano que daí possa resultar para ti ou também pára
+outros, mas porque ela não pode ser admitida como princípio de uma possível legislação
+universal. Com efeito, a razão me constrange a um respeito imediato para com essa
+legislação; e se, de momento, não enxergo ainda qual seja o fundamento de tal respeito
+(o que pode ser objeto de pesquisa por parte do filósofo), ao menos compreendo bem
+que se trata aqui de apreciar um valor que sobrepuja o valor de tudo o que é exaltado
+pela inclinação, e que a necessidade em que me encontro de agir por puro respeito à lei
+prática, constitui o que se denomina dever, perante o qual qualquer outro motivo deve
+ceder, visto ele ser a condição de uma vontade boa em si, cujo valor está acima de tudo.
+Por esta forma, no conhecimento moral da razão humana comum, chegamos àquilo que
+é o princípio da mesma, princípio que, por certo, ela não concebe assim separado numa
+forma universal, mas que, no entanto, sempre tem diante (404) dos olhos, e do qual se
+serve como de regra de seu juízo. Muito fácil seria mostrar aqui como, com este
+compasso na mão, a razão possui, em todos os casos supervenientes, plena competência
+para distinguir o que é bom e o que é mau, o que é conforme e o que é contrário ao
+dever, bastando que, sem nada lhe ensinarem de novo e aplicando apenas o método de
+SÓCRATES , a tornem simplesmente atenta a seu próprio princípio; mostrando-lhe como
+não precisa de ciência nem de filosofia para saber como é que uma pessoa se deve
+portar para ser honesta e boa, e até sábia e virtuosa. Já desde o inicio
+se podia supor que o conhecimento daquilo que a todo homem compete fazer, e por
+conseguinte também saber, é propriedade de todos os seres humanos, por vulgares que
+sejam. A este propósito, não pode deixar de causar admiração o fato de, na inteligência
+comum da humanidade, a faculdade de julgar em matéria prática prevalecer
+grandemente sobre a faculdade de julgar em matéria teorética. Nesta última, quando a
+razão comum ousa afasta-se das leis da experiência e das percepções dos sentidos, ela
+cai em manifestos absurdos e contradições consigo mesma, cai pelo menos num caos de
+incertezas de obscuridades e de inconseqüências. Pelo contrário, em matéria prática^ a
+faculdade de julgar começa justamente a mostrar suas vantagens, quando a inteligência
+comum exclui das leis práticas todos os impulsos sensíveis. Ela torna-se então sutil,
+quer queira chicanar com a sua consciência ou com outras opiniões relativas àquilo que
+deve ser considerado honesto, quer pretenda, para sua própria instrução, determinar
+exatamente o valor das ações; e, o que é sumamente importante, pode ela, neste último
+caso, esperar ser bem sucedida na tarefa de determinar o valor das ações, tão bem
+quanto qualquer filósofo; mais ainda, pode proceder com maior segurança do que este,
+porque o filósofo, não dispondo de outros princípios diferentes dos dela, pode deixar-se
+enredar facilmente por uma série de considerações estranhas ao assunto, que o desviam
+do reto caminho. Não seria, portanto, mais sensato, ater-se, nas questões morais, ao
+juízo da razão comum, e não recorrer à filosofia senão para expor, quando muito, o
+sistema da moralidade de maneira mais completa e mais compreensiva, para apresentar
+as regras, que lhe dizem respeito, de maneira mais cômoda para o uso (e mais ainda para
+a discussão), nunca porém para privar a inteligência humana, mesmo do ponto de vista
+prático, de sua ditosa simplicidade, nem para fazer que ela enverede, com o auxílio da
+filosofia, por um novo caminho de investigação e de instrução ?
+Esplêndida coisa é a inocência; mas é para lamentar que ela não saiba preservar-se e que
+se deixe seduzir com tanta facilidade. Pelo que,"a sabedoria-—que, aliás, consiste mais
+na conduta do que no saber —precisa também da ciência, não para dela tirar
+ensinamentos, senão para garantir a suas prescrições, influência e estabilidade. O
+homem sente, em seu foro íntimo, potente força de oposição a todos os preceitos do
+dever que a razão lhe apresenta como altamente dignos de respeito; e esta força é
+constituída por suas necessidades e inclinações, cuja satisfação completa se compendia
+naquilo a que dá o nome de felicidade. Ora, a razão enuncia seus preceitos, sem
+condescender com as inclinações, sem nunca ceder; por conseguinte, com uma espécie
+de desdém e sem consideração de espécie alguma por aquelas pretensões tão impetuosas
+e, por isso mesmo, aparentemente tão legítimas (que não consentem em se deixar
+suprimir por nenhum preceito). Daqui procede uma Dialética natural, ou seja, uma
+tendência para sofisticar contra aquelas severas leis do dever e pôr em dúvida a validade
+ou, ao menos, a pureza e o rigor das mesmas, bem como para tentar adaptá-las o mais
+possível a nossos desejos e inclinações; por outras palavras, para corrompê-las cm sua
+essência e destituí-las de toda dignidade: coisa que a razão prática vulgar, não pode, por
+forma alguma, aprovar.
+Assim, a razão humana comum é impelida, não por necessidade de especulação
+(necessidade que ela não sente, enquanto se contenta cm ser apenas a sã razão), mas por
+motivos práticos, a sair de sua esfera e a dar um. passo no campo de uma filosofia
+prática, para recolher informações exalas e explicações claras acerca da origem do seu
+princípio e da definição precisa do mesmo, em oposição às máximas que estribam nas
+necessidades e inclinações. Por este meio, espera ela poder safar-se da dificuldade em
+presença de pretensões opostas e não correr o risco de perder, em conseqüência dos
+equívocos em que facilmente poderia incorrer, todos os genuínos princípios morais.
+Deste modo se desenvolve insensivelmente no uso prático da razão comum, quando esta
+é cultivada, uma Dialética, que a constringe a buscar auxílio na filosofia, tal como lhe
+acontece no uso teórico; e, assim, tanto no primeiro caso como no segundo, ela não
+pode encontrar repouso senão numa crítica completa da nossa razão;
+SEGUNDA SECÇÃO
+Passagem da filosofia moral popular à metafísica dos costumes
+SE ATÉ AQUI derivamos do uso comum de nossa razão prática o conceito do dever, nem
+por isso devemos concluir que o tratamos como sendo um conceito empírico. Ao invés,
+se voltarmos a atenção para a experiência do comportamento positivo e negativo dos
+homens, deparamos com contínuas e, segundo se nos afigura, justas queixas, sobre
+nossa impossibilidade de aduzir exemplos certos, que nos permitam julgar se houve a
+intenção de agir por puro dever. Muitas ações podem ser conformes àquilo que o dever
+prescrevessem que por isso desapareça a dúvida de que tenham sido realmente
+cumpridas por dever e, por conseguinte, de que possuam valor moral. Eis por que
+houve, em todos os tempos, filósofos que negaram absolutamente a realidade desta
+intenção às ações humanas, e que as atribuíram todas a um amor-próprio mais ou menos
+apurado. Não punham eles em dúvida a exatidão do conceito de moralidade. Pelo
+contrário, lamentavam grandemente a fraqueza e impureza da natureza humana, a qual,
+se por um lado é suficientemente nobre para tomar como regra de conduta uma idéia tão
+digna de respeito, por outro lado é demasiado fraca para a seguir; e que, além disso, se
+utiliza da razão, que deveria ditar-lhe leis, apenas para favorecer o interesse das
+inclinações, quer escolhendo uma entre as demais, quer, ao sumo, conciliando-as entre
+si da melhor maneira possível.
+De fato, é absolutamente impossível estabelecer, (407) mediante a experiência, com
+plena certeza, um só caso, em que a máxima de uma ação, aliás, conforme ao dever,
+estribe na Representação do dever. Na verdade, acontece, por vezes, que, malgrado o
+mais escrupuloso exame de nós próprios, não encontramos absolutamente motivo que,
+fora do princípio moral do dever, tenha sido capaz de nos incitar à prática desta ou
+daquela boa ação, deste ou daquele grande sacrifício; mas daqui não se pode
+com certeza concluir que um secreto impulso do amor-próprio, sob a simples miragem
+da idéia do dever, não tenha sido a verdadeira causa determinante da vontade. Na
+verdade, de bom grado nos lisonjeamos, atribuindo -nos falsamente um princípio de
+determinação mais nobre; de fato, porém, nunca podemos, nem mesmo mediante o
+mais rigoroso exame, penetrar inteiramente em nossos mais secretos impulsos.
+Ora, quando se trata de valor moral, o que importa não são as ações exteriores que se
+vêem, mas os princípios internos da ação, que se não vêem.
+Àqueles que zombam de toda moral, como de quimera da imaginação humana, que por
+presunção a si mesma se exalta, não se pode prestar serviço mais conforme a seus
+desejos, do que conceder-lhes que os conceitos do dever (bem como por comodidade se
+crê facilmente serem todos os outros conceitos) devem ser derivados exclusivamente da
+experiência; pois assim se lhes prepara um triunfo seguro. Por amor da humanidade,
+concedo que a maior parte das nossas ações seja conforme ao dever; mas, examinando
+de mais perto o móbil e fim delas, esbarramos por toda a parte com o Eu querido, que
+termina sempre por levar a melhor. Sobre este Eu, e não sobre o rígido comando do
+dever, que as mais das vezes exigiria a abnegação de nós próprios, se fundamenta o
+impulso donde tais ações promanam. Sem ser precisamente inimigo da virtude, basta
+observar com sangue frio e não confundir o bem com o vivo desejo de o ver realiz ado,
+para que, em certas circunstâncias (principalmente em idade já avançada, e quando se
+tem a faculdade de julgar, por um lado, amadurecida pela experiência e, por outro lado,
+aguçada pela observação) duvidemos de que realmente se possa encontrar no mundo
+alguma virtude verdadeira. Por conseguinte, para nos preservar da falência total de
+nossas idéias sobre o dever, bem como para manter na alma um respeito bem fundado
+da lei que o prescreve, nenhuma outra coisa existe, a não ser a convicção clara de que,
+mesmo quando nunca houvessem sido praticadas ações derivadas de fontes tão puras, o
+que importa não é saber se este ou aquele ato se verificou mas sim que a razão por si
+mesma, e independentemente (408) de todos os fenômenos, ordena o que eleve
+acontecer; e que, conseqüentemente, ações, de que o mundo até hoje nunca talvez tenha
+oferecido exemplo, e cuja possibilidade de execução poderia ser posta fortemente em
+dúvida por aquele mesmo que tudo fundamenta sobre a experiência, são prescritas sem
+remissão alguma pela razão. Por exemplo, a pura lealdade na amizade, embora até ao
+presente não tenha existido nenhum amigo leal, e imposta a todo homem
+essencialmente,.pelo fato de tal dever estar implicado..como dever em geral,
+anteriormente a toda experiência, na idéia de uma razão que determina a vontade
+segundo princípios a priori.
+Acrescente-se que, a não ser que se conteste ao conceito moral toda verdade e toda
+relação com qualquer objeto possível, não se pode desconhecer que a lei moral possua
+um significado a tal ponto extenso que deva ser válida não só para os homens, mas para
+todos os seres racionais em geral, e isto não só debaixo de condições contingentes e
+com exceções, mas de maneira absolutamente necessária; assim sendo, manifesto que
+nenhuma experiência pode levar à. conclusão da simples possibilidade de tais leis
+apodícticas. Pois, com que direito poderemos converter em objeto de respeito ilimitado,
+em prescrição universal para toda natureza racional, o que [talvez não vale senão para as
+condições contingentes da humanidade ? E como é que as leis de determinação de nossa
+vontade deveriam ser tomadas como leis de determinação da vontade do ser racional em
+geral e, apenas nessa qualidade, como leis igualmente aplicáveis à nossa própria
+vontade, se elas fossem puramente empíricas, e não derivassem sua origem
+completamente a priori de uma razão pura, mais pratica ?
+Além disso, não se poderia prestar pior serviço à moralidade, do que fazê-la derivar de
+exemplos. Porque todo exemplo, que me seja proposto, deve primeiramente ser julgado
+segundo os princípios da moralidade, para se poder saber se merece servir de exemplo
+original, isto é, de modelo; mas não pode, por forma alguma, fornecer por si só, e
+primariamente, o conceito de moralidade. Mesmo o Justo do Evangelho deve ser
+primeiramente confrontado com o nosso ideal de perfeição moral, para que possa ser
+reconhecido como tal; por isso, ele diz de si mesmo: "Por que me chamais bom (a mim
+que vedes) ? Ninguém é bom (o protótipo do bem) senão (409) Deus (a quem não
+vedes)". Mas donde nos advém o conceito de Deus considerado como supremo bem ?
+Unicamente da idéia que a razão traça a priori da perdição moral, e que ela liga
+indissoluvelmente ao conceito de uma vontade livre. Em matéria moral não tem
+cabimento a imitação, e os exemplos servem apenas de estímulo, isto é, põem fora de
+dúvida a {possibilidade daquilo que a lei impõe, tornam evidente aquilo que a lei prática
+exprime de modo mais geral; mas nunca logram autorizar que ponhamos de parte o seu
+verdadeiro original, que reside na razão, e que regulemos por eles o nosso
+procedimento.
+Portanto, se não há nenhum autêntico princípio supremo de moralidade, que não deva
+apoiar-se unicamente na razão pura, independentemente de toda experiência, penso não
+ser sequer necessário perguntar se vale a pena expor estes conceitos sob forma universal
+(in abstracto). tais como existem a priori, juntamente com os princípios que lhes dizem
+respeito, dado que o conhecimento propriamente dito deve distinguir-se do
+conhecimento vulgar e denominar-se filosófico. Mas, em nossos dias, talvez seja
+necessário pôr esta questão. Com efeito, se se procedesse a uma votação para averiguar
+qual deva ser preferido, se o conhecimento racional puro isento de todo elemento
+empírico, e portanto a metafísica dos costumes, ou se a filosofia prática popular,
+depressa se descobriria para que lado pende a balança.
+De fato, é muito louvável este processo de descer aos conceitos populares, contanto que
+primeiro nós tenhamos elevado aos princípios da razão pura, de modo que o espírito
+quede plenamente satisfeito. Proceder deste modo equivale a fundamentar a doutrina
+dos costumes sobre uma metafísica, e, depois de esta ter sido firmada em base sólida, a.
+torná-la acessível a todos, por meio da vulgarização. Mas seria extremamente absurdo
+aquiescer com este processo de agir desde as primeiras investigações, das quais depende
+a exatidão dos princípios. Tal maneira de proceder jamais poderia pretender para si o
+mérito extremamente raro de uma verdadeira vulgarização filosófica, porque, de fato,
+não é difícil fazer-se compreender do comum dos homens, quando para isso se renuncia
+a toda profundidade de pensamento; mas redundaria em fastidiosa mescla de
+observações a trouxe-mouxe amontoadas e de princípios de uma razão só a meias
+raciocinante, na qual somente cérebros vazios se repastam, porque, apesar de tudo, há aí
+alguma coisa de útil para os bate-papos de todos os dias; mas os espíritos clarividentes
+só encontram aí confusão, e insatisfeitos, sem saberem que partido tomar, desviam a
+(410) atenção. Quanto aos filósofos, que não se deixam iludir por aparências enganosas,
+esses não desfrutam de grande aceitação, sempre que se propõem suspender, por um
+tempo, a pretensa vulgarização, a fim de poderem com direito tornar-se populares, só
+depois de haverem obtido conhecimentos bem definidos.
+Basta examinar ao de leve as obras de moral compostas em conformidade com aquele
+gosto preferido, para nelas se encontrar ora a idéia do destino peculiar da natureza
+humana (de quando em quando, aparece também a idéia de uma natureza racional em
+geral), ora a perfeição, ora a felicidade; aqui, o sentimento moral, ali, o temor de Deus;
+um pouco disto e também um pouco daquilo, em maravilhosa confusão, sem que ao
+espírito ocorra perguntar se é propriamente no conhecimento da humana natureza (que,
+decerto, não pode provir senão da experiência) que se devem procurar os princípios da
+moralidade. Se assim não for, se estes princípios devem ser encontrados completamente
+a priori, independentemente de toda matéria empírica, e só nos puros conceitos da razão
+e em nenhuma outra parte, mesmo assim a ninguém ocorre a idéia de isolar
+completamente esta investigação, para considerá-la como pura filosofia prática (ou, se é
+lícito empregar um nome tão suspeito), como Metafísica (*) dos costumes, como nem a
+idéia de desenvolvê-la até ser cabalmente perfeita e de exortar o público, ávido de
+vulgarização, que contemporize até a empresa ser levada a bom termo.
+(*) Do mesmo modo que se dist ingue a matemática pura da matemática aplicada,
+e a lógica pura da lógica aplicada, também, se quisermos, é possível distinguir a
+filosofia pura dos costumes (Metafísica) da filosofia dos costumes aplicada (á
+natureza humana). Toda esta terminologia nos mostra imediata- mente que os
+princípios morais não devem ser fundados sobre as propriedades da natureza humana, mas
+devem existir por si mesmos a priori;'e que de tais princípios é que devem ser derivadas regras
+práticas válidas para toda natureza racional, e portanto também para a natureza humana.
+Ora, uma tal metafísica dos costumes completamente isolada, não imiscuída de
+antropologia, nem de teologia, nem de física ou de hiperfísica menos ainda de quaisquer
+qualidades ocultas (que se poderiam denominar hipofísicas), não é apenas o
+indispensável substrato de toda teoria dos deveres claramente definida, mas é
+igualmente um desiderato da mais alta importância para o cumprimento efetivo de suas
+prescrições. Com eleito, a representação do dever, e em geral da lei moral, quando é
+pura, ou seja, não mesclada de acréscimos estranhos de impulsos sensíveis, exerce sobre
+o coração humano, por via da só razão (a qual então, pela primeira vez, se dá conta de
+que pode ser prática por si mesma) uma influência muito mais eficaz do que a de todos
+os outros (411) impulsos (*) que se podem invocar no domínio da experiência, de sorte
+que a razão, cônscia de sua dignidade, despreza esses impulsos e pouco a pouco se torna
+capaz de os dominar. Ao invés, uma doutrina moral bastarda e confusa, formada de
+impulsos derivados de sentimentos e de inclinações, e ao mesmo tempo de conceitos da
+razão, torna necessariamente o espírito hesitante entre motivos de ação irredutíveis a
+qualquer princípio, e que só por acaso podem guiar ao bem, mas muitas vezes também
+podem conduzir ao mal.
+(*) Tenho uma carta do falecido Sulzer (8-1), na qual me pergunta por que motivo as doutrinas
+da virtude, por mais convincentes que possam ser para a razão, possuem tão pouca eficácia.
+Adiei a resposta, para que esta pudesse sair completa. A resposta é só uma, a saber: aqueles
+mesmos que ensinam tais doutrinas não reconduziram seus princípios ao estado de pureza e,
+querendo procedei demasiado bem, enquanto procuram principalmente motivos que incitem ao
+bem moral, a fim de tornarem o remédio mais enérgico, o estragam. Consoante o mostra a mais
+comezinha observação, se se apresentar um ato de probidade, imune de iodo fim interessado
+neste mundo ou no outro, praticado por um Animo corajoso no meio das maiores tentações,
+provocadas pela miséria ou pelo atrativo de certas vantagens, ele deixa atrás de si e eclipsa
+qualquer outro ato análogo, que também só em mínima escala haja sido causado por um impulso
+estranho; ele eleva a alma e excita o desejo de proceder do mesmo modo. Até mesmo crianças
+de meia idade experimentam esta impressão, o penso que nunca os deveres lhes deviam ser
+expostos senão desta maneira.
+De quanto precede ressalta que todos; os conceitos morais têm sua sede e origem
+completamente a priori na razão, na razão humana mais comum tanto quanto na razão
+que se eleva ao alto grau de especulação; que eles não podem ser abstraídos de nenhum
+conhecimento empírico, e, por conseguinte puramente contingente que a pureza de sua
+origem é justamente o que os torna dignos de servirem de princípios práticos supremos;
+que quanto mais se lhes acrescenta de empírico, tanto mais diminui sua verdadeira
+influência e o valor absoluto das ações; que não é só exigência da mais premente
+necessidade, do ponto de vista teórico, em que se trata tão-somente de especulação, mas
+que é ainda da maior importância prática criar estes conceitos e estas leis, tirando-os da
+razão pura, sem mescla de qualquer espécie; e mais ainda, determinar o âmbito de todos
+estes conhecimentos racionais práticos ou puros, isto é, determinar todo o poder da
+razão pura prática, abstendo-se, contudo (na medida em que a filosofia especulativa o
+permita e mesmo, por vezes, encontre necessário) de fazer depender tais princípios da
+natureza especial da razão humana; mas, antes já (412) que as leis morais devem ser
+válidas para todo ser racional em geral, deduzindo-as do conceito universal de um ser
+racional em geral. Deste modo, toda a moral, que em sua aplicação à humanidade
+precisa da antropologia, será exposta, independentemente desta última ciência, como
+filosofia pura, isto é, como metafísica, e isto de modo completo (o que é fácil de fazer
+neste gênero de conhecimento inteiramente separado). E convém ter presente que, sem
+estar de posse desta metafísica, é trabalho inútil, não digo o determinar exatamente por
+meio do juízo especulativo o elemento moral do dever em tudo o que é conforme ao
+dever; mas que é impossível, em tudo o que concerne puramente ao uso comum e
+prático, e particularmente à instrução moral, fundamentar a moralidade sobre seus
+verdadeiros princípios, produzir, mediante ela, sentimentos morais puros e infundi-los
+nas almas, para que daí redunde o maior bem no mundo.
+Ora, para progredir neste trabalho, avançando por gradações naturais, não simplesmente
+do juízo moral comum (aqui muito apreciável) ao juízo filosófico, como já foi indicado,
+mas de uma filosofia popular, que não vai mais além do que ela pode alcançar as
+apalpadelas por meio de exemplos, até à metafísica. (que não se deixa deter por
+nenhuma influência empírica, e que, devendo medir todo o domínio do conhecimento
+racional desta espécie, se ergue, em todo caso, até à região das Idéias, onde os próprios
+exemplos nos abandonam), importa seguir e expor claramente a potência prática da
+razão, partindo das suas regras universais de determinação até ao ponto em que dela
+brota o conceito do dever.
+Todas as coisas na natureza operam segundo leis. Apenas um ser racional possui a
+faculdade de agir segundo a representação das leis, isto é, segundo princípios, ou, por
+outras palavras, só ele possui uma vontade. E, uma vez que, para das leis derivar as
+ações, é necessária a razão, a vontade outra coisa não é senão a razão prática. Quando,
+num ser, a razão determina infalivelmente a vontade, as ações deste ser, que são
+Reconhecidas objetivamente necessárias, são necessárias também subjetivamente; quer
+dizer que então a vontade é uma faculdade de escolher somente aquilo que a razão,
+independentemente de toda inclinação, reconhece como praticamente necessário, isto é,
+como bom. Mas se a razão não determina suficientemente por si só a vontade, se esta é
+ainda subordinada (413) a condições subjetivas (ou a certos impulsos) que nem sempre
+concordam com as condições objetivas; numa palavra, se a vontade não é cm si
+completamente conforme à razão (como acontece realmente com os homens), então as
+ações reconhecidas necessárias objetivamente são subjetivamente contingentes, e a
+determinação de uma tal vontade conformemente a leis objetivas é uma coação; por
+outras palavras, a relação das leis objetivas com uma vontade não completamente boa é
+representada como sendo a determinação da vontade de um ser racional por meio de
+princípios da razão, aos quais entanto aquela vontade, mercê de sua natureza, não é|
+necessariamente dócil.
+A representação de um princípio objetivo, na medida em que coage a vontade,
+denomina-se mandamento (da razão), e a fórmula do mandamento chama-se
+IMPERATIVO.
+Todos os imperativos são expressos pelo verbo (dever e indicam, por esse modo, a
+relação entre uma lei objetiva da razão e uma vontade que, por sua constituição
+subjetiva, não é necessariamente determinada por essa lei (uma coação )- Declaram
+eles, que seria bom fazer tal coisa ou abster-se dela, mas declaram -no a uma vontade
+que nem sempre faz uma coisa, porque lhe é apresentada como boa para ser feita.
+Portanto, praticamente é bom o que determina a vontade por meio de representações da
+razão, isto é, não em virtude de causas subjetivas, mas objetivamente, quer dizer por
+meio de princípios que são válidos para todo ser racional enquanto tal. O bem prático é,
+pois, distinto do agradável, isto é, do que exerce influxo sobre a vontade unicamente
+por meio da sensação, por causas puramente subjetivas, válidas apenas para a
+sensibilidade deste e daquele, e não como princípio da razão, válido para todos (*).
+Uma vontade perfeitamente boa estaria, pois, tão (414) sujeita ao império de leis
+objetivas (leis do bem) quanto uma vontade imperfeita; mas nem por isso poderia ser
+representada como coagida a ações conformes à lei, porque, mercê de sua constituição
+subjetiva, ela só pode ser determinada pela representação do bem. Eis por que não há
+imperativo válido para a vontade divina, e em geral para uma vontade santa; o dever
+não tem aqui cabimento, porque o querer já por si é necessariamente concorde com a
+lei. Por isso, os imperativos são apenas fórmulas que exprimem a relação entre as leis
+objetivas do querer em geral e a imperfeição subjetiva da vontade deste ou daquele ser
+racional, por exemplo, da vontade humana.
+.
+(*) A dependência da faculdade apetitiva a respeito de sensações denomina-se
+inclinação, e, por conseguinte, esta é sempre prova de uma necessidade. A
+dependência de uma vontade, capaz de ser determinada de modo contingente
+pelos princípios da razão, chama-se interesse. O interesse encontra-se, pois, tão-
+somente numa vontade dependente, a qual não é por si mesma sempre conforme
+à razão; na vontade divina é impossível conceber qualquer interesse. Mas
+também a vontade humana pode tomar interesse por uma coisa, sem por isso
+agir por interesse. A primeira expressão significa o interesse prático pela ação; a
+segunda, o interesse patológico pelo objeto da ação. A primeira indica apenas a
+dependência da vontade a respeito dos princípios da razão em si mesma; a
+segunda, a dependência da vontade a respeito dos princípios da razão posta ao
+serviço da inclinação, no qual caso, a razão ministra somente a regra prática para
+poder satisfazer as necessidades da inclinação. No primeiro caso, interessa-me a
+ação; no segundo, interessa-me o objeto da ação (na medida em que me é
+agradável). Na Primeira Secção, verificamos que, numa ação executada, por
+dever, importa considerar, não o interesse pelo objeto, mas unicamente o
+Interesse pela própria ação e seu princípio racional (a lei).
+Ora, todos os Imperativos preceituam ou hipoteticamente ou categoricamente. Os
+imperativos hipotéticos representam a necessidade de uma ação possível, como meio
+para alcançar alguma outra coisa que se pretende (ou que, pelo menos, é possível que se
+pretenda). O imperativo categórico seria aquele que representa uma ação como
+necessária por si mesma, sem relação com nenhum outro escopo, como objetivamente
+necessária.
+.
+Dado que toda lei prática representa uma ação possível como boa é, conseguintemente,
+como necessária para um sujeito capaz de ser determinado praticamente pela razão,
+todos os imperativos são fórmulas, pelas quais é determinada a ação que, segundo os
+princípios de uma vontade de qualquer modo boa, é necessária. Ora, quando a ação
+não é boa senão como meio de obter alguma outra coisa , o imperativo é hipotético;
+mas, quando a ação é representada como boa em si, e portanto como necessária numa
+vontade conforme em si mesma a razão considerada como princípio do querer, então o
+imperativo é categórico.
+O imperativo indica, pois, qual ação, para mim possível. I seria boa, e representa a regra
+prática em relação com uma vontade que não executa imediatamente urna ação porque é
+boa, em parte porque o sujeito não sabe sempre se ela é boa, e, em parte, porque,
+mesmo que o soubesse, suas máximas poderiam, não obstante, ser contrárias aos
+'princípios objetivos de uma razão prática.
+(415) O imperativo hipotético significa, portanto, apenas, que a ação é boa com relação
+a um escopo possível ou real. No primeiro caso, é um princípio PROBLEMÀTICAMENTE
+prático; no segundo caso, é um princípio ASSERTORICAMENTE prático. Pelo contrário, o
+imperativo categórico, que declara a ação como objetivamente necessária por si mesma,
+sem relação com algum fim, isto é, sem qualquer outro fim, tem o valor de princípio
+APODÍCTICAMENTE prático.
+Podemos imaginar que tudo quanto é possível apenas pelas forças de algum ser racional
+é também um escopo possível para qualquer vontade; por isso, os princípios da ação,
+enquanto esta é representada como necessária para a aquisição de algum fim possível,
+susceptível de ser por ela realizado, são, de fato, infinitos em número- Todas as ciências
+têm uma parte prática, constante de problemas que supõem que qualquer fim é possível
+para nós, e de imperativos que indicam como tais fins podem ser alcançados. Estes
+imperativos podem, por isso, chamar-se em geral imperativos da HABILIDADE. Não se
+trata, neste caso, de saber se o escopo é racional e bom, mas só de saber o que se deve
+fazer para o alcançar. As prescrições que um médico segue para curar radicalmente o
+seu enfermo, e as do envenenador para o matar seguramente, têm igual valor, na medida
+em que umas e outras servem para realizar perfeitamente o escopo que se tem em vista.
+Como nos primeiros anos da juventude ignoramos as surpresas que a vida nos reserva
+no porvir, os pais empenham-se principalmente em que os filhos aprendam quantidade
+de coisas diversas, e cuidam em que eles se tornem hábeis no uso dos meios necessários
+para alcançarem toda sorte de fins desejáveis. São eles incapazes de saber se algum
+desses fins virá a ser, mais tarde, realmente desejado por seus filhos, mas ê possível que
+isso aconteça um dia; e esta preocupação é tão grave, que eles comumente se descuidam
+de formar e corrigir o juízo dos filhos acerca do valor das coisas que estes poderiam
+propor-se como fins.
+Há todavia um escopo, que se pode supor real para todos os seres racionais (na medida
+em que os imperativos se aplicam a estes seres considerados como dependentes);
+portanto, um escopo que eles não só podem propor-se, mas do qual se pode certamente
+admitir que todos o propõem a si efetivamente, em virtude de uma necessidade natural, e
+este escopo é a felicidade. O imperativo categórico, que apresenta a necessidade prática
+da ação como meio para alcançar a felicidade, é ASSERTÓRIO. Não podemos apresentá-lo
+simplesmente tomo indispensável à realização de um fim incerto, puramente possível,
+mas de um fim que se pode seguramente e a priori supor em todos os homens, porque
+faz parte da natureza (416) deles. Pode dar-se o nome de prudência (*), com a condição
+de tomar este vocábulo em seu mais estrito significado! à habilidade em escolher os
+meios que nos proporcionam maior bem-estar. Sendo assim, o imperativo que se refere
+à escolha dos meios capazes de assegurar nossa felicidade pessoal, isto é, a prescrição
+da prudência, é sempre hipotético; a ação é ordenada, não de modo absoluto, mas só
+como meio de alcançar outro escopo.
+(*) A palavra prudência é tomada em duplo sentido: no primeiro sentido, designa a prudência
+nas relações que lemos com o mundo; no segundo sentido, a prudência pessoal. A primeira
+indica a habilidade que um homem possui de aluar sobre outros, para deles se servir em
+benefício de seus fins. A segunda é a sagacidade em fazer convergir estes fins para sua vantagem
+pessoal e estável.A esta última se reduz propriamente o valor da primeira; e daquele que é
+prudente no primeiro sentido, não o sendo no segundo, com melhor razão se diria (pie é
+engenhoso e astuto, mas, em suma, imprudente.
+Enfim, há um imperativo que, sem assentar como condição fundamental a obtenção de
+um escopo, ordena imediatamente este procedimento. Tal imperativo é CATEGÓRICO.
+Diz respeito, não à matéria da ação, nem às conseqüências que dela possam redundar,
+mas à forma e ao princípio donde ela resulta; donde, o que no ato há de essencialmente
+bom consiste na intenção, sejam quais forem as conseqüências. A este imperativo pode
+dar-se o nome de IMPERATIVO DA MORALIDADE.
+O ato de querer segundo estas três espécies de princípios é ainda claramente
+especificado pela diferença que existe no gênero de coação por eles exercida sobre a
+vontade. Para tornar sensível esta diferença, penso não haver maneira mais apropriada
+de os designar em sua ordem do que dizendo: tais princípios são ou regras da
+habilidade, ou conselhos da prudência, ou ordenações (leis) da moralidade. De fato, só a
+lei implica em si o conceito de necessidade incondicionada, verdadeiramente objetiva e,
+conseqüentemente, válida para todos, e as ordenações são leis a que é mister obedecer,
+isto é, devem ser seguidas, mesmo quando contrariam a inclinação. Os conselhos
+implicam, sem dúvida, uma necessidade, mas uma necessidade só válida sob uma
+condição subjetiva contingente, consoante este ou aquele homem considera esta ou
+aquela coisa como parte de sua felicidade; ao invés, o imperativo categórico não é
+limitado por nenhuma condição, e como é absolutamente, embora praticamente,
+necessário, pode propriamente ser denominado prescrição. Aos imperativos da primeira
+espécie podemos ainda dar o nome de técnicos (417) (referentes à arte); aos da segunda
+espécie, o de pragmáticos (*) (referentes ao bem-estar); aos da terceira espécie, o de
+morais (referentes ao livre comportamento em geral, isto é, aos costumes).
+(*) Parece-me que o significado próprio da palavra pragmático pode ser exatamente determinado
+deste modo. Com efeito, chamam -se pragmáticas as sanções que não derivam propriamente do
+direito dos Estados como leis necessárias, mas sim da solicitude pelo bem-estar geral. Uma
+história è composta pragmaticamente, quando nos torna prudentes, isto é, quando ensina à
+sociedade hodierna os meios de cuidarem de seus interesses melhor ou, pelo menos, tão bem
+como a sociedade de outros tempos.
+Apresenta-se aqui a questão: como são possíveis todos estes imperativos ? Esta questão
+visa a indagar a maneira de imaginar, não o cumprimento da ação que o imperativo
+ordena, mas tão-somente a coação da vontade que o imperativo exprime, na tarefa que
+propõe. Como seja possível um imperativo da habilidade, é coisa que decerto não requer
+peculiar explicação. Quem quer o fim, quer também (na medida em que a razão tem
+influxo decisivo sobre suas ações) os meios indispensàvelmente necessários de o
+alcançar, e que estão em seu poder. Esta proposição é, no que respeita ao querer,
+analítica, porque o ato de querer um objeto, efeito de minha atividade, supõe já a minha
+causalidade, como causalidade de uma causa agente, isto é, o uso dos meios; e o
+imperativo extrai, do conceito da volição de um fim, a idéia das ações necessárias para
+chegar a esse fim (sem dúvida, para determinar os meios aptos para alcançar um escopo
+prefixado, são absolutamente exigidas proposições sintéticas, mas estas referem-se ao
+princípio de realização, não do ato da vontade, mas do objeto). Que para dividir,
+segundo um princípio certo, uma linha reta em duas partes iguais, eu deva traçar desde
+as extremidades desta linha dois arcos de círculo, a matemática o ensina unicamente por
+meio de proposições sintéticas; mas que, sabendo que por este processo só se obtém o
+objeto proposto, eu, querendo plenamente o efeito, deva querer igualmente a ação por
+ele exigida, é uma proposição analítica; pois que, representar-me uma coisa como um
+efeito que eu posso produzir de certo modo, e representar-me a mim mesmo, em relação
+a esse efeito, como agindo do mesmo modo, é, de fato, uma e a mesma coisa.
+Os imperativos da prudência concordariam plenamente com os da habilidade, e seriam
+igualmente analíticos, sei fosse fácil dar um conceito determinado da felicidade. Pois
+tanto aqui como ali se poderia dizer que quem quer o fim quer também necessariamente
+segundo a razão) os (418) meios indispensáveis para o obter, que estejam ao seu
+alcance. Mas, por desgraça, o conceito da felicidade é conceito tão indeterminado que,
+não obstante o desejo de todo homem de ser feliz, ninguém todavia consegue dizer em
+termos precisos e coerentes o que verdadeiramente deseja e quer. A razão disso é que os
+elementos, que integram o conceito da felicidade, são todos quantos empíricos, isto é,
+devem ser extraídos da experiência, e, não obstante, a idéia da felicidade implica a idéia
+de um todo absoluto, um máximo de bem-estar no meu estado presente e em toda minha
+condição futura. Ora, é impossível que um ser, embora imensamente perspicaz e, ao
+mesmo tempo, potentíssimo, mas finito, faça uma idéia determinada daquilo que
+verdadeiramente quer. Quer ele riqueza ? Que de preocupações, invejas, ciladas não vai
+atrair sobre si! Quer maior soma de conhecimentos e de ilustração ? Talvez isso lhe
+aumente o poder de penetração e a perspicácia do olhar, lhe revele de maneira ainda
+mais terrível os males que por ora lhe estão ocultos e que não podem ser evitados ou
+incremente a exigência de seus desejos que muito a custo consegue satisfazer. Quer vida
+longa ? E quem lhe afiança que ela não se converteria em longo sofrimento ? Quer, ao
+menos, a saúde ? Mas quantas vezes a indisposição do corpo impediu excessos, em que
+uma perfeita saúde o teria feito cair ! E assim por diante. Em suma, ele é incapaz de
+determinar com plena certeza segundo qualquer princípio, o que o tornará
+verdadeiramente feliz, pois para tal precisaria de ser onisciente. Portanto, para ser feliz,
+não é possível agir segundo princípios determinados, mas apenas segundo conselhos
+empíricos, que recomendam, por exemplo, um regime dietético, a economia, a
+delicadeza, a reserva, etc, coisas estas que, de acordo com os ensinamentos da
+experiência, contribuem, em tese, grandemente, para o bem-estar. Donde se segue que
+os imperativos da prudência, rigorosamente falando, não podem ordenar coisa alguma,
+isto é, não podem apresentar ações de maneira objetiva como praticamente necessárias.
+É mister considerá-los, antes, como conselhos (consilia), do que como preceitos
+(praecepta) da razão. O problema de determinar, de maneira certa e geral, quais as
+ações capazes de favorecer a felicidade de um ser racional, é problema, de fato,
+insolúvel, e, por conseguinte, relativamente a ele, não há imperativo capaz de ordenar,
+no sentido rigoroso da palavra, que se faça aquilo que dá a felicidade, porque a
+felicidade é um ideal, não da razão, mas da imaginação, fundado unicamente (419)
+sobre princípios empíricos, dos quais em vão se espera que possam determinar uma
+ação, um modo de agir, por meio do qual se alcance a totalidade de uma série de
+conseqüências verdadeiramente infinita. Este imperativo da prudência, mesmo
+admitindo que os meios de chegar à felicidade se possam fixar com certeza, seria, em
+todo caso, apenas uma proposição prática analítica, pois se distingue do imperativo da
+habilidade só porque, para este último, o fim é simplesmente possível, ao passo que para
+aquele é dado efetivamente; mas, como ambos prescrevem unicamente os meios para
+alcançar aquilo que se supõe que queremos como fim, o imperativo, que ordena àquele,
+que quer o fim, que queira também os meios, é, nos dois casos, analítico. Acerca de um
+imperativo deste gênero não subsiste, pois, dificuldade.
+Pelo contrário, a possibilidade do imperativo da moralidade é, sem dúvida, a única
+questão que precisa de ser solucionada, porque tal imperativo não é absolutamente
+hipotético, e, por isso, sua necessidade, objetivamente representada, não pode apoiar-se
+em nenhuma suposição, como sucede nos imperativos hipotéticos. Só que não se deve
+aqui perder nunca de vista, que não é possível decidir por meio de algum exemplo, e
+portanto empiricamente, se, na realidade, há algum imperativo deste gênero; convém
+não esquecer que todos os imperativos, que parecem ser categóricos, podem ser
+imperativos hipotéticos disfarçados. Quando, por exemplo, se diz: "não deves fazer
+falsas promessas", e se supõe que a necessidade desta proibição não é simples conselho
+que se deva seguir, a fim de evitar algum mal, não é conselho que se reduza mais ou
+menos a dizer: "não deves fazer falsas promessas, para não perderes o crédito, no caso
+em que se viesse a apurar a verdade"; mas, antes se assevere que uma ação deste gênero
+deve ser considerada em si mesma como má, de modo que o imperativo, que a proíbe,
+seja categórico, todavia não se pode afirmar com certeza, em nenhum exemplo, que a
+vontade não é determinada por nenhum outro impulso, embora o pareça, mas
+unicamente pela lei. Com efeito, é sempre possível que o temor da vergonha, e acaso
+também uma vaga apreensão de outros perigos exerça influência secreta sobre a
+vontade. Como provar, mediante a experiência, a não-existência de uma causa, desde
+que essa experiência não ensina mais do que nossa impossibilidade de distinguir aquela
+causa ? Neste caso, o pretenso imperativo moral, que, como tal, parece categórico e
+incondicionado, não seria, na realidade, senão um preceito pragmático, que faz
+convergir nossa atenção sobre o nosso interesse e unicamente nos ensina a tomá-lo em
+consideração.
+Devemos, pois, examinar inteiramente a priori a possibilidade de um imperativo
+categórico, visto aqui não nos ser concedida a vantagem de encontrar este imperativo
+(420) realizado na experiência, de sorte que não tenhamos de examinar a possibilidade d
+ele senão para o explicar, e não para o estabelecer. Entretanto, de momento, importa
+preliminarmente admitir que só o imperativo categórico tem o valor de LEI prática, ao
+passo que os demais imperativos em conjunto podem bem ser denominados princípios,
+mas não leis da vontade. Com efeito, o que é simplesmente necessário fazer para
+alcançar um fim almejado, pode em si ser considerado como contingente (109), nós
+poderemos sempre ser libertos das prescrições, renunciando ao fim; ao invés, o preceito
+incondicionado não entrega, por forma alguma, ao beneplácito da vontade a faculdade
+de optar pelo contrário: portanto só ele implica em si aquela necessidade que
+reclamamos para a lei.
+Em segundo lugar, no que concerne a este imperativo categórico, ou a esta lei da
+moralidade, a causa da dificuldade (de apreender a sua possibilidade) é também assaz
+considerável. Este imperativo é uma proposição prática sintética (*) a priori, e visto
+haver tamanha dificuldade no conhecimento teórico para compreender a possibilidade
+de proposições deste gênero, é fácil presumir que no conhecimento prático a dificuldade
+não será menor.
+Para resolver esta questão, importa, antes de mais nada, verificar, se não seria possível
+que o conceito simples de imperativo categórico fornecesse também a fórmula do
+mesmo, fórmula que contivesse a proposição que só pode ser um imperativo categórico;
+pois a questão de saber como seja possível um tal mandamento absoluto, mesmo quando
+lhe conhecemos a fórmula, exigirá ainda, de nossa parte, um esforço peculiar e difícil,
+do qual trataremos na derradeira Secção desta obra.
+(*) Eu, sem pressupor condições derivadas de qualquer inclinação, ligo o ato a vontade; ligo-o a
+priori, portanto necessariamente (embora só objetivamente, ou seja, tomando como ponto de
+partida a idéia de uma razão dotada de plenos poderes sobre todas as causas subjetivas de
+determinação). Esta é, pois, uma proposição prática, que não deriva analiticamente o fato de
+querer uma ação de um outro querer já pressuposto (porque não temos uma vontade tão perfeita),
+mas que o liga imediatamente ao conceito da vontade de um ser racional, como algo que nele
+não está contido.
+Quando imagino um imperativo hipotético em geral, não sei com antecedência o que
+ele conterá, enquanto não me for dada a condição do mesmo. Mas, se imagino um
+imperativo categórico, sei imediatamente o seu conteúdo. Não contendo o imperativo,
+além da lei, senão a necessidade de a máxima (*) se conformar à lei, e não contendo
+esta (421) lei nenhuma condição a que esteja sujeita, nada mais resta que a
+universalidade de uma lei em geral, à que a máxima da ação deve ser conforme, e é só
+esta conformidade que o imperativo apresenta propriamente como necessária.
+O imperativo categórico é, pois, um só e precisamente este: Procede apenas .segundo
+aquela máxima, em virtude da qual podes querer ao mesmo tempo que ela se tome em
+lei universal.
+(*) A máxima é o princípio subjetivo da ação, e imporia distingui-la do principio objetivo, isto é,
+da lei prática. A máxima contém a regra prática que determina a razão segundo as condições
+do sujeito (em muitos casos, segundo a sua ignorância, ou também segundo suas inclinações, e,
+deste modo, é o principio fundamental, segundo o qual o sujeito age; a lei, pelo contrário é o
+princípio objetivo válido para todo ser racional, o princípio segundo o qual ele deve agir, ou
+seja, um imperativo.
+Ora, se deste só imperativo podem ser derivados, como de seu princípio, todos os
+imperativos do dever, embora deixamos de lado a questão de saber se aquilo, a que se
+dá o nome de dever, não é, no fundo, um conceito oco, poderemos todavia, ao menos,
+mostrar o que entendemos por isso e o que este conceito pretende significar.
+Uma vez que a universalidade da lei, segundo a qual se produzem efeitos, constitui o
+que propriamente se chama natureza no sentido mais geral (quanto à forma), isto é,
+constitui a existência dos objetos, enquanto determinada por leis universais, o
+imperativo universal do dever pode ainda ser expresso nos termos seguintes: Procede
+como se a máxima de tua ação devesse ser erigida, por tua vontade, em LEI UNIVERSAL
+DA NATUREZA.
+Enumeremos agora alguns deveres, de acordo com a divisão ordinária dos deveres em
+deveres para conosco e deveres para com os outros, em deveres perfeitos e deveres
+imperfeitos. (*)
+(*) Convém observar que me reservo tratar da divisão dos deveres numa futura
+Metafísica cios costumes; pelo que, a divisão agora proposta obedece apenas a
+um critério de comodidade (para classificação dos exemplos que apresento).
+Aliás, por "dever perfeito" emendo aqui o dever que não admite exceções em
+favor da inclinarão; assim"~~sendo, admito não só deveres perfeitos exteriores,
+mas também deveres perfeitos interiores, o que está em contradição com a
+terminologia empregada nas escolas; não é porém meu intento justificar aqui.
+Cita concepção pois pouco se me dá que ela seja admitida ou não (114).
+1. Um homem, por uma série de males que o levaram ao (422) desespero, sente grande
+nojo de viver, muito embora mantenha o suficiente domínio de si para se perguntar se o
+atentar contra a própria vida não constitui uma violação do dever para consigo mesmo.
+Procura então averiguar se a máxima de sua ação pode converter-se em lei universal da
+natureza. Sua máxima seria esta: "por amor de mim mesmo, estabeleço o princípio de
+poder abreviar minha existência, se vir que, prolongando-a, tenho mais males que temer
+do que satisfações que esperar dela". A questão agora está apenas em saber se tal
+princípio do amor de si pode ser erigido em lei universal da natureza. Mas
+imediatamente se vê que uma natureza, cuja lei fosse destruir a vida, em virtude
+justamente daquele sentimento que tem por função peculiar estimular a conservação da
+vida, estaria em contradição consigo mesma e não poderia subsistir como natureza,
+Conseguintemente, esta máxima não pode, por forma alguma, ocupar o posto de lei
+universal da natureza, e por tal motivo é inteiramente contrária ao princípio supremo de
+todo dever.
+2. Outro homem é impelido pela necessidade a pedir dinheiro emprestado. Sabe que
+não poderá restituí-lo, mas sabe igualmente que nada lhe será emprestado, se não tomar
+o sério compromisso de satisfazer a dívida dentro de determinado prazo. Sente vontade
+de fazer essa promessa, mas tem ainda bastante consciência para a si mesmo perguntar
+se não será proibido e contrário ao .dever tentar safar-se da necessidade por meio de tal
+expediente. Supondo que tome esta decisão, a máxima de sua ação significaria isto:
+quando penso estar falto de dinheiro, peço emprestado, prometendo restituí-lo, embora
+saiba que nunca o farei. Ora, é bem possível que este princípio do amor de si ou da
+utilidade própria se prenda com todo o meu bem-estar futuro, mas, de momento, a
+questão consiste em saber se isso é justo. Transformo, pois, a exigência do amor de si
+em lei universal, e ponho a questão seguinte: que sucederia, se minha máxima se
+convertesse em lei universal ? Ora, imediatamente vejo que ela nunca poderia valer
+como lei universal da natureza e estar de acordo consigo mesma, mas que deveria
+necessariamente contradizer-se. Admitir como lei universal que todo homem, que julgue
+encontrar-se em necessidade, possa prometer o que lhe vem à mente, com o propósito
+de não cumprir, equivaleria a tornar impossível toda promessa, e inatingível o fim que
+com ela se pretende alcançar, pois ninguém acreditaria mais naquilo que se lhe promete
+e todos se ririam de semelhantes declarações, como de fingimentos vãos.
+3. Um terceiro sente -se dotado de aptidões que, devidamente cultivadas, poderiam fazer
+dele um homem útil sob múltiplos aspectos. Mas, encontrando-se bem instalado(423) na
+vida, prefere entregar-se a uma existência de prazer do que esforçar-se por ampliar e
+aperfeiçoar suas boas disposições naturais. Contudo, ele pergunta a si mesmo se. a sua
+máxima "descurar os dons naturais", além de concordar com sua tendência para o
+prazer, concorda também com o que se chama o dever. Ora, ele vê bem que, sem
+dúvida, uma natureza que tivesse uma lei universal deste gênero poderia subsistir,
+mesmo que o homem (como o indígena insular do Mar do Sul) deixasse enferrujar seus
+talentos e não pensasse senão em aplicar sua vida ao ócio, ao prazer, à propagação da
+espécie, numa palavra, ao gozo; mas ele não pode absolutamente QUERER que isto se
+converta em lei universal da natureza, ou que seja inato em nós como instinto natural.
+Como ser racional, ele quer necessariamente que todas as suas faculdades atinjam seu
+pleno desenvolvimento, visto que lhe são de utilidade e lhe foram dadas para toda
+espécie de fins possíveis.
+4. Enfim, um quarto homem, a quem tudo cor re pelo melhor, vendo que outros seus
+semelhantes (a quem poderia ajudar) se encontram a braços com graves dificuldades,
+raciocina da seguinte forma: E a mim que se me dá ? Cada qual seja feliz, consoante ao
+céu apraz ou de acordo com suas próprias posses; não lhe subtrairei a mínima porção do
+que ele possui, nem sequer tenho inveja dele; só que não me empenharei em contribuir
+de qualquer maneira para o seu bem-estar ou para auxiliá-lo em sua necessidade. Se tal
+modo de pensar se convertesse em lei universal da natureza, a espécie humana
+continuaria sem dúvida subsistindo, e, na verdade, em melhores condições do que
+quando alguém fala constantemente de simpatia e de benevolência, e se afadiga em
+praticar ocasionalmente estas virtudes, mas, logo em seguida, desde que se lhe oferece
+ocasião de ludibriar, trafica o direito dos homens ou os prejudica de qualquer outra
+maneira. Embora seja possível existir uma lei universal da natureza conforme àquela
+máxima, é todavia impossível QUERER que tal princípio seja universalmente válido
+como lei da natureza. Com efeito, uma vontade, que tomasse tal decisão, a si mesma se
+contradiria, uma vez que, apesar de tudo, podem apresentar-se casos, em que se tenha
+necessidade do amor e da simpatia dos outros, e então, em virtude desta lei oriunda de
+nossa vontade, ficaríamos privados de toda esperança de obter a assistência que
+desejaríamos.
+Estes são alguns dos inúmeros deveres reais, ou ao menos por nós tidos como tais, cuja
+dedução, a partir do único (424) princípio por nós aduzido, salta manifestamente aos
+olhos. É mister que possamos querer que uma máxima de nossa ação se torne em lei
+universal: este o cânone de apreciação moral de nossa ação em geral. Ações há de tal
+natureza, que a máxima das mesmas nem sequer pode ser concebida sem contradição
+como lei universal da natureza; estamos portanto muito longe de querer desejar que ela
+deva tornar-se tal. Noutras, e certo, não se encontra essa possibilidade interna, sendo
+todavia impossível querer que a máxima delas obtenha a universalidade de uma lei da
+natureza, porque tal vontade a si mesma se contradiria. Facilmente se vê que a máxima
+das primeiras é contrária ao dever estrito ou rígido (rigoroso), ao passo que a máxima
+das segundas só é contrária ao dever em sentido lato (meritório). Assim sendo, todos os
+deveres, no que tange ao gênero de obrigação que impõem (não ao objeto das ações que
+determinam) aparecem plenamente, graças a estes exemplos, como sendo redutíveis ao
+princípio único por nós emitido.
+Examinando agora atentamente o que em nós ocorre todas as vezes que transgredimos
+um dever, verificamos que não queremos realmente que a nossa máxima se converta em
+lei universal, pois isso é impossível; pelo contrário, a máxima oposta deve continuar
+sendo universalmente uma. lei; só que tomamos a liberdade de (só por esta vez) abrir
+uma exceção em nosso favor, a fim de satisfazermos nossa inclinação. Por conseguinte,
+se considerarmos tudo debaixo de um único e mesmo ponto de vista, isto é, do ponto de
+vista da razão, encontraremos uma contradição em nossa própria vontade, pois
+queremos que certo princípio seja necessário objetivamente como lei universal, e que,
+no entanto, não tenha valor universal subjetivamente, mas admita exceções. Mas, se
+considerarmos nossa ação do ponto de vista de uma vontade plenamente conforme à
+razão, e, em seguida, do ponto de vista de uma vontade influenciada pela inclinação,
+então não encontramos realmente nenhuma contradição, senão, antes, uma resistência
+da inclinação às prescrições da razão (antagonismus), pela qual a universalidade do
+princípio (universalitas) é convertida em simples generalidade (generalitas), de sorte
+que o princípio prático da razão e a máxima deverão encontrar-se a meio caminho. Ora,
+conquanto este compromisso não possa ser justificado, quando julgamos
+imparcialmente, contudo ele mostra que reconhecemos realmente a validade do
+imperativo categórico e que (não obstante todo o respeito que temos pelo mesmo) nos
+permitimos algumas exceções, ao que parece, sem importância, e que nos são impostas
+por uma espécie de coação.
+Pensamos deste modo ter conseguido, ao menos, (425) provar que, se o dever é um
+conceito que tem um significado e que contem uma legislação real para nossas ações,
+esta. legislação deve ser expressa apenas em imperativos categóricos, e de maneira
+nenhuma em imperativos hipotéticos; ao mesmo tempo, e isto já é importante,
+expusemos claramente e numa fórmula que o determina em todas as suas aplicações, o
+conteúdo do imperativo categórico, que deve encerrar o princípio de todos os deveres
+(se é que há deveres em geral). Más não logramos ainda demonstrar a priori que um tal
+imperativo existe realmente, que existe uma lei prática que comanda absolutamente por
+si mesma, sem qualquer móbil que a solicite, e que a obediência a esta lei é o dever.
+Para chegarmos a tal resultado, é da mais alta importância ter sempre presente esta
+advertência: não se pense, de maneira nenhuma, em querer derivar da constituição
+peculiar da natureza humana a realidade deste princípio. Com efeito, sendo o dever
+uma necessidade prática incondicionada da ação, deve ser válido para todos os seres
+racionais (os únicos, aos quais se pode aplicar absolutamente um imperativo), e só por
+isso ele é também uma lei para todas as vontades humanas. Pelo contrário, tudo o que
+deriva da disposição natural própria da humanidade, de certos sentimentos e de certas
+tendências, e até mesmo, se fosse possível, tudo o que deriva de uma direção especial,
+peculiar à razão humana, e não devesse necessariamente valer para a vontade de todo
+ser racional, tudo isso pode bem fornecer uma máxima para nosso uso, nunca porém
+uma lei: um princípio subjetivo, que somos talvez levados a seguir por inclinação e
+tendência, não porém um princípio objetivo, segundo o qual estivéssemos obrigados a
+agir, mesmo de encontro a todas as tendências, inclinações e disposições de nossa
+natureza. Tão certo isto é, que a sublimidade e a dignidade intrínseca da prescrição
+expressa num dever tanto mais avultam, quanto menos os motivos subjetivos o
+favorecem, ou, antes, quanto mais lhe são contrários, sem que por isso a coação imposta
+pela lei .seja enfraquecida nalguma coisa ou privada de alguma parcela de sua validade.
+Como se vê, a filosofia encontra-se aqui colocada em situação crítica: precisa ela de
+conquistar uma posição firme e estável, sem todavia lobrigar, nem no céu nem sobre a
+terra, ponto de apoio a que se aterre. Necessita de demonstrar aqui sua pureza,
+arvorando-se em guardiã de suas próprias leis, em vez de se apresentar como arauto
+daquelas que lhe são sugeridas por um senso inato ou por não sei que natureza tutelar.
+Sem dúvida, estas, em seu conjunto, valem mais do (426) que nada; nunca porém
+podem subministrar princípios como os ditados pela razão, aos quais a origem plena e
+inteiramente a priori afiança esta autoridade imperativa, não esperando coisa alguma da
+inclinação do homem, mas tudo da supremacia da lei e do respeito que lhe é devido, de
+contrário condenando o homem a desprezar-se e a sentir horror de si mesmo.
+Portanto, todo elemento empírico não só é impróprio para servir de auxiliar ao princípio
+da moralidade, mas é também prejudicial, no mais alto grau, à pureza dos costumes, nos
+quais o valor próprio, incomparavelmente superior a tudo,de uma vontade
+absolutamente boa consiste precisamente em que o princípio da ação é independente de
+toda influência exercida por princípios contingentes, os únicos que a experiência pode
+fornecer. Contra estas fraquezas, ou melhor contra este baixo modo de pensar, que induz
+a procurar o princípio moral no meio de impulsos e leis empíricas, todas as advertências
+que fizermos são poucas, porque a razão, quando cansada, de boamente repousa sobre
+esta almofada e, deixando-se embalar em seu sonho de doces ilusões (as quais, todavia,
+a fazem abraçar, em vez de Juno, uma nuvem), substitui a moral por um monstro
+bastardo, formado pela reunião artificial de membros heterogêneos, monstro que se
+assemelha a tudo quanto se quiser, exceto à virtude, para aquele que uma vez a tenha
+encarado em sua verdadeira forma (*).
+A questão, que se põe, é, pois a seguinte: será uma lei necessária para todos os seres
+racionais, julgar sempre suas ações segundo máximas tais, que possam eles mesmos
+querer erigi-las em leis universais ? Se tal lei existe, ela deve, antes de tudo, estar ligada
+(inteiramente a priori) ao conceito da vontade de um ser racional em geral. Mas, para
+descobrir esta conexão, é mister, por mais que isso custe, dar um passo à frente, em
+direção à Metafísica, embora num de seus domínios, distinto da filosofia especulativa:
+numa (427) palavra, em direção à Metafísica dos costumes. Numa filosofia prática,
+onde se trata de estabelecer, não princípios do que acontece, mas leis daquilo que deve
+acontecer, mesmo que isso nunca venha a acontecer, ou seja, das leis objetivas práticas,
+não há, de fato, necessidade de investigar os motivos pelos quais uma coisa agrada ou
+desagrada, ou em que é que o prazer da simples sensação se distingue do gosto, ou se o
+gênero difere de uma satisfação universal da razão; nem devemos perguntar-nos qual a
+base em que repousa o sentimento do prazer e da pena, e como deste sentimento se
+originam os desejos e as inclinações, e como de tais desejos e inclinações derivam,
+mediante a cooperação da razão, as máximas: tudo isto faz parte de uma ciência
+empírica da alma, que deveria constituir a segunda parte de uma doutrina da natureza, se
+se considera esta como filosofia da natureza, enquanto fundada sobre leis empíricas.
+Mas aqui trata-se da lei objetiva prática, conseqüentemente da relação de uma vontade
+consigo mesma, enquanto determinada a agir unicamente pela razão; no qual caso, tudo
+quanto se refere de algum modo ao que é empírico desaparece por si mesmo, uma vez
+que, se a razãosó por si mesma determina o comportamento (e é justamente disto que
+devemos agora determinar a possibilidade), ela o deve fazer necessariamente a priori.
+(*) Encarar a virtude em sua verdadeira forma, não é mais do que expor a moralidade isenta de
+toda mescla de elementos sensíveis e despojada de todo falso ornamento que lhe provenha do
+atrativo da recompensa ou do amor de si próprio. Quanto ela obscurece tudo que parece ser
+sedutor para as inclinações, pode cada qual facilmente verificá-lo, servindo-se de sua razão,
+desde que esta não seja de todo privada da faculdade de abstrair.
+A vontade é concebida como faculdade de se determinar a si mesma a agir
+conformemente à representação de certas leis. E tal faculdade só se pode encontrar
+num ser racional. Ora, o que serve à vontade de princípio subjetivo de determinação é o
+fim, e, se este é dado unicamente pela razão, deve valer igualmente para todos os seres
+racionais. O que, ao invés, contém simplesmente o princípio da possibilidade da ação,
+de que o efeito é o fim, chama-se o meio. O princípio subjetivo é o impulso, o princípio
+objetivo do querer é o motivo; daqui a diferença entre os fins subjetivos que se apoiam
+sobre impulsos e os. fins objetivos que se referem a motivos válidos para todos os seres
+racionais. Os princípios práticos são formais, quando abstraem de todos os fins
+subjetivos; são, pelo contrário, materiais, quando supõem fins subjetivos, e
+conseqüentemente certos impulsos. Os fins que um ser racional se propõe a seu bel-
+prazer, como efeitos de sua ação (fins materiais), são todos apenas relativos, pois
+somente a relação deles com a natureza especial da faculdade apetitiva do sujeito lhes
+confere o valor que possuem. Por tal motivo, estes fins não podem subministrar
+princípios universais para todos os seres racionais, como nem princípios válidos e
+necessários para cada vontade, ou, por outras palavras, não (428) podem subministrar
+leis práticas. Pelo que todos estes fins relativos determinam apenas imperativos
+hipotéticos.
+Supondo, porém, que existe alguma coisa, cuja existência cm si mesma possua valor
+absoluto, alguma coisa que, como fim em si mesmo, possa ser um princípio de leis
+determinadas, então nisso e só nisso se poderá encontrar o princípio de um imperativo
+categórico possível, isto é, de uma lei prática.
+Agora digo: o homem, e em geral todo ser racional, existe como fim em si, não apenas
+como meio, do qual esta ou aquela vontade possa dispor a seu talento; mas, em todos os
+seus atos, tanto nos que se referem a ele próprio, como nos que se referem a outros seres
+racionais, ele deve sempre ser considerado ao mesmo tempo como fim. Todos os
+objetos das inclinações têm somente valor condicional, pois que, se as inclinações, e as
+necessidades que delas derivam, não existissem, o objeto delas seria destituído de valor.
+Mas as próprias inclinações, como fontes das necessidades, possuem tão reduzido valor
+absoluto que as torne desejáveis por si mesmas, que o desejo universal de todos os seres
+racionais deveria consistir, antes, em se poderem libertar completamente delas. Pelo que
+é sempre condicional o valor dos objetos que podemos conseguir por nossa atividade.
+Os seres, cuja existência não depende precisamente de nossa vontade, mas da natureza,
+quando são seres desprovidos de razão, só possuem valor relativo, valor de meios e por
+isso se chamam coisas. Ao invés, os seres racionais são chamados pessoas, porque a
+natureza deles os designa já como fins em si mesmos, isto é, como alguma coisa que
+não pode ser usada unicamente como meio, alguma coisa que, conseqüentemente, põe
+um limite, em certo sentido, a todo livre arbítrio (e que é objeto de respeito). Portanto,
+os seres racionais não são fins simplesmente subjetivos, cuja existência, como efeito de
+nossa atividade, tem valor para nós; são fins objetivos, isto é, coisas cuja existência é
+um fim em si mesma, e justamente um fim tal que não pode ser substituído por nenhum
+outro, e ao serviço do qual os fins subjetivos deveriam pôr-se simplesmente como
+meios, visto como sem ele nada se pode encontrar dotado de valor absoluto. Mas, se
+todo valor fosse condicional, e portanto contingente, seria absolutamente impossível
+encontrar para a razão um princípio prático supremo.
+Conseqüentemente, se deve existir um princípio prático supremo e, no referente à
+vontade humana, um imperativo categórico, é preciso que este seja tal que derive da
+representação daquilo que, por ser fim cm si mesmo, necessariamente é um fim para
+todos os homens, um princípio objetivo (429) da vontade; por esta forma, poderá servir
+de lei prática universal. O fundamento deste princípio é o seguinte: A natureza racional
+existe como fim em si mesma. O homem concebe deste modo necessariamente sua
+própria existência; e, neste sentido, tal princípio é igualmente um princípio subjetivo da
+atividade humana. Mas todos os outros seres racionais concebem de igual maneira sua
+existência, em conseqüência do mesmo princípio racional que vale também para
+mim(*); por conseguinte, este princípio é, ao mesmo tempo, um princípio objetivo, do
+qual, como de um fundamento prático supremo, devem poder derivar-se todas as leis da
+vontade. O imperativo prático será, pois, o seguinte: Procede de maneira que trates a
+humanidade, tanto na tua pessoa como na pessoa de todos os outros, sempre ao mesmo
+tempo como fim, e nunca como puro meio. Vejamos se esta fórmula é realizável.
+Limitemo-nos aos exemplos acima mencionados:
+(*) Esta proposição, apresento -a como postulado, As razões disso serão dadas na
+última secção.
+Em primeiro lugar, segundo o conceito do dever necessário para consigo mesmo, aquele
+que cogita de se suicidar, perguntar-se-á se o seu ato pode coexistir simultaneamente
+com a idéia da humanidade como fim em si mesma. Se, para escapar a uma situação
+difícil, ele se destrói a si próprio, serve-se de uma pessoa, unicamente como de meio
+destinado a conservar ate ao fim da vida uma situação suportável. Mas o homem não é
+uma coisa, não e, por conseguinte, objeto para ser tratado unicamente como meio, senão
+que, pelo contrário, deve ser considerado sempre, em todos os seus atos, como fim em
+si. Portanto, não posso dispor do homem em minha pessoa, de maneira absoluta, quer
+para o mutilar, quer para o danificar ou matar. (Deixo aqui de lado uma determinação
+mais exata deste princípio, como aliás conviria fazê-lo, para evitar qualquer equívoco,
+no caso em que, por exemplo, se tratasse de deixar que me amputassem os membros
+para me salvar, ou de arriscar a vida para a conservar; tal determinação compete à moral
+propriamente dita).
+Em segundo lugar, no que concerne ao dever necessário ou dever estrito para com
+outrem, aquele que tem a intenção de fazer aos outros uma falsa promessa, vê
+imediatamente que pretende servir-se de um outro homem simplesmente como de meio,
+sem que este último contenha, ao mesmo tempo, o fim em si. Com efeito, o homem que
+eu, mediante aquela (430) promessa, pretendo fazer servir a meus propósitos, não pode,
+por forma alguma, aderir ao meu modo de proceder com ele e, deste modo, conter em si
+mesmo o fim desta ação. Mais claramente salta à vista a violação do princípio da
+humanidade em outros homens, quando os exemplos são tomados de atentados contra a
+liberdade ou propriedade alheia. Vê-se então claramente como aquele que usurpa os
+direitos dos outros homens tem a intenção de servir-se da pessoa de outrem,
+unicamente como de meio, sem considerar que os outros, como seres racionais, devem
+ser sempre considerados ao mesmo tempo como fins, ou seja, apenas como seres que
+devem poder conter também em si mesmos o fim desta mesma ação(*).
+(*) Não se pense que a fórmula comum "quod tibi non vis fieri", etc., possa servir de regra ou de
+princípio. Como ela deriva unicamente do princípio por nós assente, embora com algumas
+restrições, não pode ser lei universal porque não contém o princípio dos deveres para consigo
+mesmo, como nem o dos deveres de caridade para com outrem (visto que muitos consentiriam de
+bom grado em que os outros não fossem obrigados a lhes fazer bem, contanto que eles possam
+ser dispensados de fazer bem a outrem), nem enfim o princípio dos deveres estritos dos homem
+entre si, porque, segundo este princípio, o criminoso poderia argumentar contra o juiz que o
+pune.
+Em terceiro lugar, no que se refere ao dever contingente (meritório) para consigo
+mesmo, não basta que a ação não esteja em contradição com a humanidade em nossa
+pessoa, como fim em si; é mister, além disso, que esteja em acordo com ela. Ora, há na
+humanidade disposições para uma perfeição mais elevada, que fazem parte dos fins que
+a natureza tem em mira relativamente à humanidade em nossa pessoa. Descurar tais
+disposições poderia, em rigor, ser compatível com a conservação da humanidade como
+fim em si, mas não com a consecução deste fim.
+Em quarto lugar, no concernente ao dever meritório para com outrem, o fim natural,
+comum a todos os homens, é a sua própria felicidade. Ora, certamente que a
+humanidade poderia subsistir, mesmo quando ninguém contribuísse em coisa alguma
+para a felicidade alheia, abstendo-se entanto de prejudicar os outros deliberadamente;
+isso seria tão-somente um acordo negativo, não positivo, com a humanidade como fim
+em si, se cada qual não procurasse outrossim favorecer, na medida de suas posses, os
+fins dos outros. Pois, sendo o sujeito fim em si mesmo, é mister que os seus fins sejam
+também, tanto quanto possível, meus fins, se quero que a idéia de tal finalidade produza
+em mim toda eficácia.
+Este princípio, segundo o qual a humanidade e toda natureza racional em geral são
+consideradas como fins (431) em si (condição suprema limitadora da liberdade de ação
+de todos os homens), não deriva da experiência; primeiramente, por causa de sua
+universalidade, porque se estende a todos os seres racionais em geral, relativamente aos
+quais nenhuma experiência é bastante para determinar qualquer coisa; em segundo
+lugar, porque, neste princípio, a humanidade é representada, não como fim puramente
+humano (subjetivo), isto é, como objeto que, na realidade, por nós mesmos tomamos
+como sendo um fim, mas como um fim objetivo, o qual, quaisquer que sejam os fins
+que nos proponhamos, deve constituir, na qualidade de lei, a condição suprema
+restritiva de todos os fins subjetivos. Ora, tal princípio deriva necessariamente da razão
+pura, É que o princípio de toda legislação prática reside objetivamente na regra e na
+forma da universalidade que (segundo o primeiro princípio) a torna capaz de ser uma lei
+(que, em rigor, se poderia denominar lei da natureza), e subjetivamente reside no fim.
+Mas o sujeito de todos os fins (de acordo com o segundo princípio) é todo ser racional,
+como fim em si; donde resulta o terceiro princípio prático da vontade, como condição
+suprema de seu acordo com a razão prática universal, o mesmo é dizer, a idéia da
+vontade de todo ser racional considerada como vontade promulgadora de uma
+legislação universal.
+Segundo este princípio, serão rejeitadas todas as máximas que não possam estar de
+acordo com a legislação universal própria da vontade. A vontade não é, pois,
+exclusivamente subordinada à lei; mas é-lhe subordinada de modo que deva ser
+considerada também como promulgadora da lei, e justamente por tal motivo deve ser
+subordinada à lei (da qual se pode considerar autora).
+Os imperativos, segundo as fórmulas por nós acima apresentadas, tanto a que exige que
+as ações sejam conformes a leis universais como a uma ordem da natureza, quanto
+aquela segundo a qual os seres racionais têm a prerrogativa universal de fins em si,
+excluíam, sem dúvida, de sua autoridade soberana toda mescla de qualquer interesse a
+título de móbil, precisamente por serem representados como categóricos; mas não eram
+aceitos como categóricos, senão porque precisávamos de admiti-los como tais, se
+quiséssemos explicar o conceito do dever. Mas que haja proposições práticas que
+ordenam categoricamente, é uma verdade que não podia demonstrar-se desde o
+princípio, como nem é possível que tal demonstração possa ser feita agora nesta Secção.
+Entanto, uma coisa não podia deixar de se fazer: a saber, que a renúncia a todo
+interesse no ato de querer por dever, considerado como característica que distingue o
+imperativo categórico do imperativo hipotético, fosse indicada ao mesmo tempo no
+próprio imperativo, por meio de alguma determinação que lhe fosse inerente, (432) e é
+justamente o que acontece nesta terceira fórmula do princípio, isto é, na idéia da
+vontade de todo ser racional considerada como vontade promulgadora de urna
+legislação universal.
+De fato, se concebemos uma tal vontade, veremos que, enquanto existe a possibilidade
+de uma vontade sujeita a leis estar ainda ligada a estas leis por um interesse, todavia é
+impossível que uma vontade, que seja suprema legisladora, dependa neste sentido de um
+interesse qualquer; pois uma vontade assim dependente precisaria de outra lei, que
+adstringisse o interesse de seu amor-próprio à condição de ser capaz de valer como lei
+universal. Pelo que, o princípio, segundo o qual toda vontade humana aparece como
+vontade que, mediante suas máximas, institui uma legislação universal (*), se
+ostentasse consigo a prova de sua exatidão, conviria perfeitamente ao imperativo
+categórico, uma vez que, precisamente por causa da idéia de uma legislação universal,
+ele não se apóia cm nenhum interesse e, por isso mesmo, de todos os imperativos
+possíveis, só ele pode ser incondicionado; ou melhor ainda, invertendo a proposição: se
+há um imperativo categórico (isto é, uma lei válida para a vontade de todo ser racional),
+ele pode apenas ordenar que procedemos sempre segundo a máxima de sua vontade, isto
+é, de uma vontade tal que possa, ao mesmo tempo, considerar-se como objeto, enquanto
+legisladora universal. Só então o princípio prático é incondicionado, do mesmo modo
+que o imperativo a que a vontade obedece, visto não haver nenhum interesse, sobre o
+qual possa fundamentar-se.
+(*) Posso aqui ser dispensado de aduzir exemplos para esclarecimento deste princípio, visto
+como os anteriormente aduzidos para explicar o imperativo categórico e suas íórmulas podem
+aqui ser empregados para o mesmo um.
+Se considerarmos os esforços envidados até ao presente para descobrir o princípio da
+moral, não devemos estranhar que todos necessariamente tenham falhado. Via-se que o
+homem estava ligado por seus deveres a leis, mas não se refletia que ele só está sujeito
+à sua própria legislação, e portanto a uma legislação universal, e que não está obrigado
+a agir senão conformemente à sua vontade própria, mas à sua vontade que, por destino
+da natureza, institui uma legislação universal. Pois, se o imaginássemos sujeito a uma
+lei (qualquer que (433) ela fosse), esta implicaria necessariamente cm si um interesse
+sob forma de atração ou de obrigação, e, nesse caso, não derivaria, enquanto lei, da sua
+vontade, e esta vontade seria coagida a agir, em certo modo, conformemente à lei, mas
+por algum outro motivo. Ora, graças a esta conseqüência absolutamente inevitável, todo
+esforço para encontrar um princípio supremo do dever era irremediavelmente perdido.
+Nunca se descobria o dever, mas sim a necessidade de agir por um certo interesse. Que
+este interesse fosse pessoal ou estranho, o imperativo apresentava então sempre
+necessariamente um caráter condicional, e não podia valer como prescrição moral.
+Chamarei, pois, a este princípio, princípio da AUTONOMIA da vontade, em oposição a
+qualquer outro princípio, que, por isso, qualifico de HETERONÍMIA.
+O conceito, em virtude do qual todo ser racional deve considerar-se como fundador de
+uma legislação universal por meio de todas as máximas de sua vontade, de sorte que
+possa julgar-se a si mesmo e a suas ações sob este ponto de vista, conduz-nos a uma
+idéia muito fecunda que com ele se prende, a saber, à idéia de um reino dos fins.
+Pela palavra reino entendo a união sistemática de diversos seres racionais por meio de
+leis comuns. E como as leis determinam os fins quanto ao seu valor universal, se se
+abstrai das diferenças pessoais existentes entre os seres racionais e também do conteúdo
+de seus fins particulares, poder-se-á conceber um conjunto de todos os fins (tanto dos
+seres racionais como fins em si, como dos fins próprios que cada qual pode propor-se),
+um todo que forme uma união sistemática, ou seja, um reino dos fins, possível segundo
+os princípios precedentemente enunciados.
+Os seres racionais estão todos sujeitos à lei, em virtude da qual cada um deles nunca
+deve tratar-se a si e aos outros como puros meios, mas sempre e simultaneamente como
+fins em si. Daqui brota uma união sistemática de seres racionais por meio de leis
+objetivas comuns, ou seja, um reino o qual atendendo a que tais leis têm precisamente
+por escopo a relação mútua de todos estes seres, como fins e como meios, pode ser
+denominado reino dos fins (o que, na verdade, é apenas um ideal).
+Mas um ser racional pertence, na qualidade de membro, ao reino dos fins, pois que,
+muito embora ele aí promulgue leis universais, no entanto está sujeito a essas leis.
+Pertence-lhe, na qualidade de chefe, enquanto, como legislador, não está sujeito a
+nenhuma vontade alheia.
+O ser racional deve sempre considerar-se como (434) legislador num reino dos fins
+possível pela liberdade da vontade, quer ele nesse reino exista como membro quer
+como chefe. Não pode todavia reivindicar a categoria de chefe unicamente pelas
+máximas de sua vontade; só o poderá fazer, se for um ser completamente independente,
+sem necessidades de qualquer espécie, e dotado de um poder de ação, sem restrições,
+adequado à sua vontade.
+A moralidade consiste, pois, na relação de todas as ações com a legislação, a qual e só
+ela, possibilita um reino dos fins. Esta legislação deve porém encontrar-se em todo ser
+racional, e deve poder emanar de sua vontade, cujo princípio será o seguinte: agir
+somente segundo uma máxima tal que possa ser erigida em lei universal; tal, por
+conseguinte, que a vontade possa, mercê de sua máxima, considerar-se como
+promulgadora, ao mesmo tempo, de uma legislação universal. Mas, se as máximas não
+são já por sua natureza necessariamente conformes a este princípio objetivo dos seres
+racionais, considerados como autores de uma legislação universal, a necessidade de agir
+segundo aquele princípio chama-se coação prática, isto é, dever. No reino dos fins, o
+dever não compete ao chefe, mas sim a cada membro, e a todos em igual medida.
+A necessidade prática de agir segundo este princípio, ou seja, o dever, não repousa, de
+fato, sobre sentimentos, impulsos e inclinações, mas unicamente sobre a relação mútua
+dos seres racionais, na qual relação a vontade de todo ser racional, deve sempre ser
+considerada ao mesmo tempo como legisladora, pois de outro modo não poderia ser
+concebida como fim cm si. A razão refere assim toda máxima da vontade, concebida
+como legisladora universal, a toda outra vontade, e também a toda ação que o homem
+ponha para consigo: procede assim, não tendo em vista qualquer outro motivo prático
+ou vantagem futura, mas levada pela idéia da dignidade de um ser racional que não
+obedece a nenhuma outra lei que não seja, ao mesmo tempo, instituída por ele próprio.
+No reino dos fins tudo tem um PREÇO ou uma DIGNIDADE. Uma coisa que tem um preço
+pode ser substituída por qualquer outra coisa equivalente; pelo contrário, o que está
+acima de todo preço e, por conseguinte, o que não admite equivalente, é o que tem uma
+dignidade.
+Tudo o que se refere às inclinações e necessidades gerais do homem tem um preço de
+mercadoria; o que, embora não pressuponha uma necessidade, é conforme a um certo
+gosto, (435) isto é, à satisfação que nos advém de um simples jogo, mesmo destituído de
+finalidade, de nossas faculdades intelectuais, tem um preço de sentimento; mas o que
+constitui a só condição capaz de fazer que alguma coisa seja um fim em si, isso não tem
+apenas simples valor relativo, isto é, um preço, mas sim um valor intrínseco, uma
+dignidade.
+Ora, a moralidade é a única condição capaz de fazer que um ser racional seja um fim em
+si, pois só mediante ela é possível ser um membro legislador no reino dos fins. Pelo que,
+a moralidade, bem como a humanidade, enquanto capaz de moralidade, são as únicas
+coisas que possuem dignidade. Habilidade e diligencia no trabalho têm um preço de
+mercadoria; talento, imaginação e bom humor, têm um preço de sentimento; pelo
+contrário, fidelidade às promessas, benevolência baseada em princípios (não a
+benevolência instintiva), têm um valor intrínseco. A natureza e a arte não contêm nada
+que possa substituir estas qualidades, se por acaso vierem a faltar, porque o valor delas
+não provém dos efeitos delas resultantes, nem das vantagens ou utilidade que trazem,
+mas reside nas intenções, isto é, nas máximas da vontade, sempre dispostas a se
+traduzirem em atos, embora as conseqüências destes não sejam vantajosas. Estas ações
+não precisam também de ser recomendadas por qualquer disposição ou inclinação
+subjetiva, que no-las faça encarar com favor e prazer imediatos; não precisam de
+nenhuma tendência e inclinação, que nos incite imediatamente a cumpri-las; elas
+mostram a vontade que as executa como objeto de respeito imediato; e só a razão é
+requerida para as impor à vontade, e não para as obter desta por meio de lisonjas, o que,
+aliás, em matéria de deveres, seria uma contradição. Esta estimação leva-nos a
+reconhecer o valor de tal maneira de pensar como uma dignidade, e coloca-a
+infinitamente acima de todo preço, com o qual não pode ser nem avaliada nem
+confrontada, sem que de algum modo se lese sua santidade.
+Por conseguinte, que coisa autoriza a intenção moralmente boa ou a virtude a ter tão
+altas pretensões ? Não é senão a faculdade que ela confere ao ser racional de participar
+na legislação universal e que, por essa forma, o torna capaz de ser membro de um
+possível reino dos fins; mas a isto já ele estava destinado por sua própria natureza como
+fim em si, e, precisamente por isso, como legislador no reino dos fins, como livre em
+relação a todas as leis da natureza, não obedecendo senão às que ele próprio promulga,
+àquelas que conferem a suas máximas o caráter de legislação universal (à qual ele (436)
+ao mesmo tempo se submete). De fato, nenhuma coisa possui valor, a não ser o que lhe
+é assinado pela lei. Mas a própria legislação, que determina todos os valores, deve ter,
+justamente por isso, uma dignidade, isto é, um valor incondicionado, incomparável, para
+o qual só o termo respeito fornece a expressão conveniente da estima que todo ser
+racional lhe deve tributar. A autonomia é, pois, o princípio da dignidade da natureza
+humana, bem como de toda natureza racional.
+As três maneiras, por nós indicadas, de representar o princípio da moralidade não são,
+no fundo, senão outras tantas fórmulas de uma só e mesma lei, fórmulas cada uma da
+quais contém cm si, e por si mesma, as outras duas. Entretanto, existe entre elas uma
+diferença que, a falar verdade, é antes subjetivamente que objetivamente prática, isto é,
+tal que serve para aproximar (segundo uma certa analogia) a idéia da razão e a intuição
+e, por meio desta, o sentimento. Todas as máximas possuem:
+1. uma forma, que consiste na universalidade; no qual caso, a fórmula do imperativo
+moral é a seguinte: as máximas devem ser escolhidas, como se devessem valer como
+leis universais da natureza;
+2. uma matéria, ou seja, um fim; e eis então o enunciado da fórmula: o ser racional,
+sendo por sua natureza um, fim, e portanto um fim em si mesmo, deve constituir para
+toda máxima uma condição, que sirva de limitar todo fim puramente relativo e
+arbitrário;
+3. uma determinação completa de todas as máximas por meio desta nova fórmula, a
+saber: que todas as máximas, oriundas de nossa própria legislação, devem concorrer
+para um reino possível dos fins como para um reino da natureza (*). O progresso aqui
+realiza-se de algum modo por meio das categorias, indo da unidade da forma da vontade
+(da universalidade da mesma) à pluralidade da matéria (dos objetos, isto é, dos fins), e
+daqui à totalidade ou integralidade dos sistemas dos mesmos fins. Mas, tratando-se de
+emitir um juízo moral, é preferível proceder sempre segundo o método m.ais rigoroso. e
+tomar por princípio a fórmula universal do imperativo (437) categórico: Procede
+segundo a máxima que possa ao mesmo tempo erigir-se em lei universal. Contudo, se
+ao mesmo tempo se pretende facultar à lei moral o acesso à alma, importa fazer passar a
+mesma ação pelos três conceitos indicados e aproximá-la, tanto quanto possível, da
+intuição.
+(*) A teleologia considera a natureza como um reino dos fins; a moral considera um reino
+possível dos fins como um reino da natureza. Ali, o reino dos fins ó uma idéia teórica, destinada
+a explicar aquilo que 6 dado. Aqui, é uma idéia prática, que serve para cumprir o que não foi
+dado, mas que. pode tornar-se real pelo nosso modo de agir, s isso de acordo com essa mesma
+idéia.
+Podemos agora terminar por onde começamos, a saber, pelo conceito de uma vontade
+incondicionalmente boa. É absolutamente boa a vontade que não pode ser má, portanto
+aquela vontade, cuja máxima, quando convertida em lei universal, não pode contra
+dizer-se a si mesma. Portanto, sua lei suprema é o princípio seguinte: procede sempre
+segundo uma máxima tal, que possas querer ao mesmo tempo que ela seja arvorada em
+lei universal. Esta é a única condição, que faz que uma vontade nunca possa estar em
+contradição consigo mesma; e um tal imperativo é categórico. Uma vez que o caráter
+que a vontade possui de poder valer como lei universal para ações possíveis apresenta
+analogia com a conexão universal da existência das coisas segundo leis universais, que é
+o elemento formal da natureza em geral, o imperativo categórico pode ainda ser
+expresso da maneira seguinte: Procede segundo máximas tais que possam ao mesmo
+tempo tomar-se a si mesmas por objeto como leis universais da natureza. Portanto, fica
+assim estabelecida a fórmula de uma vontade absolutamente boa.
+A natureza racional distingue-se de todas as outras, pelo fato de se propor a si mesma
+um fim. Este fim seria a matéria de toda boa vontade. Mas, assim como na idéia de uma
+vontade absolutamente boa, sem condições restritivas (qual pode ser a aquisição deste
+ou daquele fim), é mister abstrair de todo fim a obter (o qual não poderia tornar boa
+uma. vontade senão relativamente), como é mister que o fim seja concebido aqui, não
+como fim a realizar, senão como fim existente por si, portanto que seja concebido de
+maneira puramente negativa, isto é, como fim contra o qual nunca se deve agir, que
+nunca deve ser considerado como simples meio, mas sempre e ao mesmo tempo como
+fim em todo ato de querer. Ora, tal fim não pode ser senão o próprio sujeito de todos os
+fins possíveis, porque este é, ao mesmo tempo, o sujeito de toda vontade absolutamente
+boa possível; vontade esta que não pode, sem contradição, ser proposta a algum outro
+objeto. O princípio: procede para com todo ser racional (para contigo e para com os
+outros) de modo que ele tenha, na tua (438) máxima, o valor de fim em si, é, em suma,
+idêntico ao princípio: procede segundo uma máxima tal que contenha ao mesmo tempo
+em si a capacidade de valer universalmente para todo ser racional. Com efeito, dizer que
+no uso dos meios, empregados em vista de um fim, devo impor à minha máxima a
+condição limitativa de valer universalmente como lei para todo sujeito, equivale a dizer
+isto: que como fundamento básico de todas as máximas das ações se deve assentar que o
+sujeito dos fins, ou seja, o próprio ser racional nunca deve ser tratado como simples
+meio, mas sim como condição limitativa suprema no uso de todos os meios, o mesmo é
+dizer que deve sempre ser tratado como fim.
+Ora, daqui segue-se indiscutivelmente que todo ser racional, como fim em si, deve
+poder, relativamente a todas as leis, a que ele possa estar sujeito, considerar-se ao
+mesmo tempo como legislador universal, pois é precisamente esta capacidade de suas
+máximas para constituir uma legislação universal que o distingue como fim em si;
+segue-se, além disso, que a sua dignidade (prerrogativa), superior a todos os puros seres
+da natureza, implica que ele deve considerar suas máximas sempre do seu próprio
+ponto de vista, que é, ao mesmo tempo, o ponto de vista de todo ser racional
+considerado como legislador (por isso também tais seres são chamados pessoas). Deste
+modo se torna possível um mundo de seres racionais (mundus intelligibilis) considerado
+como um reino dos fins, e isto mercê da legislação própria de todas as pessoas como
+membros. Pelo que, todo ser racional deve agir como se ele fosse sempre, por suas
+máximas, um membro legislador no reino universal dos fins. O princípio formal destas
+máximas é: Procede como se tua máxima devesse servir ao mesmo tempo de lei
+universal (para todos os seres racionais). Um reino dos fins não é possível senão por
+analogia como um reino da natureza; mas o primeiro não se constitui senão segundo
+máximas, isto é, segundo regras que a nós mesmos nos impomos, ao passo que o
+segundo se constitui apenas segundo leis de causas eficientes sujeitas a coação exterior.
+Não obstante isto, dá-se igualmente o nome de reino da natureza ao conjunto da
+natureza, considerado embora como máquina, na medida em que se relaciona com seres
+racionais considerados como seus fins. Ora, tal reino dos fins seria efetivamente
+realizado por meio de máximas, a norma das quais o imperativo categórico prescreve a
+todos os seres racionais, como a condição de elas serem, universalmente seguidas. Mas,
+conquanto o ser racional não possa esperar que todos os outros sigam fielmente esta
+máxima, embora ele a observe pontualmente, nem que o reino da natureza e sua
+constituição teleológica concorram com ele, como com um membro digno de fazer
+parte da mesma, para realizar um (439) reino dos fins por si mesmo possível, ou, por
+outras palavras, favoreçam sua aspiração à felicidade, todavia esta lei: Procede segundo
+as máximas de um membro que institui uma legislação universal para um reino dos fins
+puramente possível, mantém toda sua eficácia, porque ordena de maneira categórica. E
+nisto justamente consiste o paradoxo de que só a dignidade dá humanidade como
+natureza racional, independentemente de qualquer fim ou vantagem a alcançar, e
+portanto só o respeito por uma simples idéia, deva servir de prescrição inflexível para a
+vontade, e que esta independência da máxima, relativamente a todo móbil, constitua
+precisamente sua sublimidade, e torne todo sujeito racional digno de ser membro
+legislador no reino dos fins; porque, de outro modo, ele deveria ser representado tão-
+somente como sujeito à lei natural de suas necessidades. Embora também o reino da
+natureza, do mesmo modo que o reino dos fins fossem concebidos como reunidos sob
+um chefe supremo, de sorte que o segundo destes reinos não ficasse sendo apenas uma
+pura idéia, mas adquirisse verdadeira realidade, essa idéia lucraria decerto uma
+vantagem resultante do acréscimo de um forte impulso, nunca porém um acréscimo de
+seu valor intrínseco; pois, não obstante isso, seria necessário representar sempre esse
+legislador, único e limitado, como árbitro do valor de seres racionais que julga em
+conformidade com a conduta desinteressada que lhes é prescrita somente por esta idéia.
+A essência das coisas não se modifica em conseqüência de suas relações externas, e
+aquilo que, abstraindo de tais relações, basta para constituir por si o valor absoluto do
+homem, é, além disso, a medida, segundo a qual ele deve ser julgado por qualquer
+outro, até mesmo pelo Ser supremo. A moralidade é, pois, a relação das ações com a
+autonomia da vontade, isto é, com a legislação universal que as máximas da vontade
+devem tornar possível- A ação, capaz de subsistir com a autonomia da vontade, é
+permitida; a que não concorda com ela, é proibida. A vontade, cujas máximas
+concordam necessariamente com as leis da autonomia, é uma vontade santa, isto é,
+absolutamente boa. A dependência de uma vontade, não absolutamente boa, a respeito
+dos princípios da autonomia (a coação moral) é a obrigação. A obrigação não pode,
+pois, referir-se por forma alguma a iam ente santo. A necessidade objetiva de um ato,
+em virtude da obrigação, é o dever.
+Por tudo quanto sumariamente fica exposto, pode facilmente explicar-se por que motivo
+acontece que, embora sob o conceito do dever imaginemos uma submissão à lei, (440)
+todavia nos representamos, ao mesmo tempo, uma certa sublimidade e uma dignidade,
+como inerentes à pessoa cumpridora de todos os seus deveres. Com efeito, ela não é
+sublime enquanto sujeita à lei moral, mas sim enquanto, relativamente a esta lei, ela é
+ao mesmo tempo legisladora, e só por isso lhe é subordinada. Também mostramos
+acima como nem o temor, nem a inclinação, mas somente o respeito da lei é o único
+móbil capaz de conferir valor moral à ação. Nossa própria vontade, supondo que não
+age senão sob a condição de uma legislação universal tornada possível por suas
+máximas, esta vontade ideal, que pode ser a nossa, é o objeto próprio do respeito; e a
+dignidade da humanidade consiste precisamente na aptidão que ela possui para estatuir
+leis universais, embora com a condição de simultaneamente estar sujeita a esta
+legislação.
+A autonomia da vontade como princípio supremo da moralidade
+A autonomia da vontade é a propriedade que a vontade possui de ser lei para si mesma
+(independentemente da natureza dos objetos do querer). O princípio da autonomia é
+pois: escolher sempre de modo tal que as máximas de nossa escolha estejam
+compreendidas, ao mesmo tempo, como leis universais, no ato de querer. Que esta regra
+prática seja um imperativo, isto é, que a vontade de todo ser racional lhe esteja
+necessariamente ligada como a uma condição, é coisa que não pode ser demonstrada
+pela pura análise dos conceitos implicados na vontade, porque isso é uma proposição
+sintética; seria mister ultrapassar o conhecimento dos objetos e entrar numa crítica do
+sujeito, isto é, da razão pura prática; de fato, esta proposição sintética que prescreve
+apodicticamente, deve poder ser conhecida inteiramente a priori; contudo, tal tema mio
+pertence a esta Secção do livro. Mas que o princípio em questão da autonomia seja o
+único princípio da moralidade, explica-se muito bem por meio de simples análise do
+conceito de moralidade. Pois, dessa maneira, verifica-.se que o princípio da moralidade
+deve ser um imperativo categórico, e que este não prescreve nem mais nem menos do
+que a própria autonomia.
+(441) A heteronímia da vontade como origem de todos os princípios ilegítimos da
+moralidade
+Quando a vontade busca a lei, que deve determiná-la, noutro lugar que não na aptidão
+de suas máximas para instituir uma legislação universal que dela proceda; quando, por
+conseguinte, ultrapassando-se, busca esta lei na propriedade de algum de seus objetos, o
+resultado disso é sempre uma heteronímia. Neste caso, a vontade não dá a si mesma a
+lei; é o objeto que lha dá, mercê de sua relação com a vontade. Esta relação, quer se
+apóie sobre a inclinação quer sobre as representações da razão), não logra possibilitar
+senão imperativos hipotéticos: devo fazer esta coisa, porque quero alguma outra coisa.
+Pelo contrário, o imperativo moral, por conseguinte categórico, diz: devo proceder deste
+ou daquele modo, embora não queira nenhuma outra coisa. Por exemplo, segundo o
+primeiro imperativo, diremos: não devo mentir, se quero continuar sendo tido como
+pessoa honrada; de acordo com o segundo imperativo, diremos: não devo mentir,
+embora da mentira não me advenha a menor ignomínia. O imperativo categórico deve
+pois abstrair de todo objeto, de maneira que este não exerça nenhum influxo sobre a
+vontade. Em suma, importa que a razão prática (a vontade) não se limite a administrar
+um interesse estranho, mas que manifeste unicamente sua própria autoridade imperativa,
+como legislação suprema. Assim, por exemplo, devo procurar concorrer para a
+felicidade de outrem, não como se eu estivesse de algum modo interessado em realizá-la
+(quer por inclinação imediata, quer indiretamente por causa de alguma satisfação
+suscitada pela razão), mas tão-somente porque a máxima, que exclui esta felicidade, não
+pode estar compreendida num só e mesmo querer como lei universal.
+Classificação de todos os princípios da moralidade, que podem resultar do conceito
+fundamental da heteronímia, tal como o definimos
+A razão humana, aqui como em tudo o mais, enquanto lhe faltou a Crítica, tentou todas
+as falsas vias possíveis, antes de conseguir encontrar a única verdadeira.
+Todos os princípios, que se podem admitir, deste ponto de vista, são ou empíricos ou
+racionais. Os (442) primeiros, derivados do princípio da felicidade, fundamentam-se no
+sentido físico ou moral; os segundos, derivados do princípio da perfeição, baseiam-se
+ou no conceito racional da perfeição, considerada como efeito possível, ou no conceito,
+de uma perfeição existente por si (a vontade de Deus), considerada como causa
+determinante de nossa vontade.
+Os princípios empíricos são sempre impróprios para servir de fundamento a leis morais.
+Porque a universalidade, com a qual estas devem valer para todos os seres racionais sem
+distinção, a necessidade prática incondicionada que lhes é imposta, desaparecem, se o
+princípio das mesmas derivar da constituição peculiar da natureza humana, ou das
+circunstâncias contingentes em que ela se encontra. Contudo, o princípio da felicidade
+pessoal é o mais reprovável, não só por ser falso e porque a experiência contradiz a
+suposição de que o bem-estar se regula sempre pelo bom comportamento; não só
+também porque ele em nada contribui para a fundamentação da moralidade, visto serem
+coisas inteiramente diferentes tornar um homem feliz e torná-lo bom, torná-lo prudente
+e atento a seus interesses e torná-lo virtuoso; mas porque ele assenta como base da
+moralidade impulsos que antes a minam e lhe destroem toda grandeza; com efeito
+incluem na mesma classe os impulsos que estimulam a virtude e os que impelem ao
+vício; ensinam apenas a calcular melhor, mas suprimem absolutamente a diferença
+específica existente entre uns e outros. Pelo contrário, o sentimento moral, este suposto
+senso especial (*) (embora seja prova de superficialidade de ânimo o recorrer a ele,
+visto como só os que são incapazes de pensar imaginam poder ajudar-se do sentimento,
+mesmo no que se refere unicamente a leis universais, e apesar de os sentimentos, que
+por natureza se distinguem uns dos outros por uma infinidade de graus, não
+conseguirem apresentar uma medida imparcial do bem e do mal, sem contar que quem
+julga movido pelo sentimento não pode julgar validamente para os outros), o sentimento
+moral, .digo, avizinha-se mais da moralidade e da dignidade que lhe é própria, porque
+rende à virtude a honra de lhe atribuir imediatamente a satisfação (443) que ela dá e o
+respeito que ela inspira, e porque lhe não declara, por assim dizer, frente a frente que
+não é a sua beleza, mas somente o interesse, a única coisa que a ela nos prende.
+Entre os princípios racionais da moralidade, o conceito ontológico da perfeição
+(embora oco, indeterminado e, conseguintemente, inservível para o fim de descobrir, no
+campo ilimitado da realidade possível, o máximo de perfeição que nos convém, e se
+bem que, tratando-se de distinguir especificamente de qualquer outra a realidade de que
+ora nos ocupamos, ele seja irresistivelmente atraído a rodar num círculo vicioso mal
+podendo esquivar-se a supor tàcitamente a moralidade que lhe cabe explicar), este
+conceito ontológico, vale todavia muito mais que o conceito teológico, o qual deriva a
+moralidade a partir de uma vontade divina absolutamente perfeita, não só porque não
+temos, apesar de tudo, a intuição da perfeição de Deus, e porque não podemos derivá-la
+senão de nossos conceitos, o principal dos quais é o da moralidade, mas também
+porque, se não procedermos deste modo (para não nos expormos ao grosseiro círculo
+vicioso que, de fato, se produziria em nossa explicação), o único conceito que nos
+restaria da divina vontade, derivado dos atributos do amor da glória e da dominação, e
+ligado às temerosas representações do poder e da ira, assentaria necessariamente os
+fundamentos de um sistema de moral, que seria precisamente o contrário da moralidade.
+Mas, se tivesse que optar entre o conceito do senso moral e o da perfeição em geral
+(conceitos que, ao menos, não causam dano à moralidade, embora sejam completamente
+impotentes para a apoiarem como princípios fundamentais), decidir-me-ia em favor do
+último conceito, porque este, ao menos, tira à sensibilidade, a fim de o remeter para o
+tribunal da razão pura, o trabalho de dirimir a questão e, embora não decida coisa
+alguma, todavia conserva, sem a falsear, a idéia indeterminada (de uma vontade boa em
+si), até que seja possível determiná-la de maneira mais precisa.
+Penso que posso dispensar-me de apresentar uma extensa refutação de todos estes
+sistemas. Essa refutação é tão fácil, é também, segundo todas as probabilidades, tão
+claramente apreendida por aqueles mesmos, cuja profissão exige que se declarem em
+favor de alguma destas teorias (porque os ouvintes não suportam de bom grado a
+interrupção de um juízo) que seria tempo perdido insistir nisto. Mas o que mais nos
+interessa aqui, é saber que estes princípios não estabelecem nenhum outro fundamento
+primeiro à moralidade, a não ser a heteronímia da vontade, e é justamente por isso que
+eles devem necessariamente falhar o seu escopo.
+(*) Incluo o princípio do sentimento moral no princípio da felicidade, porque todo interesse
+empírico ocasionado pelo prazer que uma coisa provoca, quer isto aconteça imediatamente e sem
+qualquer consideração de vantagem, quer aconteça devido a intuitos interesseiros, promete
+contribuir para o bem-estar. Devemos outrossim incluir, com Hutcheson, o princípio da simpatia
+pela felicidade alheia neste mesmo princípio do senso moral admitido por ele.
+(444) Todas as vezes que se pensa cm tomar como fundamento um objeto da vontade,
+com o fim de prescrever a esta a regra que deve determiná-la, a regra não é senão
+heteronímia; o imperativo é condicionado, nos termos seguintes: se ou porque se quer
+este objeto, deve-se proceder deste ou daquele modo; por conseguinte, este imperativo
+nunca pode comandar moralmente, isto é, categoricamente. O objeto pode determinar a
+vontade ou por meio da inclinação, como no princípio da nossa própria felicidade
+pessoal, ou por meio da razão aplicada aos objetos possíveis de nossa vontade em geral,
+como no princípio da perfeição; em todo caso, porém, a vontade nunca se determina
+imediatamente a si própria por meio da representação da ação, mas só pelo impulso que
+o efeito previsto da ação exerce sobre a vontade: devo fazer esta coisa, porque quero
+esta outra; e aqui é ainda mister pôr como fundamento, no sujeito que eu sou, outra lei,
+segundo a qual quero necessariamente esta outra coisa, a qual lei, por seu turno, precisa
+de um imperativo que imponha a esta máxima um sentido definido. Com efeito, como o
+atrativo, que a representação de um objeto realizável por nossas forças deve exercer
+sobre a vontade do sujeito, de acordo com suas faculdades naturais, faz parte da
+natureza do sujeito, quer da sensibilidade (da inclinação e do gosto), quer do intelecto e
+da razão, os quais, segundo a peculiar constituição de sua natureza, se aplicam a um
+objeto com prazer, daí vem que seria propriamente a natureza quem daria a lei, que,
+como tal, não só deve ser conhecida e demonstrada unicamente pela experiência, e
+portanto contingente em si e inadequada para estatuir urna regra prática apodíctica, tal
+como deve ser a regra moral, mas que nunca é senão heteronímia da vontade. A
+vontade, neste caso, nunca dá a si mesma a lei; mas um impulso estranho lha fornece,
+graças a uma' especial constituição do sujeito que o dispõe a recebê-la.
+A vontade absolutamente boa, cujo princípio deve ser um imperativo categórico, será,
+pois. indeterminada a respeito de todos os objetos, e não contém senão a forma do dever
+em geral, e isto como autonomia; quer dizer que a aptidão da máxima de toda boa
+vontade para se arvorar em lei universal é a única lei que a vontade de todo ser racional
+se impõe a si própria, sem lhe acrescentar qualquer princípio oriundo da inclinação ou
+do interesse.
+Como seja possível uma tal proposição prática sintética a priori, e a razão de sua
+necessidade é problema cuja solução não mais se encontra dentro dos limites da
+Metafísica dos costumes. Por isso, não afirmamos aqui a verdade (445) desta
+proposição; menos ainda alimentamos a pretensão de possuir uma prova dela.
+Mostramos tão-somente, por meio do desenvolvimento do conceito de moralidade
+universalmente aceito, que uma autonomia da vontade lhe está inevitavelmente ligada,
+ou antes que é o fundamento dele. Portanto, quem considera a moralidade como algo de
+real, e não como idéia quimérica destituída de verdade, deve admitir igualmente o
+princípio que nós lhe atribuímos. Esta Segunda Secção foi, pois, como a Primeira,
+puramente analítica. Para demonstrar agora que a moralidade não é pura quimera,
+asserto que se impõe de maneira inevitável, admitindo que o imperativo categórico é
+verdadeiro, bem como o é a autonomia da vontade, e se ambos são absolutamente
+necessários como princípios a priori, isso exige a possibilidade de um uso sintético da
+razão pura prática; o que todavia não podemos agora tentar, sem que primeiro
+instituamos uma Crítica desta mesma faculdade da razão. Na última Secção, exporemos
+os traços principais da mesma, os bastantes para o nosso escopo.
+(446)
+Passagem da Metafísica dos costumes à crítica da razão pura prática
+O conceito da liberdade é a chave da explicação da autonomia da vontade. A VONTADE
+é uma espécie de causalidade dos seres viventes, enquanto dotados de razão, e a
+liberdade seria a propriedade que esta causalidade possuiria de poder agir
+independentemente de causas estranhas que a determinam; assim como a necessidade
+natural é a propriedade que tem a causalidade de todos os seres desprovidos de razão,
+de serem determinados a agir sob a influência de causas estranhas.
+Esta definição de liberdade é negativa, e, por conseguinte, não permite que lhe
+compreendamos a essência; dela porém deriva um conceito positivo da liberdade, muito
+mais rico e fecundo. Dado que o conceito de causalidade implica em si o de leis,
+segundo as quais alguma coisa que chamamos efeito deve ser produzida por alguma
+outra coisa que é a causa, a liberdade, embora não seja propriedade da vontade que se
+conforme com leis naturais, nem por isso está fora de toda lei; pelo contrário, ela deve
+ser uma causalidade que age segundo leis imutáveis, mas leis de peculiar espécie, pois,
+de outro modo, uma vontade livre seria um absurdo. A necessidade natural é uma
+heteronímia das causas eficientes; porque todo efeito só é possível de acordo com esta
+lei: que a causa eficiente seja determinada a agir por alguma coisa (447) estranha. Em
+que pode pois consistir a liberdade da vontade senão numa autonomia, ou seja, na
+propriedade que o querer tem de ser para si mesmo sua lei ? Mas a proposição: a
+vontade é em todas as suas ações lei para si mesma, significa apenas o princípio de não
+agir senão de acordo com uma máxima tal, que possa também tomar-se como objeto a
+título de lei universal. Ora, esta é precisamente a fórmula do imperativo categórico, bem
+como do princípio da moralidade; por conseguinte, uma vontade livre e uma vontade
+sujeita a leis morais são uma e a mesma coisa.
+Suposta, pois, a liberdade da vontade, basta analisar-lhe o conceito, para daí deduzir a
+moralidade e seu princípio. Entanto, este princípio é sempre uma proposição sintética:
+uma vontade absolutamente boa é aquela, cuja máxima pode sempre em si conter a lei
+universal, que outra não é senão essa mesma máxima, e é sintética, porque pela análise
+do conceito de vontade absolutamente boa não se pode descobrir aquela propriedade da
+máxima. Tais proposições sintéticas só são possíveis mediante a condição de as duas
+noções estarem ligadas uma à outra por uma terceira na qual ambas se encontrem. O
+conceito positivo da liberdade subministra este terceiro termo, que não pode ser, como
+para as causas físicas, a natureza do mundo sensível (cujo conceito compreende o
+conceito de alguma coisa, considerado como causa, e o conceito de alguma outra coisa,
+ao qual se refere a causa, e que é considerado como efeito). Mas que coisa seja este
+terceiro termo, para o qual a liberdade nos remete, e do qual temos uma idéia a priori,
+não se pode ainda indicar aqui, como nem mostrar de que maneira o conceito da
+liberdade se deduz da razão pura prática, nem como é possível o imperativo categórico.
+Tudo isto demanda ainda alguma preparação.
+A liberdade deve ser suposta como propriedade da vontade de todos os seres racionais
+Não basta atribuir, por qualquer motivo, a liberdade à nossa vontade, se não temos
+motivo suficiente para atribuí-la igualmente a todos os seres racionais. Uma vez que a
+moralidade não nos serve de lei senão enquanto somos seres racionais, daí se segue que
+ela deve valer igualmente para todos os seres racionais; e, visto ela derivar
+exclusivamente da propriedade da liberdade, é preciso também demonstrar a liberdade
+como propriedade da vontade de todos os seres racionais; e (448) não basta aduzir como
+provas certas pretensas experiências da natureza humana (o que, aliás, é absolutamente
+impossível; pois que de possível só existe uma demonstração exclusivamente a priori);
+mas é preciso demonstrá-la como pertencente em geral à atividade de seres racionais e
+dotados de vontade. Portanto, digo: todo o ser que não pode agir de outra maneira senão
+sob a idéia da liberdade, é, por isso mesmo, do ponto de vista prático, realmente livre;
+quer dizer que todas as leis inseparàvelmente associadas à liberdade, valem para ele
+exatamente como se a sua vontade fosse também reconhecida livre em si mesma e por
+motivos válidos do ponto de vista da filosofia teorética (*). E afirmo que a todo ser
+racional dotado de vontade devemos atribuir necessariamente também a idéia da
+liberdade, mercê da qual somente ele pode agir. Com efeito, num tal ser concebemos
+uma razão que é prática, ou seja, dotada de causalidade em relação a seus objetos. Ora, é
+impossível conceber uma razão, que, plenamente consciente de ser autora de seus
+juízos, recebe uma direção vinda de fora, porque, em tal caso, o sujeito atribuiria, não à
+razão, mas a um incitamento, a determinação de sua faculdade judicativa. A razão deve
+considerar-se como autora de seus princípios, independentemente de qualquer, influxo
+estranho; conseqüentemente, deve enquanto razão prática ou vontade de um ser
+racional, considerar-se como livre; por outras palavras, a vontade de um ser racional
+apenas pode ser uma vontade sua própria mediante a idéia da liberdade, e, além disso,
+uma tal vontade, deve ser, do ponto de vista prático, atribuída a todos os seres racionais.
+(*) Este método de não admitir a liberdade senão sob a forma de idéia, posta pelos seres
+racionais como fundamento de suas ações, basta para o fim que tenho em vista; e eu adoto-o para
+não ter de demonstrar também a liberdade, do ponto de vista teorético. Ainda que a
+demonstração teorética da liberdade ficasse incompleta, devem valer para um ser, que só pode
+agir sob a idéia de sua própria liberdade, as mesmas leis que valeriam para um ser que fosse
+verdadeiramente livre. Podemos pois libertar-nos aqui do peso que onera a teoria.
+Do interesse próprio das idéias da moralidade
+Em fim de contas, reduzimos o conceito determinado da moralidade à idéia da
+liberdade; contudo, não foi possível (449) demonstrar esta como sendo algo de real em
+nós e na natureza humana. Limitamo-nos a verificar que devemos supô-la, se queremos
+conceber um ser como racional e dotado da consciência de sua causalidade
+relativamente às suas ações, ou seja, como dotado de vontade; e assim encontramos que,
+precisamente pelo mesmo motivo, devemos atribuir a todo ser dotado de razão e de
+vontade esta faculdade de determinar-se a agir sob a idéia de sua liberdade.
+Além disso, vimos que da suposição desta idéia deriva igualmente a consciência de uma
+lei, segundo a qual os princípios subjetivos da ação, isto é, as máximas devem ser
+sempre tais que possam valer também objetivamente, ou seja, universalmente, como
+princípios, e, por conseguinte, servir para uma legislação que, embora emanada de nós,
+seja legislação universal. Mas por que devo eu submeter-me a este princípio, e isto na
+minha qualidade de ser racional em geral ? E por que devem igualmente submeter-se a
+ele os demais seres dotados de razão ? Quero admitir que nenhum interesse me impele,
+pois nesse caso não haveria nenhum imperativo categórico; no entanto, é preciso que eu
+aceite necessariamente um interesse e que veja como isto é possível; porque este dever é
+propriamente um querer em todo ser racional, com a condição ide que nele a razão seja
+prática sem impedimento; mas para os seres que, como nós, são dotados de
+sensibilidade, isto é, de impulsos de outra espécie, e nos quais não sucede sempre o que
+a razão sozinha faria por si, esta necessidade da ação exprime-se só pelo termo "dever",
+e a necessidade subjetiva distingue-se da necessidade objetiva.
+Parece, portanto, que nos contentamos com supor propriamente a lei moral, isto é, o
+próprio princípio da autonomia da vontade, na idéia da liberdade, sem podermos
+demonstrar a realidade e a necessidade objetiva deste princípio em si mesmo; todavia,
+mesmo assim teríamos ganho algo de muito importante, por havermos determinado,
+ao menos, o verdadeiro princípio, com maior exatidão do que se fez até ao presente;
+mas, em relação à sua validade e à necessidade prática de nos submetermos a ele, não
+teríamos avançado muito. Porque, se nos perguntassem como é que a validade universal
+de nossa máxima, como lei, deve ser a condição restritiva de nossas ações, e sobre que
+base fundamentamos o valor por nós atribuído a este modo de agir, valor tão
+considerável que não pode ser superado por nenhum outro interesse; como, além disso,
+acontece que, só por tal forma, o homem crê possuir o sentimento de seu valor pessoal,
+em comparação do (450) qual a importância, de um estado agradável ou desagradável
+deve ser tida por nula: a estas perguntas não poderemos dar resposta satisfatória.
+Sem dúvida afigura-se-nos bom poder interessar-nos por uma qualidade pessoal, da qual
+não depende, de fato, o interesse de nossa situação, mas que nos torna capazes de
+participar numa condição feliz, no caso em que esta fosse dispensada pela razão; por
+outras palavras, o simples fato de sermos dignos de felicidade, embora não nos mova o
+desejo de nela participar, pode interessar em si mesmo; mas este juízo é, na realidade,
+apenas o efeito da importância já pressuposta nas leis morais (enquanto por meio da
+idéia da liberdade nos despojamos de todo interesse empírico). Mas que nos devamos
+despojar de tal interesse empírico, isto é, que nos devamos considerar como livres na
+ação, e todavia reputar-nos subordinados a certas leis, no intuito de encontrar só em
+nossa pessoa um valor capaz de nos compensar da perda de tudo quanto confere valor à
+nossa condição, como isto seja possível, e, por conseguinte donde provém que a lei
+moral obrigue, é o que não podemos ainda compreender.
+Devemos confessar com franqueza haver aqui uma espécie de círculo vicioso, do qual,
+segundo penso, não há meio de sair. Supomo-nos livres na ordem das causas eficientes,
+a fim de nos imaginarmos, na ordem dos fins, sujeitos a leis morais, e, em seguida,
+consideramo-nos sujeitos a estas leis, por nos havermos atribuído a liberdade da
+vontade; de fato, a liberdade e a legislação própria da vontade exprimem ambas
+autonomia; são, pois, conceitos recíprocos, e, justamente por tal motivo, não se pode
+usar um para explicar o outro e dar razão dele; ao sumo, tudo quanto se pode fazer é, do
+ponto de vista lógico, reduzir a um conceito único as representações, na aparência
+diversas, de um só e mesmo objeto (como se reduzem diversas frações de valor idêntico
+à expressão mais simples.
+Resta-nos todavia uma saída, ou seja, procurar saber se, quando nos imaginamos, mercê
+da liberdade, como causas eficientes a priori, não nos situamos num ponto de vista
+diferente de quando nos representamos a nós mesmos, segundo nossas ações, como
+efeitos que estão patentes a nossos olhos.
+Há que fazer uma observação, sem que para isso sejam necessárias sutis reflexões, por
+ela estar ao alcance da inteligência mais comum, embora esta a faça a seu modo, isto ê,
+por um obscuro discernimento da. faculdade judicativa, que (451) ela denomina
+sentimento: é que todas as representações que em nós se produzem, independentemente
+de nossa vontade (como as representações dos sentidos), não nos fazem conhecer os
+objetos senão segundo o influxo que eles em nós exercem, de sorte que ficamos
+ignorando o que eles possam ser em si mesmos; conseqüentemente acontece que, por
+meio de tais representações, nós, a despeito dos maiores esforços de atenção e de toda a
+clareza que o intelecto pode acrescentar, não podemos obter senão o conhecimento dos
+fenômenos, e nunca o das coisas em si. Uma vez feita esta distinção (e basta para isso a
+diferença já apontada entre as representações que nos vêm de fora, nas quais
+permanecemos passivos, e as que produzimos exclusivamente por nós próprios, e nas
+quais manifestamos nossa atividade), resulta naturalmente que devemos supor e admitir,
+por detrás dos fenômenos, alguma outra coisa que não é fenômeno, quero dizer
+precisamente as coisas em si; embora de boa mente concedamos que, por nunca
+podermos conhecê-las de outro modo senão pela maneira como elas nos afetam, nunca
+podemos avizinhar-nos delas o bastante para sabermos o que elas são em si mesmas
+(182). Daqui resulta necessariamente uma distinção, um tanto grosseira, é certo, entre o
+mundo sensível e o mundo inteligível, o primeiro dos quais pode também ser muito
+variado, segundo a diferença de sensibilidade nos diversos espectadores, ao passo que o
+segundo, que serve de fundamento ao primeiro, permanece sempre o mesmo. O próprio
+homem, segundo o conhecimento que tem de si pelo senso íntimo, não pode gloriar-se
+do conhecer-se como é em si mesmo. Com efeito, como ele de nenhuma maneira se
+produz a si mesmo, nem recebe o conceito que tem de si a priori, mas empiricamente, é
+natural que não possa igualmente adquirir conhecimento de si mesmo senão pelo senso
+íntimo, isto é, somente mediante a aparência fenomenal de sua natureza e pelo modo
+como sua consciência é afetada. Ao. mesmo tempo, porém, deve admitir
+necessariamente, acima desta modalidade de seu próprio sujeito composto unicamente
+de fenômenos, alguma outra coisa que lhe sirva de fundamento, a saber o seu próprio
+Eu, seja qual for a maneira como este possa ser constituído em si mesmo; por
+conseguinte, no concernente à simples percepção e à capacidade de receber as
+sensações, deve ele considerar-se como fazendo parte do mundo sensível, ao passo que
+naquilo que pode ser atividade pura (isso é, naquilo que chega à consciência, não por
+influxo exercido sobre os sentidos, senão imediatamente), deve considerar-se como
+fazendo parte do mundo inteligível, do qual todavia ele nada mais conhece.
+O homem que reflete deve chegar à mesma conclusão (452), relativamente todas as
+coisas que se lhe possam apresentar: é presumível até que a inteligência mais vulgar seja
+capaz de formular semelhante conclusão, pois é notório ser ela muito inclinada a supor,
+por detrás dos objetos dos sentidos, alguma realidade invisível que age por si mesma.
+Mas, por outro lado, ela corrompe esta tendência, pelo fato de o intelecto se representar
+este invisível debaixo de uma forma sensível, isto é, querendo fazer dele um objeto de
+intuição, e conseguintemente não tira daí nenhuma vantagem.
+Mas o homem encontra realmente em si uma faculdade, por meio da qual se distingue
+de todas as outras coisas sensíveis, até mesmo de si próprio, enquanto pode ser afetado
+por objetos, e esta faculdade é a razão. Esta, como espontaneidade pura, é ainda
+superior ao entendimento; porque, embora este seja também espontaneidade e não
+contenha só, como a sensibilidade, representações que brotam apenas sob a influência
+das coisas (conseguintemente, quando se é passivo), todavia ele não pode tirar de sua
+atividade nenhuns outros conceitos, a não ser os que servem unicamente para submeter
+o regras as representações sensíveis e, desse modo,,as reunir numa consciência; e sem
+este uso da sensibilidade, ele nada poderia pensar; ao invés, a razão manifesta naquilo,
+a que se dá o nome de idéias, uma espontaneidade tão pura, que por essa forma se alça
+muito acima de tudo quanto a sensibilidade lhe pode subministrar, e manifesta sua
+principal função, distinguindo um do outro, o mundo sensível do mundo inteligível, e
+marcando assim ao próprio entendimento os seus limites.
+Por tal motivo, um ser racional deve, enquanto inteligência (e, portanto, não por suas
+faculdades inferiores), considerar-se como pertencente, não ao mundo sensível, mas ao
+mundo inteligível; tem, por conseguinte, dois pontos de vista, desde os quais pode
+considerar-se a si próprio e conhecer as leis do exercício de suas faculdades, isto é, de
+todas as suas ações: de um lado. enquanto pertencente ao mundo sensível, ele está
+sujeito a leis da natureza (heteronímia); do outro lado, enquanto pertencente ao mundo
+inteligível, está sujeito a leis independentes da natureza, não empíricas, senão fundadas
+unicamente na razão.
+Na qualidade de ser racional, portanto pertencente ao mundo inteligível, o homem não
+pode conceber a causalidade de sua própria vontade senão sob a idéia da liberdade; pois
+a independência a respeito das causas determinantes do mundo sensível (independência,
+que a razão deve sempre atribuir a si) é liberdade. Com a idéia, da liberdade está
+inseparavelmente unido o conceito de autonomia, com este está unido o (453) princípio
+universal da moralidade, que idealmente serve de fundamento a todas as ações dos seres
+racionais,, da mesma maneira que a lei da natureza serve de fundamento a todos os
+fenômenos.
+Deste modo se desfaz a suspeita, acima insinuada, segundo a qual estaria contido
+secretamente um círculo vicioso na nossa maneira de concluir da liberdade para a
+autonomia e desta para a lei moral. Com efeito, podia julgar-se que propúnhamos como
+fundamento a idéia da liberdade, só tendo em mira a lei moral, para em seguida concluir
+novamente a lei moral, partindo da liberdade; que, por conseguinte, não podíamos dar
+absolutamente nenhuma demonstração desta lei, e que esta era apenas como que a
+imposição de um princípio, que as almas bem pensantes de bom grado nos concederiam,
+mas que nós nunca poderíamos estatuir como proposição demonstrável. Agora vemos
+bem que, quando nos consideramos como livres, nos transportamos para o mundo
+inteligível como membros desse mundo, e que reconhecemos a autonomia da vontade
+juntamente com a sua conseqüência, a moralidade; mas, se nos imaginamos como
+sujeitos ao dever, consideramo-nos como pertencentes, a um tempo, ao mundo sensível
+e ao mundo inteligível.
+Como é possível um imperativo categórico ?
+O ser racional pertence, como inteligência, ao mundo inteligível, e só enquanto causa
+eficiente pertencente a este mundo, ele dá o nome de vontade à sua causalidade. Por
+outro lado, ele tem ainda consciência de si mesmo, como fazendo parte cio mundo
+sensível, no qual suas ações são consideradas como simples manifestações fenomenais
+dessa causalidade; é-lhe todavia impossível compreender como são possíveis estas
+ações provenientes de uma causalidade que não conhecemos; é, pois, forçado a encarar
+suas ações, enquanto pertencentes ao mundo sensível, como determinadas por outros
+fenômenos, a saber, por desejos e inclinações. Se eu fosse membro unicamente do
+mundo inteligível, minhas ações seriam perfeitamente conformes ao princípio da
+autonomia da vontade pura; se eu fosse apenas parte do mundo sensível, elas deveriam
+ser encaradas como inteiramente conformes à lei natural dos desejos e das inclinações, e
+por conseguinte à heteronímia da natureza. (No primeiro caso, as minhas ações
+estribariam no princípio supremo da moral; no segundo caso, no princípio da
+felicidade). Mas, dado que o mundo inteligível contém o fundamento do mundo sensível
+e, conseqüentemente, também das leis do mesmo, e uma vez que relativamente à minha
+vontade (que pertence inteiramente ao mundo inteligível), ele é um princípio imediato
+de legislação e, portanto, deve (454) também ser pensado como tal, eu, como inteligível,
+embora seja, por outra parte, um ser pertencente ao mundo sensível, deverei reconhecer-
+me sujeito à lei do primeiro, isto é, a razão, que contém esta lei na idéia da liberdade, e
+portanto sujeito igualmente à autonomia da vontade; conseqüentemente, deverei
+considerar as leis do mundo inteligível como imperativos para mim, e, como deveres, as
+ações conformes a este princípio.
+Deste modo, são possíveis imperativos categóricos, pelo motivo de a idéia da liberdade
+me fazer membro de um mundo inteligível. Donde resulta que, se eu fosse apenas isso,
+todas as minhas ações seriam sempre conformes à autonomia da vontade; como porém,
+ao mesmo tempo, me considero como membro do mundo sensível, é preciso dizer que
+elas devem ser conformes; este "dever" categórico representa uma proposição sintética a
+priori, pois que a uma vontade influenciada por desejos sensíveis acresce ainda a idéia
+desta mesma vontade, mas enquanto pertencente ao mundo inteligível, ou seja, pura e
+prática por si mesma, a qual contém a condição suprema da primeira segundo a razão;
+pouco mais ou menos, do mesmo modo que às intuições do mundo sensível se
+acrescentam os conceitos do entendimento, que por si mesmos nada mais significam do
+que a forma de uma lei em geral, e que, por isso, tornam possíveis proposições sintéticas
+a priori, sobre as quais repousa todo conhecimento de uma natureza.
+O uso prático, que os homens comumente fazem da razão, confirma a exatidão desta
+dedução. Não existe ninguém, nem sequer o pior celerado, contanto que esteja
+habituado a servir-se da razão, que, ao lhe serem apresentados exemplos de lealdade nas
+intenções, de perseverança na observância de máximas boas, de simpatia e de
+benevolência universal (tudo isto ligado ainda a grandes sacrifícios de vantagens e de
+bem-estar), não deseje sentir-se também ele possuído de tais sentimentos. Ele não pode,
+sem dúvida, e unicamente movido de suas inclinações e impulsos, realizar este ideal em
+sua pessoa; mas nem por isso deixa de sentir o profundo desejo de se libertar dessas
+inclinações que lhe são gravosas. Mostra, por essa forma, que, com uma vontade imune
+dos impulsos da sensibilidade, ele se transporta com o pensamento a uma ordem de
+coisas inteiramente diversa daquela que constitui seus desejos no campo da
+sensibilidade; pois que de tal aspiração não pode esperar nenhuma satisfação de seus
+apetites, nem por conseguinte nenhum estado capaz de contentar alguma de suas
+inclinações reais ou imaginárias (uma vez que, por essa forma, a própria idéia, que lhe
+provoca o desejo, perderia sua preeminência); ele não pode esperar daí senão um maior
+valor intrínseco (455) de sua pessoa. Ora, ele crê ser essa pessoa melhor, quando se
+situa no ponto de vista de membro do mundo inteligível, para o qual o arrasta
+forçadamente a idéia da liberdade, isto é, a independência relativamente às causas
+determinantes do mundo sensível; neste ponto de vista, ele tem consciência de uma boa
+vontade que, segundo sua própria confissão, constitui a lei para a vontade má, a que está
+sujeito enquanto membro do mundo sensível: lei, cuja autoridade ele reconhece,
+embora a transgrida. O dever moral é, pois, propriamente o querer necessário para todo
+membro de um mundo inteligível, e deve ser concebido por este como dever apenas na
+medida em que ele se considera ao mesmo tempo como membro do mundo sensível.
+Do extremo limite de toda filosofia prática
+Todos os homens se julgam livres em sua vontade. Daí procedem todos os juízos sobre
+as ações, declarando quais elas deveriam ter sido, embora não tenham sido tais.
+Todavia, esta liberdade não é um conceito da experiência, nem o pode ser, porque este
+conceito permanece sempre, embora a experiência mostre o contrário daquelas
+exigências que, na suposição da liberdade, são representadas como necessárias. Por
+outro lado, é igualmente necessário que tudo quanto sucede seja infalivelmente
+determinado segundo as leis da natureza, e esta necessidade natural não é também um
+conceito da experiência, precisamente por ser um conceito que implica em si o conceito
+de necessidade, por conseguinte o de um conhecimento a priori. Mas este conceito de
+uma natureza é confirmado pela experiência, e deve ser inevitavelmente pressuposto, se
+é que deve ser possível a experiência, ou seja, um conhecimento coerente dos objetos
+dos sentidos segundo leis universais. Pelo que, a liberdade é somente uma idéia da
+razão, cuja realidade objetiva é cm si duvidosa, ao passo que a natureza é um conceito
+do entendimento, que prova e deve necessariamente provar sua realidade por meio de
+exemplos tomados da experiência.
+É esta, sem dúvida, a origem de uma dialética da razão, pois no concernente à vontade,
+a liberdade que se lhe atribui, parece estar em oposição com a necessidade dá natureza;
+todavia, embora a razão situada entre estas duas direções, do ponto de vista
+especulativo encontre o caminho da necessidade natural mais desimpedido e mais
+praticável que o da liberdade, todavia, do ponto de vista prático, a senda da (456)
+liberdade é a única onde seja possível lazer uso da razão em nosso comportamento; daí
+o ser impossível, tanto à mais sutil filosofia quanto à mais vulgar razão, pôr em dúvida a
+liberdade, por meio de sofismas. Deve, pois, a razão admitir não ser possível encontrar
+nenhuma verdadeira contradição entre a liberdade e a necessidade natural das mesmas
+ações humanas, porque não lhe é dado renunciar ao conceito de natureza, como nem ao
+de liberdade.
+Entretanto, esta aparente contradição deve ser desfeita de modo convincente, embora
+nunca se possa vir a compreender como seja possível a liberdade. Com efeito, se o
+conceito da liberdade fosse contraditório consigo ou com a idéia da natureza, que é
+igualmente necessária, deveria ela (a liberdade) ser sacrificada em proveito da
+necessidade natural.
+Mas é impossível subtrair-.se a esta contradição, se o sujeito, que se supõe livre, se
+concebesse a si mesmo, quando se denomina livre, no mesmo sentido ou precisamente
+na mesma relação em que ele se supõe, relativamente à mesma ação, sujeito à lei da
+natureza. Ê pois, uma tarefa, a que a filosofia especulativa não pode subtrair-se, a de
+mostrar, ao menos, que aquilo que torna esta contradição ilusória é o fato de
+concebermos o homem, quando qualificamos de livre, num sentido diferente e sob uma
+relação diferente de quando o consideramos como sujeito, enquanto parte da natureza,
+às leis desta mesma natureza, e que não só as duas relações podem acomodar-se uma
+com a outra, senão que devem outrossim ser pensadas no mesmo sujeito como
+necessariamente unidas; pois, de outro modo, não se explicaria por que deveríamos
+sobrecarregar a razão com uma idéia que, embora consinta, sem contradição, em se unir
+a outra suficientemente justificada, nos envolve todavia num embaraço que entrava
+singularmente a razão em seu uso teorético. Mas semelhante tarefa compete
+exclusivamente à filosofia especulativa, a qual por essa forma, deve abrir livre caminho
+à filosofia prática. Não fica, pois à mercê do filósofo o cuidado de suprimir ou deixar
+intacta esta aparente contradição; porque, neste último caso, a teoria é, sob este respeito,
+um bonum vacans, do qual o fatalista pode com direito apossar-se, dele expulsando toda
+moral como de uma pretensa propriedade, que ela possui sem título.
+Todavia não se pode ainda aqui dizer que comece o campo da filosofia prática. Porque
+ela não é, por forma alguma, qualidade para dirimir o debate, mas exige apenas da razão
+especulativa que ponha termo ao litígio, em que ela se encontra envolvida em matéria
+teorética, a fim de que (457) a razão prática possa gozar de repouso e segurança,
+relativamente a intromissões externas que poderiam contestar-lhe o terreno onde ela
+pretende estabelecer-se.
+Mas a pretensão legítima, que tem a razão humana, mesmo a mais comum, à liberdade
+da vontade, funda-se na consciência e na pressuposição admitida da independência da
+razão a respeito de causas de determinação puramente subjetivas, o conjunto das quais
+constitui o que pertence somente à sensação, por conseqüência o que recebeu o nome
+gerai de sensibilidade. O homem, que de tal modo se considera como inteligência,
+coloca-se, por isso mesmo, numa outra ordem de coisas, e, quando ele se concebe como
+inteligência dotada de vontade, portanto de causalidade, põe-se em relação com
+princípios determinantes de outra espécie inteiramente diferente, do que quando se
+considera como um fenômeno do mundo sensível (o que ele, na verdade, também é) e
+submete a sua causalidade, segundo uma determinação externa, a leis da natureza. Ora,
+ele imediatamente dá conta que ambas as coisas podem, e até devem, dar-se ao mesmo
+tempo. Pois, que uma coisa na ordem dos fenômenos (pertencente ao mundo sensível)
+esteja sujeita a certas leis, das quais é independente como coisa ou como ser em si
+mesmo, não contem em si a mínima contradição; que o próprio homem deva conceber-
+se e representar-se sob este duplo aspecto, é exigência que se funda, no que concerne ao
+primeiro ponto, na consciência de si como objeto afetado pelos sentidos, e, no que
+respeita ao segundo ponto, na consciência de si como inteligência, isto é, como ser
+independente, no uso da razão, das impressões sensíveis (portanto, como pertencente ao
+mundo inteligível).
+Daqui deriva que o homem se atribui uma vontade que não consente em pôr no seu
+ativo coisa alguma do que pertença unicamente a seus desejos e inclinações, e que, ao
+invés, concebe como possíveis para ela, ou melhor, como necessárias, ações que não
+podem ser executadas senão mediante uma renúncia a todos os desejos e incitamentos
+sensíveis. A causalidade de tais ações reside nele enquanto inteligência e nas leis dos
+efeitos e das ações que são conformes aos princípios de um mundo inteligível, do qual
+mundo, todavia, ele nada mais sabe do que isto, que nele só a razão, e justamente a
+razão pura, independente da sensibilidade, institui a lei. Além disso, como só enquanto
+inteligência ele é o verdadeiro eu (ao passo que, enquanto homem, ele é só fenômeno
+de si próprio), estas leis endereçam-se a ele imediatamente e categoricamente, de sorte
+que tudo aquilo a que as inclinações e impulsos o incitam (portanto toda a natureza do
+mundo (458) sensível), não pode causar dano às leis da sua vontade considerada como
+inteligência. Mais ainda. ele não assume a responsabilidade destas inclinações e
+tendências, nem as atribui ao seu verdadeiro eu, ou seja, à sua vontade; só se considera
+responsável da complacência que poderia ter para com elas, se porventura lhes
+concedesse alguma influência sobre suas máximas, com prejuízo das leis racionais da
+vontade.
+Introduzindo-se assim por meio do pensamento num mundo inteligível, a razão prática
+não ultrapassa, de fato, seus limites; só os ultrapassaria, se quisesse, entrando neste
+mundo, intuir-se, sentir-se nele. Isso não passa de uma concepção negativa em relação
+ao mundo sensível, o qual não dá leis à razão na determinação da vontade; concepção
+que só num ponto é positiva, a saber, que esta liberdade, como determinação negativa,
+está ligada, ao mesmo tempo, a uma faculdade (positiva), e precisamente a uma
+causalidade da razão, que denominamos vontade, isto é, à faculdade de agir de tal sorte
+que o princípio das ações seja conforme ao caráter essencial de uma causa racional, ou
+seja, à condição que a máxima erigida em lei seja universalmente válida. Mas, se a
+razão quisesse ainda derivar do mundo inteligível um objeto da vontade, isto é, um
+motivo, ultrapassaria, nesse caso, seus limites e teria a ilusão de conhecer uma coisa, da
+qual, na realidade, nada conhece. Portanto, o conceito de um mundo inteligível nada
+mais é que um ponto de vista, que a razão se vê obrigada a aceitar, fora dos fenômenos,
+para se concebera si própria como prática: o que não seria possível, se as influências
+da sensibilidade fossem determinantes para o homem, mas que todavia é necessário, se
+é que não devemos contestar-lhe a consciência de si mesmo como inteligência, portanto
+como causa racional e atuante por meio da razão, ou seja, livre em suas operações.
+Semelhante concepção implica a idéia de uma outra ordem e de uma outra legislação
+diferente da ordem e da legislação do mecanismo natural que se aplica ao mundo
+sensível, e torna necessário o conceito de um mundo inteligível (isto é, o sistema total
+dos seres racionais como coisas em si), mas sem a menor pretensão de ultrapassar aqui 0
+pensamento daquilo que é simplesmente a condição formal do mesmo, ou seja, a
+universalidade da máxima da vontade como lei e, portanto, a autonomia desta
+faculdade, autonomia que só pode existir com a liberdade da mesma; ao passo que todas
+as leis, que são determinadas por sua relação com um objeto, dão uma heteronímia que
+só se encontra nas leis naturais e que só se pode referir ao mundo sensível.
+A razão ultrapassaria todos os seus limites, se pretendesse explicar como é que uma
+razão pura pode ser prática, o (459) que equivaleria exatamente a explicar de que
+maneira a liberdade é possível.
+De fato, só podemos explicar aquilo que podemos reduzir a leis, cujo objeto pode ser
+dado nalguma experiência possível. Ora, a liberdade é uma simples idéia, cuja realidade
+não pode por forma alguma ser demonstrada por leis da natureza, e portanto também em
+nenhuma experiência possível, e que, por isso mesmo que não se pode propor dela,
+segundo qualquer analogia, um exemplo, nunca pode ser compreendida, nem sequer só
+concebida. Ela vale apenas como suposição necessária da razão num ser que julga ter
+consciência de possuir uma vontade, ou seja, uma faculdade muito diferente da simples
+faculdade apetitiva (quero dizer: uma faculdade de se determinar a agir como
+inteligência, portanto segundo leis da razão, independentemente dos instintos naturais).
+Mas, onde cessa uma determinação segundo as leis da natureza, aí cessa também toda
+explicação, e nada mais resta do que manter-se na defensiva, isto é, refutar as objeções
+dos que pretendem haver penetrado mais profundamente na essência das coisas, e que,
+por tal motivo, declaram ousadamente a liberdade impossível. Apenas se lhes pode
+mostrar que a contradição, que eles pretendera haver descoberto, cm nada mais consiste
+senão em que, para tornar a lei da natureza válida relativamente às ações humanas, eles
+deveriam considerar necessariamente o homem como fenômeno; quando agora se exige
+que eles devam concebê-lo, enquanto inteligência, também como uma coisa em si,
+continuam todavia a considerá-lo sempre ainda como fenômeno; então, sem dúvida, o
+fato de subtrair a causalidade do homem (isto é, sua vontade) às leis naturais do mundo
+sensível num só e mesmo sujeito constituiria uma contradição; contudo, esta
+contradição desapareceria, se eles quisessem refletir e, como seria de justiça, reconhecer
+que, por detrás dos fenômenos, devem por certo existir (embora ocultas) as coisas em si,
+as leis das quais não se pode pretender que sejam idênticas àquelas a que são sujeitas
+suas manifestações fenomenais.
+A impossibilidade subjetiva de explicar a liberdade da (460) vontade é idêntica à
+impossibilidade de descobrir e de fazer compreender um interesse (*) que o homem
+possa tomar pelas leis morais; e, não obstante, é fato que o homem toma realmente
+interesse por elas, o primeiro do qual é em nós aquilo a que chamamos sentimento
+moral, sentimento que por alguns, falsamente, é dado como sendo o critério de nosso
+juízo moral quando, na verdade, deve ser antes considerado como o efeito subjetivo
+exercido pela lei sobre a vontade, do qual só a razão subministra os princípios objetivos.
+Para que um ser, que é, a um tempo, racional e afetado pela sensibilidade, queira o que
+só a razão prescreve como .dever, é preciso que a razão tenha a faculdade de lhe
+inspirar um sentimento de prazer ou de satisfação pelo cumprimento do dever, e,
+conseguintemente, uma causalidade, pela qual determine a sensibilidade conformemente
+a seus princípios. É porém, de fato, impossível compreender, isto é, explicar a priori,
+como um simples pensamento, que em si não contém coisa alguma de sensível, pode
+produzir um sentimento de prazer ou de repugnância; pois isto é uma espécie peculiar
+de causalidade, da qual nada podemos determinar absolutamente a priori, mas para a
+qual só podemos consultar a experiência. Mas, como esta não pode oferecer nenhuma
+relação entre causa e efeito, a não ser entre dois objetos da experiência, e como aqui a
+razão pura, unicamente por meio de idéias (que não subministram objetos para a
+experiência), deve ser a causa de um efeito, que certamente se encontra na experiência,
+por isso a nós homens e absolutamente impossível explicar como e por que a
+universalidade da máxima como lei, e por conseguinte a moralidade, nos interessa.
+Certo é apenas isto: que a moralidade não possui valor para nós pelo fato de interessar
+(pois isto é heteronímia e dependência da razão prática a respeito da sensibilidade, ou
+seja, a respeito de um (461) sentimento assente como princípio, no qual caso nunca
+poderia estabelecer uma legislação moral); mas a moralidade apresenta interesse,
+porque tem valor para nós enquanto homens, porque deriva de nossa vontade, concebida
+como inteligência, portanto do nosso verdadeiro eu; ora o que pertence ao puro
+fenômeno é necessariamente subordinado pela razão à natureza da coisa em si.
+(*) Interesse é aquilo pelo qual a razão se torna prática, isto é, se torna causa determinante da
+vontade. Eis porque se diz apenas de um ser racional, que ele toma interesse por qualquer coisa,
+ao passo que os seres irracionais sentem somente impulsos sensíveis. A razão toma interesse
+imediato pela ação, só quando a validade universal da máxima desta ação é um princípio
+suficiente de determinação da vontade. Só um interesse deste gênero é puro. Mas, se a razão não
+pode determinar a vontade senão por meio de algum outro objeto do desejo, então ela não toma
+pela ação senão um interesse mediato; e, como a razão não pode descobrir por si só, sem a
+experiência, nem objetos da vontade, nem um sentimento especial que sirva a esta de
+fundamento, este último interesse não pode ser senão um interesse empírico, nunca um puro
+interesse racional. O interesse lógico da razão (que a leva a aumentar seus conhecimentos) nunca
+é imediato, mas pressupõe fins, aos quais se refere o uso desta faculdade.
+1
+Portanto, a questão: "como é possível um imperativo categórico ?" só pode ser
+verdadeiramente respondida, na medida em que seja possível indicar a única suposição
+donde depende a sua possibilidade, ou seja, a idéia da liberdade, e em que se possa
+também enxergar a necessidade desta suposição, o que é suficiente para o uso prático
+da razão, isto é, para nos convencermos da validade deste imperativo e,
+conseguintemente, também da lei moral. Mas o que nenhuma razão humana logrará
+jamais descobrir é a maneira como tal suposição seja possível. Supondo que a vontade
+de uma inteligência é livre, segue-se, como conseqüência inevitável, a autonomia da
+mesma, como sendo a única condição formal, mediante a qual ela pode ser determinada.
+Pressupor esta liberdade da vontade (sem cair em contradição com o princípio da
+necessidade natural da ligação dos fenômenos cio mundo sensível) não é só
+absolutamente possível (como a filosofia especulativa o pode mostrar), mas é
+igualmente necessário para um ser racional, que tem consciência de sua causalidade por
+meio da razão, portanto de uma vontade (distinta dos desejos) de admiti-la praticamente,
+isto é, em idéia, como condição de todas as suas ações voluntárias. Como é que a razão
+pura sem outro impulso, venha ele donde vier, possa por si mesma ser prática, por
+outras palavras, como é que o simples princípio da validade universal de todas as suas
+máximas como leis (o qual seria certamente a forma de uma razão pura prática), sem
+matéria (objeto) alguma da vontade, pela qual se possa antecipadamente tomar
+interesse, possa por si mesmo subministrar um móbil de ação e suscitar um interesse
+capaz de ser denominado puramente moral; ou, por outras palavras, como é que uma
+razão pura possa ser prática: explicar isto é inteiramente impossível a qualquer razão
+humana, e é baldado todo o trabalho despendido para encontrar uma elucidação.
+É exatamente a mesma coisa que se eu procurasse descobrir como é possível a própria
+liberdade como causalidade (462) de uma vontade. Com efeito, aqui ponho de parte o
+princípio de explicação filosófica, sem ter outro a que recorrer. Poderia, é certo,
+aventurar-me no mundo inteligível que todavia me resta, no mundo das inteligências;
+mas, embora tenha dele uma idéia, e bem fundada, não tenho todavia o mínimo
+conhecimento do mesmo, e nunca o poderei alcançar, malgrado todos os esforços de
+minha razão natural. Esta idéia significa apenas alguma coisa, que continua subsistindo,
+depois de eu ter excluído dos princípios de determinação de minha vontade tudo quanto
+pertence ao mundo sensível, de maneira que restrinja simplesmente o princípio dos
+impulsos derivados do campo da sensibilidade, limitando este campo e mostrando que
+ele não compreende em si o todo do todo, e que fora dele muitas outras coisas ainda
+existem; mas estas muitas coisas, não as conheço. Da razão pura, que concebe este
+ideal, não me resta, após haver leito abstração de toda matéria, isto é, de todo
+conhecimento dos objetos, senão a forma, ou seja, a lei prática da validade universal das
+máximas e, em conformidade com esta, a concepção da razão, considerad a em
+relação a um mundo inteligível puro, como causa eficiente possível, isto é, como causa
+determinante da vontade; o impulso deve aqui faltar completamente; a não ser que esta
+idéia de um mundo inteligível não seja ela mesma o impulso, ou a coisa pela qual a
+razão originariamente toma interesse; mas explicar isto, é justamente o problema que
+não logramos resolver.
+Aqui está, pois, o limite extremo de toda investigação moral. Determiná-lo é já de
+grande importância, para que a razão, por um lado, não se embrenhe no mundo sensível,
+com prejuízo da moralidade, à cata do motivo supremo de determinação e de um
+interesse, sem dúvida; compreensível, mas empírico; e, por outro lado, não bata as asas
+em vão, sem mudar de lugar, neste espaço de conceitos transcendentes, vazio para ela,
+que se chama o mundo inteligível, nem se perca no meio de quimeras. Além disso, a
+idéia de um mundo inteligível puro, concebido como um todo formado por todas as
+inteligências, de que nós mesmos, como seres racionais, fazemos parte (conquanto, por
+outro lado, pertençamos, ao mesmo tempo, ao mundo sensível), continua sendo sempre
+uma idéia utilizável e lícita cm benefício de uma crença racional, se bem que todo saber
+se confine dentro dos limites deste mundo. E mercê do magnífico ideal de um reino
+universal dos fins cm si (dos seres racionais), ao qual não podemos pertencer como
+membros senão tendo o cuidado de nos portar de acordo com as máximas da liberdade,
+como se elas fossem leis da «463) natureza, a idéia do mundo inteligível é capaz de
+produzir em nós vivo interesse pela lei moral.
+Observação final
+O uso especulativo da razão, relativamente à natureza, conduz à absoluta necessidade
+de uma causa suprema do mundo; o uso prático da razão, relativamente à liberdade,
+conduz também a uma necessidade absoluta, mas que é só a necessidade das leis das
+ações de um ser racional como tal. Ora, é um principio essencial de todo uso da nossa
+razão, estimular o conhecimento, que ela nos dá, até à consciência de sua necessidade
+(pois sem isso não seria conhecimento da razão). Mas a mesma razão está igualmente
+sujeita a uma restrição não menos essencial, que consiste em a razão ser incapaz de
+perceber a necessidade daquilo que é e acontece, e do que deve acontecer, se não
+assenta como princípio uma condição, sob a qual a coisa é, acontece ou deve acontecer.
+Deste modo, porém, mercê da constante busca da 'condição, a razão não pode ver senão
+que sua satisfação é sempre adiada. Pelo que, ela busca sem descanso o necessário
+incondicionado, e é obrigada a admiti-lo, sem meio algum de o tornar inteligível a si,
+sentindo-se já bastante feliz em só poder descobrir o conceito que se ajusta com esta
+suposição. Não se deve, portanto, censurar a nossa dedução do princípio supremo da
+moralidade; deveria, antes, criticar-se a razão humana em geral, por não lograrmos
+explicar uma lei prática incondicionada (qual deve ser o imperativo categórico) em sua
+necessidade absoluta. Não nos podem, pois, censurar, por não querermos fazer isto
+mediante uma condição, ou seja mediante algum interesse estabelecido como princípio,
+porque, nesse caso, não seria mais uma lei moral, isto é, uma lei suprema da liberdade.
+Assim, se não compreendemos verdadeiramente a necessidade prática incondicionada
+do imperativo moral, compreendemos todavia a sua incompreensibilidade, e é tudo
+quanto se pode exigir racionalmente de uma filosofia que se empenha por alcançar, nos
+princípios, os limites da razão humana.

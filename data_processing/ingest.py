@@ -6,68 +6,69 @@ from services.vector_store_service import vector_store_service
 
 def load_documents_from_directory(directory_path: str) -> list[str]:
     """
-    Carrega e extrai texto de arquivos .txt em um diretório.
+    Carrega e extrai texto de arquivos .txt em um diretório, mostrando quais foram carregados.
     """
+    print(f"\nCarregando documentos do diretório: '{directory_path}'...")
     texts = []
     for filename in os.listdir(directory_path):
         if filename.endswith(".txt"):
             try:
                 with open(os.path.join(directory_path, filename), 'r', encoding='utf-8') as f:
                     texts.append(f.read())
+                    print(f"  - Arquivo carregado: {filename}")
             except Exception as e:
-                print(f"Erro ao ler o arquivo {filename}: {e}")
+                print(f"❌ Erro ao ler o arquivo {filename}: {e}")
+    
+    print(f"Total de {len(texts)} arquivos .txt carregados.")
     return texts
 
 def clean_text(text: str) -> str:
     """
-    Aplica uma série de regras de limpeza robustas, focadas em textos
-    estruturados como livros (ex: Crítica da Razão Pura).
+    Aplica uma série de regras de limpeza robustas, com tratamento aprimorado
+    de quebras de linha para preservar a estrutura de parágrafos.
     """
-    print("Iniciando a limpeza robusta do texto...")
+    print("\nIniciando a limpeza robusta do texto...")
+    
+    # 1. Isola o corpo principal do texto (se os marcadores existirem)
+    start_match = re.search(r'^\s*INTRODUÇÃO\s*$', text, re.MULTILINE | re.IGNORECASE)
+    end_match = re.search(r'^\s*NOTAS\s*$', text, re.MULTILINE | re.IGNORECASE)
 
-    # 1. Isolar o corpo principal do texto, removendo cabeçalho e notas de rodapé
-    # Tenta encontrar o início do conteúdo principal (INTRODUÇÃO) e o fim (NOTAS)
-    start_match = re.search(r'INTRODUÇÃO', text, re.IGNORECASE)
-    end_match = re.search(r'NOTAS', text, re.IGNORECASE)
-
-    # Verifica se ambos os marcadores foram encontrados antes de cortar o texto
-    if start_match and end_match:
+    text_body = text
+    if start_match:
         start_index = start_match.start()
-        end_index = end_match.start()
-        print(f"Marcadores 'INTRODUÇÃO' e 'NOTAS' encontrados. Extraindo o corpo principal do texto.")
-        text = text[start_index:end_index]
-    else:
-        print("Aviso: Não foi possível encontrar os marcadores 'INTRODUÇÃO' ou 'NOTAS'. A limpeza prosseguirá no texto completo.")
-
-    # 2. Remover linhas de sumário/índice com muitos pontos
-    text = re.sub(r'^[IVXLCDM\s—–-]+\s?.*\.{5,}.*$', '', text, flags=re.MULTILINE)
-
-    # 3. Remover linhas que são títulos de seções/capítulos
-    text = re.sub(r'^\s*(PRIMEIRA SEÇÃO|SEGUNDA SEÇÃO|TERCEIRA SEÇÃO)\s*$', '', text, flags=re.MULTILINE | re.IGNORECASE)
-    text = re.sub(r'^\s*(CAPITULO|LIVRO)\s+[IVXLCDM\dº]+.*$', '', text, flags=re.MULTILINE | re.IGNORECASE)
-    text = re.sub(r'^\s*[IVXLCDM]+\s*—.*$', '', text, flags=re.MULTILINE)
-    text = re.sub(r'^\s*Analítica dos conceitos\s*$', '', text, flags=re.MULTILINE | re.IGNORECASE)
-
-    # 4. Remover linhas que parecem ser tabelas de contagem de livros/versos
-    text = re.sub(r'^\s*”?\s*Livro\s+[IVXLCDM\dº]+\.?.*$', '', text, flags=re.MULTILINE)
-    text = re.sub(r'^\s*”\s*\d+.*$', '', text, flags=re.MULTILINE)
-    text = re.sub(r'^\s*Total\s+.*$', '', text, flags=re.MULTILINE)
-    text = re.sub(r'^Quantos versos tem o original.*$', '', text, flags=re.MULTILINE)
-
-    # 5. Remover marcadores de notas numéricos como (1), (2), (15)
-    text = re.sub(r'\(\d+\)', '', text)
-
-    # 6. Remover linhas que são apenas números (possíveis números de página)
-    text = re.sub(r'^\s*\d+\s*$', '', text, flags=re.MULTILINE)
-
-    # 7. Normalizar quebras de linha e espaços
-    # Substituir 3 ou mais quebras de linha por apenas duas (para separar parágrafos)
-    text = re.sub(r'\n{3,}', '\n\n', text)
-    # Remover espaços extras no início/fim de cada linha
-    text = re.sub(r'^[ \t]+|[ \t]+$', '', text, flags=re.MULTILINE)
+        text_body = text[start_index:]
+        print("  - Marcador 'INTRODUÇÃO' encontrado. Processando a partir deste ponto.")
+        
+        end_match_in_body = re.search(r'^\s*NOTAS\s*$', text_body, re.MULTILINE | re.IGNORECASE)
+        if end_match_in_body:
+            end_index = end_match_in_body.start()
+            text_body = text_body[:end_index]
+            print("  - Marcador 'NOTAS' encontrado. O corpo principal do texto foi isolado.")
+    
+    # 2. Remove padrões de ruído específicos (títulos, sumários, etc.)
+    lines = text_body.splitlines()
+    cleaned_lines = []
+    for line in lines:
+        if re.search(r'\.{5,}', line): continue
+        if re.search(r'^\s*(PRIMEIRA SEÇÃO|SEGUNDA SEÇÃO|TERCEIRA SEÇÃO|CAPITULO|LIVRO)\s*[IVXLCDM\dº]*.*$', line, re.IGNORECASE): continue
+        if re.search(r'^\s*”?\s*Livro\s+[IVXLCDM\dº]+\.?.*$', line): continue
+        if re.search(r'^\s*\d+\s*$', line): continue
+        cleaned_line = re.sub(r'\s*\(\d+\)\s*', ' ', line).strip()
+        if cleaned_line:
+            cleaned_lines.append(cleaned_line)
+    
+    text_with_proper_lines = "\n".join(cleaned_lines)
+    
+    # 3. --- MELHORIA: Tratamento inteligente de quebras de linha ---
+    # Preserva parágrafos (duas ou mais quebras de linha) usando um marcador temporário
+    processed_text = re.sub(r'\n{2,}', '_PARAGRAPH_BREAK_', text_with_proper_lines)
+    # Junta linhas que foram quebradas no meio de uma frase
+    processed_text = re.sub(r'\n', ' ', processed_text)
+    # Restaura os parágrafos
+    final_text = processed_text.replace('_PARAGRAPH_BREAK_', '\n\n')
 
     print("Limpeza do texto concluída.")
-    return text.strip()
+    return final_text.strip()
 
 
 def main():
@@ -78,30 +79,39 @@ def main():
     documents_path = "documents/"
     raw_texts = load_documents_from_directory(documents_path)
     if not raw_texts:
-        print("Nenhum documento encontrado na pasta 'documents/'. Encerrando.")
+        print("\nNenhum documento encontrado na pasta 'documents/'. Encerrando.")
         return
 
     full_text = "\n".join(raw_texts)
     
-    # Aplica a nova função de limpeza
     cleaned_text = clean_text(full_text)
 
-    # Divide o texto limpo em chunks
+    if not cleaned_text or cleaned_text.isspace():
+        print("\n❌ ERRO CRÍTICO: Após a limpeza, o texto ficou vazio.")
+        print("   Verifique o texto de entrada e as regras no script 'data_processing/ingest.py'.")
+        print("   A ingestão de dados foi interrompida para evitar erros.\n")
+        return
+
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1000,  # Mantém um bom tamanho para contexto
-        chunk_overlap=200,   # Sobreposição para não perder o contexto entre chunks
+        chunk_size=1000,
+        chunk_overlap=200,
         length_function=len
     )
     chunks = text_splitter.split_text(cleaned_text)
-    print(f"Texto dividido em {len(chunks)} chunks após a limpeza.")
+    print(f"\nTexto dividido em {len(chunks)} chunks após a limpeza.")
 
-    # Gera IDs únicos para cada chunk
+    if not chunks:
+        print("\n❌ ERRO CRÍTICO: Nenhum chunk foi gerado a partir do texto limpo.")
+        print("   A ingestão de dados foi interrompida.\n")
+        return
+
     chunk_ids = [f"chunk_{i}" for i in range(len(chunks))]
 
-    # Adiciona os chunks limpos à base vetorial
-    print("Adicionando chunks limpos à base vetorial...")
-    vector_store_service.add_documents(documents=chunks, ids=chunk_ids)
-    print("Ingestão de dados concluída com sucesso!")
+    print("\nAdicionando chunks limpos à base vetorial...")
+    # Assumindo que o `vector_store_service` foi atualizado para lidar com metadados
+    # Por agora, passamos None para metadados para manter a compatibilidade.
+    vector_store_service.add_documents(documents=chunks, ids=chunk_ids, metadatas=None)
+    print("\n✅ Ingestão de dados concluída com sucesso!")
 
 
 if __name__ == "__main__":

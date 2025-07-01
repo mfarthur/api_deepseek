@@ -1,0 +1,1632 @@
+Versão eletrônica do livro “Discurso do Método” 
+Autor: Descartes 
+Créditos da digitalização: Membros do grupo de discussão Acrópolis (Filosofia) 
+Homepage do grupo: http://br.egroups.com/group/acropolis/ 
+ 
+A distribuição desse arquivo (e de outros baseados nele) é livre, desde que se dê os créditos da digitalização aos membros do 
+grupo Acrópolis e se cite o endereço da homepage do grupo no corpo do texto do arquivo em questão, tal como está acima.  
+ 
+ 
+ 
+DISCURSO DO MÉTODO 
+ 
+Tradução de: Enrico Corvisieri 
+ 
+ 
+ 
+PRIMEIRA PARTE 
+ 
+ 
+INEXISTE NO MUNDO coisa mais bem distribuída que o bom senso, 
+visto que cada indivíduo acredita ser tão bem provido dele que mesmo os mais 
+difíceis de satisfazer em qualquer outro aspecto não costumam desejar possuí-lo 
+mais do que já possuem. E é improvável que todos se enganem a esse respeito; 
+mas isso é antes uma prova de que o poder de julgar de forma correta e discernir 
+entre o verdadeiro e o falso, que é justamente o que é denominado bom senso ou 
+razão, é igual em todos os homens; e, assim sendo, de que a diversidade de 
+nossas opiniões não se origina do fato de serem alguns mais racionais que 
+outros, mas apenas de dirigirmos nossos pensamentos por caminhos diferentes e 
+não considerarmos as mesmas coisas. Pois é insuficiente ter o espírito bom, o 
+mais importante é aplicá -lo bem. As maiores almas são capazes dos maio res 
+vícios, como também das maiores virtudes, e os que só andam muito devagar 
+podem avançar bem mais, se continuarem sempre p elo caminho reto, do que 
+aqueles que correm e dele se afastam. 
+Quanto a mim, nunca supus que meu espírito fosse em nada mais perfeito 
+do que os dos outros; com freqüência desejei ter o pensamento tão rápido, ou a 
+imaginação tão clara e diferente, ou a memó ria tão abrangente ou tão pronta, 
+quanto alguns outros. E des conheço quaisquer outras qualidades, afora as que 
+servem para o aperfeiçoamento do espírito; pois, quanto à razão ou ao senso, 
+posto que é a única coisa que nos torna homens e nos diferencia dos  animais, 
+acredito que existe totalmente em cada um, acompanhando nisso a opinião geral 
+dos filósofos, que afirmam não existir mais nem menos senão entre os acidentes, 
+e não entre as formas ou naturezas dos indivíduos de uma mesma espécie. 
+Mas não recear ei dizer que julgo ter tido muita felicidade de me haver 
+encontrado, a partir da juventude, em determinados caminhos, que me levaram a 
+considerações e máximas, das quais formei um método, pelo qual me parece que 
+eu consiga aumentar de forma gradativa meu conhecimento, e de elevá-lo, pouco 
+a pouco, ao mais alto nível, a que a mediocridade de meu espírito e a breve 
+duração de minha vida lhe permitam alcançar. Pois já colhi dele tais frutos que, 
+apesar de no juízo que faço de mim próprio eu procure inclinar -me mais para o 
+lado da desconfiança do que para o da presunção, e que, observando com um 
+olhar de filósofo as variadas ações e empreendimentos de todos os homens, não 
+exista quase nenhum que não me pareça fútil e inútil, não deixo de lograr 
+extraordinária satisfação do progresso que creio já ter feito na procura da 
+verdade e de conceber tais esperanças para o futuro que, se entre as ocupações 
+dos homens pura mente homens existe alguma que seja solidamente boa e 
+importante, atrevo-me a acreditar que é aquela que escolhi. 
+Contudo, pode ocorrer que me engane, e talvez não seja mais do que um 
+pouco de cobre e vidro o que eu tomo por ouro e diamantes. Sei como estamos 
+sujeitos a nos enganar no que nos diz respeito, e como também nos devem ser 
+suspeitos os juízos de nossos amigos, quando são a nosso favor. Mas apreciaria 
+muito mostrar, neste discurso, quais os caminhos que segui, e representar nele a 
+minha vida como num quadro, para que cada um possa julgá-la e que, informado 
+pelo comentário geral das opiniões emitidas a respeito dela, seja este uma nova 
+forma de me instruir, que acrescen tarei àquelas de que tenho o hábito de me 
+utilizar. 
+Portanto, meu propósito não é ensinar aqui o mé todo que cada qual deve 
+seguir para bem conduzir sua razão, mas somente mostrar  de que modo me 
+esforcei por conduzir a minha. Os que se aventuram a fornecer normas devem 
+considerar-se mais hábeis do que aque les a quem as dão; e, se falham na menor 
+coisa, são por isso censuráveis. Mas, não propondo este escrito senão como uma 
+história, ou, se o preferirdes, como uma fábula, na qual, entre alguns exemplos 
+que se podem imitar, encontrar -se-ão talvez também muitos outros que se terá 
+razão de não seguir, espero que ele será útil a alguns, sem ser danoso a ninguém, 
+e que todos me serão gratos por minha franqueza. 
+Fui instruído nas letras desde a infância, e por me haver convencido de que, 
+por intermédio delas, poder -se-ia adquirir um conhecimento claro e seguro de 
+tudo o que é útil à vida, sentia extraordinário desejo de aprendê -las. Porém,  
+assim que terminei esses estudos, ao cabo do qual costuma -se ser recebido na 
+classe dos eruditos, mudei totalmente de opinião. Pois me encon trava 
+embaraçado com tantas dúvidas e erros que me parecia não haver conseguido 
+outro proveito, procuran do instruir-me, senão o de ter descoberto cada vez mais 
+a minha ignorância. E, contudo, estudara numa das mais célebres escolas da 
+Europa, onde imaginava que devia haver homens sábios, se é que havia em 
+algum lugar da Terra. Aprendera aí tudo o que os outros aprend iam, e mesmo 
+não havendo me contentado com  ciências que nos ensinavam, lera todos os 
+livros que tratam daquelas que são reputadas as mais curiosas e as mais raras, 
+que vieram a cair em minhas mãos. Além disso, eu conhecia os juízos que os 
+outros faziam de  mim; e não via de modo algum que me julgassem inferior a 
+meus colegas, apesar de entre eles haver alguns já destinados a ocupar os lugares 
+de nossos mestres. E, enfim, o nosso século parecia-me tão luminoso e tão fértil 
+em bons espíritos como qualquer um  dos anteriores, O que me levava a tomar a 
+liberdade de julgar por mim todos os outros e de pensar que não havia doutrina 
+no mundo que fosse tal como antes me haviam feito presumir. 
+Apesar disso, não deixava de apreciar os exercícios com os quais se 
+ocupam nas escolas. Sabia que as línguas que nelas se aprendem são necessárias 
+ao en tendimento dos livros antigos; que a gentileza das fábulas estimula o 
+espírito; que as realizações notáveis das histórias o fazem crescer, e que, sendo 
+lidas com discrição, ajud am a formar o juízo; que a leitura de todos os bons 
+livros é igual a uma conversação com as pessoas mais qualificadas dos séculos 
+passados, que foram seus autores, e até uma conversação premedita da, na qual 
+eles nos revelam apenas seus melhores pensamento s; que a eloqüência possui 
+forças e belezas incomparáveis; que a poesia tem delicadezas e ternuras deveras 
+encantadoras; que as matemáticas têm invenções bastante sutis, e que podem 
+servir muito, tanto para satisfazer os curiosos quanto para facilitar todas as artes 
+e reduzir o trabalho dos homens; que os escritos que tratam dos costumes contêm 
+muitos ensinamentos e muitos estímulos à virtude que são muito úteis; que a 
+teologia ensina a ganhar o céu; que a filosofia ensina a falar com coerência de 
+todas as coisas e de se fazer admirar pelos que possuem menos erudição; que a 
+jurisprudência, a medicina e as outras ciências proporcionam honras e riquezas 
+àqueles que as cultivam; e, enfim, que é bom havê -las examinado a todas, até 
+mesmo as mais eivadas de superstição e as mais falsas, a fim de conhecer-lhes o 
+exato valor e evitar ser por elas enganado. 
+Mas eu julgava já ter gasto bastante tempo com as línguas, e também com a 
+leitura dos livros antigos, com suas histórias e suas fábulas. Pois quase a mesma 
+coisa que conversar com os homens de outros séculos é viajar. E bom saber 
+alguma coisa dos hábitos de dife rentes povos, para que julguemos os nossos 
+mais jus tamente e não pensemos que tudo quanto é diferente dos nossos 
+costumes é ridículo e contrário à razão, c omo soem fazer os que nada viram. 
+Contudo, quando gastamos excessivo tempo em viajar, acabamos tornando-nos 
+estrangeiros em nossa própria terra; e quando somos excessivamente curiosos 
+das coisas que se reali zavam nos séculos passados, ficamos geralmente muito 
+ignorantes das que se realizam no presente. Ademais, as fábulas fazem imaginar 
+como possíveis muitos acontecimentos que não o são, e até mesmo as histórias 
+mais verossímeis, se não mudam nem alteram o valor das coisas para torná -las 
+mais dignas de serem lidas, ao menos deixam de apresentar quase sempre as cir-
+cunstâncias mais baixas e menos insignes, de onde resulta que o resto não parece 
+tal qual é, e que aqueles que norteiam seus hábitos pelos exemplos que deles 
+tiram estão sujeitos a cair nas extravagâncias dos heróis de nossos romances e a 
+conceber propósitos que superam suas forças. 
+Eu estimava muito a eloquência e estava apaixo nado pela poesia; mas 
+acreditava que uma e outra fossem dons do espírito, mais do que frutos do 
+estudo. Aqueles cujo r aciocínio é mais ativo e que melhor ordenam seus 
+pensamentos, com o intuito de torná -los claros e inteligíveis, sempre podem 
+convencer melhor os outros daquilo que propõem, mesmo que falem somente o 
+baixo bretão e nunca hajam aprendido retó rica. E aqueles cujas invenções são 
+mais agradáveis e que as sabem apresentar com o máximo de floreio e suavidade 
+não deixariam de ser os melhores poetas, mesmo que a arte poética lhes fosse 
+desconhecida. 
+Deleitava-me principalmente com as matemáticas, devido à certeza e  à 
+evidência de suas razões; mas ainda não percebia sua verdadeira aplicação, e, 
+julgando que só serviam às artes mecânicas, espantava -me de que, sendo seus 
+fundamentos tão seguros e sólidos, não se houvesse construído sobre eles nada 
+de mais elevado. Da  mesma forma que, ao contrário, eu comparava os escritos 
+dos antigos pagãos que tratam de hábitos a magníficos palácios erigidos apenas 
+sobre a areia e a lama. Elevam muito alto as virtudes e as apresentam como as 
+mais dignas de estima entre todas as coisa s que existem no mundo; mas não 
+ensinam bastante a conhecê-las, e freqüentemente o que chamam com um nome 
+tão belo não passa de uma insensibilidade, ou de um orgulho, ou de um 
+desespero, ou de um parricídio. 
+Eu venerava a nossa teologia e pretendia, como qualquer um, ganhar o céu; 
+porém, tendo aprendido, como algo muito certo, que o seu caminho não está 
+menos franqueado aos mais ignorantes do que aos mais sábios e que as verdades 
+reveladas que para lá condu zem estão além de nossa inteligência, não me 
+atreveria a submetê -las à debilidade de meus raciocínios, e pen sava que, para 
+empreender sua análise e obter êxito, era preciso receber alguma extraordinária 
+assistência do céu e ser mais do que homem. 
+Nada direi a respeito da filosofia, exceto que, vendo que foi cultivada pelos 
+mais elevados espíritos que viveram desde muitos séculos e que, apesar disso, 
+nela ainda não se encontra uma única coisa a respeito da qual não haja discussão, 
+e consequentemente que não seja duvidosa, eu não alimentava esperança alguma 
+de acertar mais que os outros; e que, ao considerar quan tas opiniões distintas, 
+defendidas por homens eruditos, podem existir acerca de um mesmo assunto, 
+sem que possa haver mais de uma que seja verdadeira, achava quase como falso 
+tudo quanto era apenas provável. 
+A respeito das outras ciências, por tomarem seus princípios da filosofia, 
+acreditava que nada de sólido se podia construir sobre alicerces tão pouco 
+firmes. E nem a honra, nem o lucro que elas prometem, eram suficientes para me 
+exortar a aprendê-las; pois graças a Deus não me sentia de maneira alguma numa 
+condição que me obrigasse a converter a ciência num ofício, para o alívio de 
+minha fortuna; e se bem que não desprezasse a glória como um cínico, fazia, 
+contudo, muito pouca questão daquela que eu só podia esperar obter com falsos 
+títulos. Por fim, no que diz respeito às más doutrinas, julgava já conhecer 
+suficientemente o que valiam, para não mais correr o risco de ser enganado, nem 
+pelas promessas de um alquimista, nem pelas predições de um astrólogo, nem 
+pelas imposturas de um mágico, nem pelas artimanhas ou ar rogâncias dos que 
+manifestam saber mais do que realmente sabem. 
+Aqui está por que, apenas a idade me possibilitou sair da submissão aos 
+meus preceptores, abandonei totalmente o estu do das letras. E, decidindo-me a 
+não mais procurar outra ciência além daquela que poderia encontrar em mim 
+mesmo, ou então no grande livro do mundo, aproveitei o resto de minha 
+juventude para viajar, para ver cortes e exércitos, para freqüentar pes soas de  
+diferentes humores e condições, para fazer variadas experiências, para pôr a mim 
+mesmo à prova nos reencontros que o destino me propunha e, por toda parte, 
+para refletir a respeito das coisas que se me apresentavam, a fim de que eu 
+pudesse tirar algum proveito delas. Pois acreditava poder encontrar muito mais 
+verdade nos raciocínios que cada um forma no que se refere aos negócios que 
+lhe interessam, e cujo desfecho, se julgou mal, deve penalizá-lo logo em seguida, 
+do que naqueles que um homem de letras fo rma em seu gabinete a respeito de 
+especulações que não produzem efeito algum e que não lhe acarretam outra 
+conseqüência salvo, talvez, a de lhe proporcionarem tanto mais vaidade quanto 
+mais afastadas do senso comum, por causa do outro tanto de espírito e artimanha 
+que necessitou empregar no esforço de torná-las prováveis. E eu sempre tive um 
+enorme desejo de aprender a diferenciar o verdadeiro do falso, para ver 
+claramente minhas ações e caminhar com segurança nesta vida. 
+A verdade é que, ao limitar-me a observar os costumes dos outros homens, 
+pouco encontrava que me satisfizesse, pois percebia neles quase tanta 
+diversidade como a que notara anteriormente entre as opiniões dos filósofos. De 
+forma que o maior proveito que daí tirei foi que, vendo uma quantidade de coisas 
+que, apesar de nos parecerem muito extravagantes e ridículas, são comumente 
+recebidas e aprovadas por outros grandes povos, aprendi a não acreditar com 
+demasiada convicção em nada do que me havia sido inculcado só pelo exemplo e 
+pelo hábito; e, dessa maneira, pouco a pou co, livrei-me de muitos enganos que 
+ofuscam a nossa razão e nos tornar menos capazes de ouvir a razão. Porém, após 
+dedicar-me por alguns anos em estudar assim no livro do mundo, e em procurar 
+adquirir alguma experiência, tomei um dia a decisão de estudar também a mim 
+próprio e de empregar todas as forças de meu espírito na escolha dos caminhos 
+que iria seguir. Isso, a meu ver,, trouxe -me muito melhor resultado do que se 
+nunca tivesse me distanciado de meu país e de meus livros. 
+ 
+ 
+SEGUNDA PARTE 
+ 
+ 
+NAQUELA ÉPOCA, encontrava -me na Alemanha, para onde me sentira 
+atraído pelas guerras, que ainda não terminaram, e, ao regressar da coroação do 
+imperador para o exército, o começo do inverno me obrigou a permanecer num 
+quartel onde,  por não encontrar convívio social algum que me distraísse, e, 
+também, felizmente, por não ter quaisquer desejos ou paixões que me 
+perturbassem, ficava o dia inteiro fechado sozinho num quarto bem aquecido, 
+onde dispunha de todo o tempo para me entreter com os meus pensamentos. Um 
+dos primeiros entre eles foi lembrar-me de considerar que, freqüentemente, não 
+existe tanta perfeição nas obras formadas de várias peças, e feitas pela mão de 
+diversos mestres, como naquelas em que um só trabalhou. Deste modo, nota-se 
+que os edifícios projetados e concluídos por um só arquiteto costumam ser mais 
+belos e mais bem estruturados do que aqueles que muitos quiseram reformar, 
+utilizando-se de velhas paredes construídas para outras finalidades. Assim, essas 
+antigas cidades que, tendo sido no início pequenos burgos e havendo se 
+transformado, ao longo do tempo, em grandes centros, são comumente tão mal 
+calculadas, em comparação com essas praças regulares, traçadas por um 
+engenheiro a seu bel -prazer, que, mesmo con siderando seus edifícios 
+individualmente, se encontre neles com freqüência tanta ou mais arte que nos das 
+outras, contudo, a ver como estão ordenados, aqui um grande, ali um pequeno, e 
+como tornam as ruas curvas e desiguais, poder -se-ia afirmar que foi mais por 
+obra do acaso do que pela vontade de alguns homens usando da razão que assim 
+os dispôs. E se se considerar que, não obstante tudo, sempre existiram 
+funcionários com a função de fiscalizar as construções dos particu lares para 
+torná-las úteis ao ornamento do  público, reconhecer -se-á realmente que é 
+penoso, trabalhando apenas nas obras de outras pessoas, fazer coisas muito bem 
+rematadas. Portanto, considerei que os povos que outrora haviam sido semi -
+selvagens e só pouco a pouco foram se civilizando, elaboraram suas leis apenas à 
+medida que o desconforto dos crimes e das querelas a tanto os coagiu, não 
+poderiam ser tão bem policiados como aqueles que, desde o instante em que se 
+reuniram, obedeceram às leis de algum prudente legislador. Tal como é justo que 
+o es tado da verdadeira religião, cujas ordenanças só Deus fez, deve ser 
+incomparavelmente melhor regulamentado do que todos os outros. E, para falar a 
+respeito das coisas humanas, penso que, se Esparta foi na Antigüidade muito 
+florescente, não o deveu à bonda de de cada uma de suas leis em parti cular, já 
+que muitas eram bastante impróprias e até mesmo contrárias aos bons costumes, 
+mas ao fato de que, havendo sido criadas por um único homem, tendiam todas ao 
+mesmo fim. E assim pensei que as ciências dos livros , ao menos aquelas cujas 
+razões são apenas prováveis e que não apresentam quaisquer de monstrações, 
+pois foram compostas e avolumadas devagar com opiniões de muitas e diferentes 
+pessoas, não se encontram, de forma alguma, tão próximas da verdade quanto os 
+simples raciocínios que um homem de bom senso pode fazer naturalmente 
+acerca das coisas que se lhe apresentam. E também pensei que, como todos nós 
+fomos crianças antes de sermos adultos, e como por muito tempo foi necessário 
+sermos governados por nossos  apetites e nossos preceptores, que eram com 
+freqüência contrários uns aos outros, e que, nem uns nem outros, nem sempre, 
+talvez nos aconselhassem o melhor, é quase impossível que nossos juízos sejam 
+tão puros ou tão firmes como seriam se pudéssemos utiliz ar totalmente a nossa 
+razão desde o nascimento e se não tivéssemos sido guiados senão por ela. 
+É verdade que não vemos em lugar algum demo lirem todas os edifícios de 
+uma cidade, com o exclusivo propósito de reconstruí-los de outra maneira, e de 
+tornar assim suas ruas mais belas; mas vê-se na realidade que muitos derrubam 
+suas casas para reconstruí-las, sendo ainda por vezes obrigados a fazê-lo, quando 
+elas correm o risco de cair por si próprias, por seus alicerces não se encontrarem 
+muito firmes. A exemplo disso, convenci-me de que não seria razoável que um 
+particular tencionasse reformar um Estado, mudando -o em tudo desde os 
+alicerces e derrubando-o para em seguida reerguê-lo; nem tampouco reformar o 
+corpo das ciências ou a ordem estabelecida nas escolas para ensiná-las; mas que, 
+a respeito de todas as opiniões que até então acolhera em meu crédito, o melhor 
+a fazer seria dispor -me, de uma vez para sempre, a retirar -lhes essa confiança, 
+para substitui-las em seguida ou por outras melhores, ou então pel as mesmas, 
+após havê -las ajustado ao nível da razão. E acreditei com firmeza em que, por 
+este meio, conseguiria conduzir minha vida muito melhor do que se a construísse 
+apenas sobre velhos alicerces e me apoiasse tão -somente sobre prin cípios a 
+respeito dos quais me deixara convencer em minha juventude, sem ter nunca 
+analisado se eram verdadeiros. Pois, embora percebesse nesse mister vá rias 
+dificuldades, não eram contudo insuperáveis, nem comparáveis às que se 
+encontram na reforma das menores coisas relati vas ao público. Esses grandes 
+corpos são demasiado difíceis de reerguer quando abatidos, ou mesmo de escorar 
+quando abalados, e suas quedas não podem deixar de ser muito violentas. Pois, a 
+respeito de suas imperfeições, se as possuem, como a simples diversidade que há 
+entre eles basta para assegurar que as possuem em grande número, o uso sem 
+dúvida as suavizou, e até mesmo evitou e corrigiu insensivelmente uma grande 
+quantidade às quais não se poderia tão bem remediar por prudência. E, por fim, 
+são quase s empre mais suportáveis do que o seria a sua mudança; da mesma 
+forma que os grandes caminhos, que serpen teiam entre montanhas, se tornam 
+pouco a pouco tão batidos e tão cômodos, a poder de serem freqüentados, que é 
+preferível segui-los a tentar ir mais reto, escalando os rochedos e descendo até o 
+fundo dos precipícios. 
+Aqui está o motivo pelo qual eu não poderia de maneira alguma aprovar 
+esses temperamentos perturbadores e inquietos que, não sendo chamados, nem 
+pelo nascimento, nem pela fortuna, à administração dos ne gócios públicos, não 
+deixam de neles realizar sempre, em teoria, alguma nova reforma. E se eu 
+pensasse haver neste escrito a menor coisa que pudesse tornar-me suspeito de tal 
+loucura, ficaria muito pesaroso de ter concordado em publicá -lo. Jamais o meu 
+objetivo foi além de procurar reformar meus próprios pensa mentos e construir 
+num terreno que é todo meu. De maneira que, se, tendo minha obra me agradado 
+bastante, eu vos mostro aqui o seu modelo, nem por isso desejo aconselhar 
+alguém a imitá -lo. Aqueles a quem Deus melhor distribuiu suas graças 
+alimentarão talvez propósitos mais elevados; mas receio bastante que este já seja 
+por demais temerário para muitos. A mera decisão de se desfazer de todas as 
+opiniões a que se deu antes crédito não é um exemplo que cada um deva seguir; 
+e o mundo compõe -se quase só de duas espé cies de espíritos, aos quais ele não 
+convém de maneira alguma. A saber, daqueles que, julgando-se mais hábeis do 
+que realmente são, não podem impedir -se de preci pitar seus juízos, nem ter 
+suficiente paciência para conduzir ordenadamente todos os seus pensamentos: 
+disso decorre que, se tivessem tomado uma vez a liberdade de duvidar dos 
+princípios que aceitaram e de se des viar do caminho comum, jamais poderiam 
+ater-se à trilha que é  necessário tomar para ir mais direito, e permaneceriam 
+perdidos ao longo de toda a existência; depois, daqueles que, tendo bastante 
+razão, ou modés tia, para considerar -se menos capazes de diferenciar o 
+verdadeiro do falso do que alguns outros, pelos quai s podem ser instruídos, 
+devem antes ficar satisfeitos em seguir as opiniões desses outros, do que 
+esforçar-se por achar por si mesmos outras melhores. 
+No que me diz respeito, constaria sem dúvida do número destes últimos, se 
+eu tivesse tido um único mestre , ou se nada soubesse das diferenças que existi-
+ram em todos os tempos entre as opiniões dos mais eruditos. Porém, havendo 
+aprendido, desde a escola, que nada se poderia imaginar tão estranho e tão pouco 
+acreditável que algum dos filósofos já não houvesse dito; e depois, ao viajar, 
+tendo reconhecido que todos os que possuem sentimentos muito contrários aos 
+nossos nem por isso são bárbaros ou selvagens, mas que muitos utilizam, tanto 
+ou mais do que nós, a razão; e, havendo considerado quanto um mesmo homem, 
+com o seu mesmo espírito, sendo criado desde a infância entre franceses ou 
+alemães, torna-se diferente do que seria se vivesse sempre entre chineses ou 
+canibais; e como, até nas modas de nossos trajes, a mesma coisa que nos agradou 
+há dez anos, e que talv ez nos agrade ainda antes de decorridos outros dez, nos 
+parece agora extravagante e ridícula, de forma que são bem mais o costume e o 
+exemplo que nos convencem do que qualquer conhecimento correto e que, 
+apesar disso, a pluralidade das vozes não é prova que valha algo para as verdades 
+um pouco difíceis de descobrir, por ser bas tante mais provável que um único 
+homem as tenha encontrado do que todo um povo: eu não podia esco lher 
+ninguém cujas opiniões me parecessem dever ser preferidas às de outros, e 
+achava-me como coagido a tentar eu próprio dirigir-me. 
+Porém, igual a um homem que caminha solitário e na absoluta escuridão, 
+decidi ir tão lentamente, e usar de tanta ponderação em todas as coisas, que, 
+mesmo se avançasse muito pouco, ao menos evitaria cair. Não quis de maneira 
+alguma começar rejeitando inteiramen te qualquer uma das opiniões que por 
+acaso haviam se insinuado outrora em minha confiança, sem que aí fossem 
+introduzidas pela razão, antes de gastar bastante tempo em elaborar o projeto da 
+obra que iria empreender, e em procurar o verdadeiro método para chegar ao 
+conhecimento de todas as coisas de que meu espírito fosse capaz. 
+Quando era mais jovem, eu estudara um pouco de filosofia, de lógica, e, das 
+matemáticas, a analise dos geômetras e a álgebra, três artes ou ciências que pare-
+ciam poder contribuir com algo para o meu propósito. No entanto, analisando-as, 
+percebi que, quanto à lógica, seus silogismos e a maior parte de seus outros 
+preceitos servem mais para explicar aos outros as coisas já co nhecidas, ou 
+mesmo, como a arte de Lúlio, 1 para falar, sem formar juízo, daquelas que são 
+ignoradas, do que para aprendê -las. E apesar de ela conter, realmente, uma 
+porção de preceitos muito verdadeiros e muito bons, existem contudo tantos 
+outros misturados no meio que são ou danosos, ou supérfluos, que é quase tão 
+difícil separá-los quanto tirar uma Diana ou uma Minerva de um bloco de 
+mármore que nem ao menos está delineado. Depois, no que concerne à análise 
+dos antigos e à álgebra dos modernos, além de se estenderem apenas a assuntos 
+muito abstratos, e de não pare cerem de utilidade alguma, a primeira permanece 
+sempre tão ligada à consideração das figuras que não pode propiciar a 
+compreensão sem cansar muito a imagina ção; e, na segunda, esteve -se de tal 
+maneira sujeito a determinadas regras e cifras que se fez dela uma arte confusa e 
+obscura que atrapalha o espírito, em vez de uma ciência que o cultiva. Por este 
+motivo, considerei ser necessário buscar algum outro método que, conten do as 
+vantagens desses três, estivesse desembaraçado de seus defeitos. E, como a 
+grande quantidade de leis fornece com freqüência justificativas aos vícios, de 
+forma que um Estado é mais bem dirigido quando, apesar de possuir muito 
+poucas delas, são estritamente cum pridas; por tanto, em lugar desse grande 
+número de preceitos de que se compõe a lógica, achei que me seriam suficientes 
+os quatro seguintes, uma vez que tornasse a firme e inalterável resolução de não 
+deixar uma só vez de observá-los. 
+                                                                
+ 1 Lúlio (bem-aventurado Raimundo), em catalão Ramón Llull, erudito, filósofo, teólogo e poeta catalão (Palma 
+de Maiorca c. 1233 - Bugia ou Palma 1315). Seu proselitismo cristão o levou aos países mediterrâneos, onde 
+organizou uma cruzada intelectual destinada a provocar encontros entre sábios de diferentes religiões, visando à 
+unificação religiosa do mundo. (N. do T.) 
+O primeiro era o de nunca aceitar  algo como ver dadeiro que eu não 
+conhecesse claramente como tal; ou seja, de evitar cuidadosamente a pressa e a 
+prevenção, e de nada fazer constar de meus juízos que não se apresentasse tão 
+clara e distintamente a meu espírito que eu não tivesse motivo algum de duvidar 
+dele. 
+O segundo, o de repartir cada uma das dificuldades que eu analisasse em 
+tantas parcelas quantas fossem possíveis e necessárias a fim de melhor 
+solucioná-las. 
+O terceiro, o de conduzir por ordem meus pensa mentos, iniciando pelos 
+objetos mais simples e mais fáceis de conhecer, para elevar-me, pouco a pouco, 
+como galgando degraus, até o conhecimento dos mais compostos, e presumindo 
+até mesmo uma ordem entre os que não se precedem naturalmente uns aos 
+outros. 
+E o último, o de efetuar em to da parte relações metódicas tão completas e 
+revisões tão gerais nas quais eu tivesse a certeza de nada omitir. 
+Essas longas séries de razões, todas simples e fá ceis, que os geômetras 
+costumam utilizar para chegar às suas mais difíceis demonstrações, tinha m-me 
+dado a oportunidade de imaginar que todas as coisas com a possibilidade de 
+serem conhecidas pelos homens se guem-se umas às outras do mesmo modo e 
+que, uma vez que nos abstenhamos apenas de aceitar por verda deira qualquer 
+uma que não o seja, e que ob servemos sempre a ordem necessária para deduzi-
+las umas das outras, não pode existir nenhuma delas tão afastada a que não se 
+chegue no final, nem tão escondida que não se descubra. E não me foi muito 
+dificultoso procurar por quais deveria começar, pois já sabia que haveria de ser 
+pelas mais simples e pelas mais fáceis de conhecer; e, considerando que, entre 
+todos os que anteriormente procuraram a verdade nas ciências, ape nas os 
+matemáticos puderam encontrar algumas de monstrações, ou seja, algumas 
+razões certas e evidentes, não duvidei de modo algum que não fosse pelas mes-
+mas que eles analisaram; apesar de não esperar disso nenhuma outra utilidade, 
+salvo a de que habituariam meu espírito a se alimentar de verdades e a não se 
+satisfazer com falsas razões. Mas não foi minha inten ção, para tanto, tentar 
+aprender todas essas ciências particulares que habitualmente se chamam 
+matemáticas; e, vendo que, apesar de seus objetos serem distintos, não deixam 
+de concordar todas, pelo fato de não conferirem nesses objetos senão as diversas 
+ações ou proporções que neles se encontram, julguei que convinha mais analisar 
+apenas estas proporções em geral, e pre sumindo-as somente nos suportes que 
+servissem para me tornar seu conhecimento mais fácil; mesmo assim, sem 
+restringi-las de modo algum a tais suportes, a fim de poder aplicá-las tão melhor, 
+em seguida, a todos os outros objetos a que conviessem. Depois, havendo per -
+cebido que, a fim de conhecê -las, ser-me-ia algumas vezes necessário considerá-
+las cada qual em particular, e outras vezes apenas de reter, ou de compreender, 
+várias em conjunto, julguei que, para melhor considerá-las em particular, deveria 
+presumi-las em linhas, vis to que não encontraria nada mais simples, nem que 
+pudesse representar mais diferentemente à  minha ima ginação e aos meus 
+sentidos; mas que, para reter, ou compreender, várias em conjunto, era 
+necessário que eu as designasse por alguns signos, os mais breves possí veis, e 
+que, por esse meio, tomaria de empréstimo o melhor da análise geométrica e da 
+álgebra, e corrigiria todos os defeitos de uma pela outra. 
+E já que, com efeito, atrevo -me a dizer que a exata observação desses 
+poucos preceitos que eu escolhera me deu tal facilidade de desenredar todas as 
+questões às quais se estendem essas duas ciên cias que, nos dois ou três meses 
+que levei para analisá -las, havendo iniciado pelas mais simples e mais gerais, e 
+compondo cada verdade que eu encontrava uma regra que me servia depois para 
+encontrar outras, não apenas conse gui resolver muitas que antes considerava 
+muito difíceis, como me pareceu também, próximo ao fim, que podia determinar, 
+até mesmo naquelas que ignorava, por quais meios e até onde seria possível 
+resolvê-las. No que, talvez, não vos afigurarei muito vaidoso, se considerardes 
+que, existindo somente uma verdade de cada coisa, aquele que a encontrar 
+conhece a seu respeito tanto quanto se pode conhecer; e que, por exemplo, uma 
+criança instruída na aritmética, que haja realizado uma adição de acordo com as 
+regras, pode ter certeza de have r encontrado, no que concerne à soma que 
+analisava, tudo o que o espírito humano poderia encontrar. Pois, enfim, o método 
+que ensina a seguir a verdadeira ordem e a enumerar exatamente todas as 
+circunstâncias daquilo que se procura contém tudo quanto dá certeza às regras da 
+aritmética. 
+No entanto, o que mais me satisfazia nesse método era o fato de que, por 
+ele, tinha certeza de usar em tudo minha razão, se não à perfeição, ao menos o 
+melhor que eu pudesse; ademais, sentia, ao utilizá -lo, que meu espírito s e 
+habituava pouco a pouco a conce ber mais nítida e distintamente seus objetos, e 
+que, não o havendo sujeitado a nenhuma matéria em especial, prometia a mim 
+mesmo empregá-lo com a mesma utilidade a respeito das dificuldades das outras 
+ciências como o fizera com as da álgebra. Não que me atrevesse a empreender 
+primeiramente a análise de todas as que se me apresentassem, pois isso seria 
+contrário à ordem que ele prescreve. Porém, havendo percebido que os seus 
+princípios deviam ser todos tomados à filosofia, na qual até então não encontrava 
+sequer um que fosse correto, pensei que seria preciso, em princípio, tentar ali 
+estabelecê-los; e que, sendo isso a coisa mais importante do mundo, e em que a 
+pressa e a prevenção eram mais de recear, não devia pôr em execução sua reali-
+zação antes de atingir uma idade bem mais madura do que a dos 23 anos que eu 
+tinha naquela época e antes de ter gasto muito tempo em preparar-me para isso, 
+tanto extirpando de meu espírito todas as más opiniões que nele dera acolhida até 
+então, como reunindo nu merosas experiências para servirem logo depois de ma-
+téria aos meus processos racionais, e adestrando -me no método que me 
+preceituara, com o propósito de me fixar sempre mais nele. 
+ 
+ 
+TERCEIRA PARTE 
+ 
+ 
+AFINAL, COMO não é suficiente, ant es de dar iní cio à reconstrução da 
+casa onde residimos, demoli-la, ou munir-nos de materiais e contratar arquitetos, 
+ou habilitar-nos na arquitetura, nem, além disso, termos efetuado com esmero o 
+seu projeto, é preciso também havermos providenciado outra onde possamos nos 
+acomodar confortavelmente ao longo do tempo em que nela se trabalha. Da 
+mesma maneira, para não hesitar em minhas ações, enquanto a razão me 
+obrigasse a fazê-lo, em meus juízos, e a fim de continuar a viver desde então de 
+maneira mais feliz possível, concebi para mim mesmo uma moral provisória, que 
+consistia apenas em três ou quatro máximas que eu quero vos anunciar. 
+A primeira era obedecer às leis e aos costumes de meu país, mantendo-me 
+na religião na qual Deus me concedera a graça de se r instruído a partir da 
+infância, e conduzindo -me, em tudo o mais, de acordo com as opiniões mais 
+moderadas e as mais distantes do excesso, que fossem comumente aceitas pelos 
+mais sensatos daqueles com os quais teria de conviver. Porquanto, começando 
+desde então a não me valer para nada de minhas próprias opiniões, porque eu as 
+queria submeter todas a análise, estava convencido de que o melhor a fazer era 
+seguir as dos mais sensatos. E, a despeito de que talvez existam, entre os persas e 
+chineses, homens tão sensatos como entre nós, afigurava -se-me que o mais útil 
+seria orientar-me por aqueles entre os quais teria de viver; e que, para saber quais 
+eram realmente as suas opiniões, devia tomar nota mais daquilo que praticavam 
+do que daquilo que diziam; não apenas porque, na corrupção de nossos 
+costumes, existem poucas pessoas que queiram dizer tudo o que pensam, mas 
+também porque muitos o ignoram, por sua vez; pois, sendo a ação do 
+pensamento, pela qual se acredita numa coisa, distinta daquela pela qual se sabe 
+que se acredita nela, repetidas vezes uma se apresenta sem a outra. E, entre 
+várias opiniões igualmente aceitas, escolhia somente as moderadas: tanto porque 
+são sempre as mais cômodas para a prática, e provavelmente as melhores, já que 
+todo excesso c ostuma ser mau, como também para me desviar menos do 
+verdadeiro cami nho, caso eu falhasse, do que, havendo escolhido um dos 
+extremos, fosse o outro aquele que eu deveria ter seguido. E, em especial, punha 
+entre os excessos todas as promessas pelas quais s e restringe em algo a própria 
+liberdade. Não que desaprovasse as leis que, para cor rigir a inconstância dos 
+espíritos fracos, permitem, quando se possui algum bom propósito, ou mesmo, 
+para a segurança das relações sociais, alguma intenção que seja apenas 
+indiferente, que se façam promessas solenes ou contratos que obriguem a 
+persistir nela; mas porque não via no mundo nada que continuasse sem pre no 
+mesmo estado, e porque, no meu caso particu lar, como prometia a mim mesmo 
+aperfeiçoar cada vez mais os meus juízos, e de maneira alguma torná-los piores, 
+pensaria cometer grande falta contra o bom senso, se, pelo fato de ter aprovado 
+então alguma coisa, me sentisse na obrigação de tomá-la como boa ainda depois, 
+quando deixasse talvez de sê-lo, ou quando eu parasse de considerá-la tal. 
+Minha segunda máxima consistia em ser o mais firme e decidido possível 
+em minhas ações, e em não seguir menos constantemente do que se fossem 
+muito seguras as opiniões mais duvidosas, sempre que eu me tivesse decidido a 
+tanto. Imitava nisso os viajantes que, estando perdidos numa floresta, não devem 
+ficar dando voltas, ora para um lado, ora para outro, menos ainda permanecer 
+num local, mas caminhar sempre o mais reto possível para um mesmo lado, e 
+não mudá -lo por quaisquer motivos, ainda que no início só o acaso talvez haja 
+definido sua escolha: pois, por este método, se não vão exatamente aonde 
+desejam, ao menos chegarão a algum lugar onde provavelmente estarão melhor 
+do que no meio de uma floresta. E, assim como as ações da vida não suportam às 
+vezes atraso algum, é uma verdade muito certa que, quando não está em nosso 
+poder o distinguir as opiniões mais verdadeiras, devemos seguir as mais 
+prováveis; e mesmo que não percebamos em umas mais probabilidades do que 
+em outras, devemos,  sem embargo, decidir -nos por algu mas a considerá -las 
+depois não mais como duvidosas, na medida em que se relacionam com a 
+prática, mas como muito verdadeiras e corretas, visto que a razão que a isso nos 
+induziu se apresenta como tal. E isto me consentiu,  desde então, libertar-me de 
+todos os arrependimentos e remorsos que costumam agitar as consciências 
+desses espíritos fracos e hesitantes que se deixam levar a praticar, como boas, as 
+coisas que em seguida consideram más. 
+Minha terceira máxima era a de pro curar sempre antes vencer a mim 
+próprio do que ao destino, e de antes modificar os meus desejos do que a ordem 
+do mundo; e, em geral, a de habituar -me a acreditar que nada existe que esteja 
+completamente em nosso poder, salvo os nossos pensamentos, de mane ira que, 
+após termos feito o melhor possível no que se refere às coisas que nos são 
+exteriores, tudo em que deixamos de nos sair bem é, em relação a nós, 
+absolutamente impossível. E somente isso me parecia suficiente para 
+impossibilitar-me, no futuro, de d esejar algo que eu não pudesse obter, e, assim, 
+para me tornar contente. Pois, a nossa vontade, tendendo naturalmente para 
+desejar apenas aquelas coisas que nosso entendimento lhe representa de alguma 
+forma como possíveis, é certo que, se considerarmos ig ualmente afastados de 
+nosso poder todos os bens que se encontram fora de nós, não deploraremos mais 
+a falta daqueles que parecem dever -se ao nosso nascimento, quando deles 
+formos privados sem termos culpa, do que deploramos não possuir os remos da 
+China ou  do México; e que fazendo, como se diz, da necessidade virtude, não 
+desejaremos mais estar sãos, estando doentes, ou estar livres, estando presos, do 
+que desejamos ter agora corpos de uma matéria tão pouco corruptível quanto os 
+diamantes, ou asas para voar  como as aves. Mas confesso que é preciso um 
+longo adestramento e uma meditação freqüentemente repetida para nos 
+habituarmos a olhar todas as coisas por este ângulo; e acredito que é prin -
+cipalmente nisso que consistia o segredo desses filóso fos, que pude ram em 
+outros tempos esquivar -se do império do destino e, apesar das dores e da 
+pobreza, pleitear felicidade aos seus deuses. Pois, ocupando -se continuamente 
+em considerar os limites que lhes eram impostos pela natureza, convenceram-se 
+tão perfeitamente de que nada estava em seu poder além dos seus pensamentos, 
+que só isso bastava para impossibilitá-los de sentir qualquer afeição por outras 
+coisas; e os utili zavam tão absolutamente que tinham neste caso espe cial certa 
+razão de se julgar mais ricos, mais poderosos, mais livres e mais felizes que 
+quaisquer outros homens, os quais, não tendo esta filosofia, por mais favorecidos 
+que sejam pela natureza e pelo destino, nunca são senhores de tudo o que 
+desejam. 
+Por fim, para a conclusão dessa moral, decidi pas sar em revista as 
+diferentes ocupações que os homens exercem nesta vida, para procurar escolher 
+a melhor; e, sem pretender dizer nada a respeito das dos outros, achei que o 
+melhor a fazer seria continuar naquela mesma em que me encontrava, ou seja, 
+utilizar toda a minha existência em cultivar minha razão, e progredir o máximo 
+que pudesse no conhecimento da verdade, de acordo com o método que me 
+determinara. Eu sentira tão grande felicidade, a partir do momento em que 
+começara a servir -me deste método, que n ão acre ditava que, nesta vida, se 
+pudessem receber outros mais doces, nem mais inocentes; e, descobrindo todos 
+os dias, por seu intermédio, algumas verdades que me pareciam deveras 
+importantes e geralmente ignoradas pelos outros homens, a satisfação que i sso 
+me proporcionava preenchia de tal forma meu espírito que tudo o mais não me 
+atingia. Além do que, as três máximas precedentes se baseavam apenas no meu 
+intento de continuar a me instruir: pois, tendo Deus concedido a cada um de nós 
+alguma luz para diferenciar o verdadeiro do falso, não julgaria dever satisfazer-
+me um único instante com as opiniões dos outros, se não ten cionasse utilizar o 
+meu próprio juízo em analisá-las, quando fosse tempo; e não saberia dispensar-
+me de escrúpulos, ao segui -las, se não esperasse não perder com isso 
+oportunidade alguma de encontrar outras me lhores, caso existissem. E, enfim, 
+não saberia cercear os meus desejos, nem estar contente, se não tivesse per -
+corrido um caminho pelo qual, julgando estar seguro da aquisição de todos os 
+conhecimentos de que fosse capaz, pensava estar também, pelo mesmo método, 
+seguro da aquisição de todos os verdadeiros bens que em alguma ocasião se 
+encontrassem ao meu alcance; tanto mais que, a nossa vontade não estando 
+propensa a seguir ou fugir a qualquer coisa, a não ser se o nosso entendimento a 
+represente como boa ou má, é suficien te bem julgar para bem agir, e julgar o 
+melhor possível para também agir da melhor maneira, ou seja, para adquirir 
+todas as virtudes e, ao mesmo tempo, todos os outros bens que se possam 
+adquirir; e, quando se tem certeza de que é assim, não se pode deixar de ficar 
+contente. 
+Depois de haver-me assim assegurado destas máximas, e de tê-las separado, 
+com as verdades da fé, que sempre foram as primeiras na minha crença, julguei 
+que, quanto a todo o restante de minhas opiniões, podia livremente procurar 
+desfazer-me delas. E, como esperava chegar melhor ao fim dessa tarefa 
+conversando com os homens, do que prosseguindo por mais tempo fechado no 
+quarto aquecido onde me haviam surgido esses pensamentos, recomecei a viajar 
+quando o inverno ainda não terminara. E, em todos os nove anos que se 
+seguiram, não fiz outra coisa a não ser girar pelo mundo, daqui para ali, tentando 
+ser mais espectador do que ator em todas as comédi as que nele se representam; 
+e, refletindo particularmente, em cada matéria, sobre o que podia torná -la 
+suspeita e propiciar a oportunidade de nos enganarmos, ao mesmo tempo 
+extirpava do meu espírito todos os equívocos que até então nele se houvessem 
+instalado. Não que imitasse, para tanto, os céticos, que duvidam só por duvidar e 
+fingem ser sempre indecisos: pois, ao contrário, todo o meu propósito propendia 
+apenas a me certificar e re mover a terra movediça e a areia, para encontrar a 
+rocha ou a argila. O que consegui muito bem, quer me parecer, ainda mais que, 
+procurando descobrir a falsidade ou a incerteza das proposições que analisava, 
+não por fracas conjeturas, mas por raciocínios claros e seguros, não encontrava 
+nenhuma tão duvidosa que dela não tira sse sempre alguma conclusão bastante 
+correta, na pior da hipóteses a de que não continha nada de correto. E, da mesma 
+maneira que ocorre ao demolir uma velha casa, conservam -se comumente os 
+entulhos para serem utilizados na construção de outra nova, assim,  ao destruir 
+todas as minhas opiniões que julgava mal alicerçadas, fazia diversas observações 
+e adquiria muitas experiências, que me serviram mais tarde para estabelecer 
+outras mais corretas. E, além disso, conti nuava a praticar no método que me 
+preceituara; pois não apenas tomava o cuidado de, em geral, dirigir todos os 
+meus pensamentos conforme as suas regras, como reservava, de tempos em 
+tempos, algumas horas, que utilizava especialmente em aplicá-los nas dificulda-
+des de matemática, ou também em alguma s outras que eu podia tornar quase 
+parecidas às das matemáticas, separando -as de todos os princípios das outras 
+ciências, que eu não considerava suficientemente sólidos, como vereis que 
+procedi com várias que são explicadas neste volume. E deste modo, 
+aparentemente sem viver de maneira diferente daqueles que, não tendo outra 
+ocupação exceto levar uma vida suave e inocente, procu ram isolar os prazeres 
+dos vícios, e que, para usufruir seus lazeres sem se aborrecer, usam todos os 
+divertimentos que são hones tos, não deixava de perseverar em meu intento e de 
+progredir no conhecimento da verdade, mais talvez do que se me restringisse a 
+ler livros ou freqüentar homens de letras. 
+Ainda assim, esses nove anos decorreram antes que eu tivesse tomado 
+qualquer resolução no que con cerne às dificuldades que costumam ser discutidas 
+entre os eruditos, ou começado a procurar os fundamen tos de alguma filosofia 
+mais correta do que a trivial. E o exemplo de numerosos espíritos elevados que, 
+tendo se proposto anteriormente e sse desígnio, não haviam conseguido, a meu 
+ver, realizá-lo, levava-me a imaginar tantas dificuldades que não teria talvez me 
+atrevido empreendê-lo tão cedo, se não tivesse conhecimento de que alguns já 
+faziam correr a informação de que eu já o levara a cab o. Não saberia dizer em 
+que baseavam esta opinião; e, se para isso contribuí em alguma coisa com meus 
+discursos, deve ter sido por confessar neles aquilo que eu ignorava, com mais 
+ingenuidade do que costumam fazer os que estudaram um pouco, e, e possível, 
+também por mostrar os motivos que tinha de duvidar de muitas coisas que os 
+outros julgam corretas, do que por me vangloriar de qualquer doutrina. Porém, 
+tendo o coração bastante brioso para não desejar que me tomassem por alguém 
+que eu não era, pensei que devia esforçar-me, por todos os meios, a fim de 
+tornar-me merecedor da reputação que me conferiam; e faz exatamente oito anos 
+que esse desejo me impeliu a distanciar-me de todos os lugares em que pudesse 
+ter conhecidos, e a retirar -me para cá, para um país  onde a longa duração da 
+guerra levou a estabelecer tais ordens, que os exércitos nele mantidos parecem 
+servir apenas para que os frutos da paz sejam usufruídos com tanto mais 
+segurança, e onde, em meio a um grande povo muito ativo e mais zeloso de seus 
+próprios assuntos, do que curioso com os dos outros, sem sentir necessidade de 
+nenhuma das comodidades que existem nas cidades mais desenvolvidas, pude 
+viver tão solitário e isolado como nos desertos mais longínquos. 
+ 
+ 
+QUARTA PARTE 
+ 
+ 
+NÃO ESTOU SEGURO se d eva falar -vos a respeito das primeiras 
+meditações que aí realizei; já que por serem tão metafísicas e tão incomuns, é 
+possível que não serão apreciadas por todos. Contudo, para que seja possível 
+julgar se os fundamentos que escolhi são su ficientemente firmes, vejo-me, de 
+alguma forma, obrigado a falar-vos delas. Havia bastante tempo observara que, 
+no que concerne aos costumes, é às vezes preciso seguir opiniões, que sabemos 
+serem muito duvidosas, como se não admitissem dúvidas, conforme já foi dito 
+acima; porém, por desejar então dedicar-me apenas a pesquisa da verdade, achei 
+que deveria agir exatamente ao contrário, e rejeitar como totalmente falso tudo 
+aquilo em que pudesse supor a menor dúvida, com o intuito de ver se, depois 
+disso, não restaria algo em meu crédito que fosse completamente incontestável. 
+Ao considerar que os nossos sentidos às vezes nos enga nam, quis presumir que 
+não existia nada que fosse tal como eles nos fazem imaginar. E, por existirem 
+homens que se enganam ao raciocinar, mesmo no q ue se refere às mais simples 
+noções de geometria, e cometem paralogismos, rejeitei como falsas, achando que 
+estava sujeito a me enganar como qualquer outro, todas as razões que eu tomara 
+até então por demonstrações. E, enfim, considerando que quaisquer pensamentos 
+que nos ocorrem quando estamos acordados nos podem também ocorrer 
+enquanto dormimos, sem que exista nenhum, nesse caso, que seja correto, decidi 
+fazer de conta que todas as coisas que até então haviam entrado no meu espírito 
+não eram mais corre tas do que as ilusões de meus sonhos. Porém, logo em 
+seguida, percebi que, ao mesmo tempo que eu queria pensar que tudo era falso, 
+fazia-se necessário que eu, que pensava, fosse alguma coisa. E, ao notar que esta 
+verdade: eu penso, logo existo, era tão só lida e tão correta que as mais 
+extravagantes suposições dos céticos não seriam capazes de lhe causar abalo, 
+julguei que podia consi derá-la, sem escrúpulo algum, o primeiro princípio da 
+filosofia que eu procurava. 
+Mais tarde, ao analisar com atenção o que eu era, e vendo que podia 
+presumir que não possuía corpo algum e que não havia mundo algum, ou lugar 
+onde eu existisse, mas que nem por isso podia supor que não existia; e que, ao 
+contrário, pelo fato mesmo de eu pensar em duvidar da verdade das outras 
+coisas, resultava com bastante evidência e certeza que eu existia; ao passo que, 
+se somente tivesse parado de pensar, apesar de que tudo o mais que alguma vez 
+imaginara fosse verdadeiro, já não teria razão alguma de acreditar que eu tivesse 
+existido; compreendi, então, que eu era uma substância cuja essência ou natureza 
+consiste apenas no pensar, e que, para ser, não necessita de lugar algum, nem 
+depende de qualquer coisa material. De maneira que esse eu, ou seja, a alma, por 
+causa da qual sou o que sou, é completamente distinta do corpo e, também, que é 
+mais fácil de conhecer do que ele, e, mesmo que este nada fosse, ela não deixaria 
+de ser tudo o que é. 
+Depois disso, considerei o que é necessário a uma proposição para ser 
+verdadeira e correta; pois, já que e ncontrara uma que eu sabia ser exatamente 
+assim, pensei que devia saber também em que consiste essa certeza. E, ao 
+perceber que nada há no eu penso, logo existo, que me dê a certeza de que digo a 
+verdade, salvo que vejo muito claramente que, para pensar, é  preciso existir, 
+concluí que poderia tomar por regra geral que as coisas que concebemos muito 
+clara e distintamente são todas verdadeiras, havendo somente alguma dificuldade 
+em notar bem quais são as que concebemos distintamente. 
+Depois, havendo refletido a respeito daquilo que eu duvidava, e que, por 
+conseguinte, meu ser não era totalmente perfeito, pois via claramente que o 
+conhecer é perfeição maior do que o duvidar, decidi procurar de onde aprendera 
+a pensar em algo mais perfeito do que eu era; e des cobri, com evidência, que 
+devia ser de alguma natureza que fosse realmente mais perfeita. No que se refere 
+aos pensamentos que eu formulava sobre muitas outras coisas fora de mim, 
+como a respeito do céu, da Terra, da luz, do calor e de mil outras, não me era tão 
+difícil saber de onde vinham, porque, não no tando neles nada que me parecesse 
+torná-los superiores a mim, podia julgar que, se fossem verdadeiros, seriam 
+dependências de minha natureza, na medida em que esta possuía alguma 
+perfeição; e se não o era m, que eu os formulava a partir do nada, ou seja, que 
+existiam em mim pelo que eu possuía de falho. Mas não podia ocorrer o mesmo 
+com a idéia de um ser mais perfeito do que o meu; pois fazê -la sair do nada era 
+evidentemente impossível; e, visto que não é menos repulsiva a idéia de que o 
+mais perfeito seja uma conseqüência e uma dependência do menos perfeito do 
+que a de admitir que do nada se origina alguma coisa, eu não podia tirá -la 
+tampouco de mim próprio. De maneira que restava somente que tivesse sido 
+colocada em mim por uma natureza que fosse de fato perfeita do que a minha, e 
+que possuísse todas as perfeições de que eu poderia ter alguma idéia, ou seja, 
+para dizê -lo numa única palavra, que fosse Deus. A isso acrescentei que, 
+admitido que conhecia algumas perfeições que eu não tinha, não era o único ser 
+que existia (usarei aqui livremente, se vos aprouver, alguns termos da Escola); 
+mas que devia necessariamente haver algum outro mais perfeito, do qual eu 
+dependesse e de quem tivesse recebido tudo o que possuía. Pois, se eu fosse 
+sozinho e independente de qualquer outro, de maneira que tivesse recebido, de 
+mim próprio, todo esse pouco me diante o qual participava do Ser perfeito, 
+poderia receber de mim, pelo mesmo motivo, todo o restante que sabia faltar-me, 
+e ser assim eu próprio infinito, eterno, imutável, onisciente, todo -poderoso, e 
+enfim ter todas as perfeições que podia perceber existirem em Deus. Pois, de 
+acordo com os raciocínios que acabo de fazer, para conhecer a natureza de Deus, 
+tanto quanto a minha o era capaz, era suficiente considerar, a respeito de todas as 
+coisas de que encontrava em mim qualquer idéia, se era ou não perfeição possuí-
+las, e tinha certeza de que nenhuma das que eram marcadas por alguma 
+imperfeição existia nele, mas que toda s as outras exis tiam. Dessa forma, eu 
+notava que a dúvida, a incons tância, a tristeza e coisas parecidas não podiam 
+existir nele, porque eu mesmo apreciaria muito ser desprovido delas. Ademais, 
+eu tinha idéias acerca de muitas coisas sensíveis e corporai s; pois, apesar de 
+presumir que estava sonhando e que tudo quanto via e imaginava era falso, não 
+podia negar, não obstante, que as idéias a respeito não existissem 
+verdadeiramente em meu pensamento; porém, por já haver reconhecido em mim 
+com bastante clar eza que a natureza inteligente é distinta da corporal, 
+considerando que toda a composição testemu nha dependência, e que a 
+dependência é evidentemente uma falha, julguei a partir disso que não podia ser 
+uma perfeição em Deus o ser composto dessas duas natu rezas, e que, em 
+conseqüência, Ele não o era, mas que, se existiam alguns corpos no mundo, ou 
+então algumas inteligências, ou outras naturezas, que não fossem to talmente 
+perfeitos, seu ser deveria depender do poder de Deus, de tal maneira que não 
+pudessem subsistir sem Ele por um único instante. 
+Em seguida a isso, eu quis procurar outras verda des, e tendo -me 
+estabelecido o objeto dos geômetras, que eu concebia como um corpo contínuo, 
+ou um espaço infinitamente extenso em comprimento, largura e altura ou 
+profundidade, divisível em diversas partes que podiam ter diferentes figuras e 
+grandezas, e ser movidas ou transpostas de todas as maneiras, pois os geômetras 
+conjeturam tudo isto em seu objeto, examinava algumas de suas demonstrações 
+mais simples. E, ao perceber que essa grande certeza, que todos lhes atribuem, se 
+alicerça somente no fato de serem conce bidas com evidência, segundo a regra 
+que há pouco manifestei, notei também que nada existia nelas que me garantisse 
+a existência de seu objeto. Pois, por exemplo, eu percebia muito bem que, ao 
+imaginar um triângulo, fazia-se necessário que seus três ângulos fossem iguais a 
+dois retos; porém, malgrado isso, nada via que ga rantisse existir no mundo 
+qualquer triângulo. Enquanto, ao voltar a examinar a idéia q ue eu tinha de um 
+Ser perfeito, verificava que a existência estava aí inclusa, da mesma maneira que 
+na de um triângulo está incluso serem seus três ângulos iguais a dois retos, ou na 
+de uma esfera serem todas as suas partes igualmente distantes do seu centro, ou 
+ainda mais evidentemente; e que, por conseguinte, é pelo menos tão certo que 
+Deus, que é esse Ser perfeito, é ou existe quanto seria qualquer demonstração de 
+geometria. 
+Mas o que leva muitas pessoas a se convencerem de que é difícil conhecê-
+lo, e também em conhecer o que é sua alma, é o fato de nunca alçarem o espírito 
+além das coisas sensíveis e de estarem de tal forma habituadas a nada considerar 
+exceto na imaginação, que é uma maneira de pensar particular às coisas 
+materiais, que tudo quanto não  é imaginável lhes parece não ser inteligível. E 
+isto é bastante evidente pelo fato de os próprios filósofos terem por máxima, nas 
+escolas, que nada existe no entendimento que não haja estado primeiramente nos 
+sentidos, onde, contudo, é certo que as idéia s de Deus e da alma nunca 
+estiveram. E me parece que todos aqueles que querem usar a imaginação para 
+compreendê-las se comportam da mesma maneira que se, para ouvir os sons ou 
+sentir os odores, quisessem utilizar-se dos olhos; salvo com esta diferença: que o 
+sentido da visão não nos assegura menos a verdade de seus objetos do que os do 
+olfato ou da audição; enquanto a nossa imaginação ou os nossos sentidos jamais 
+poderiam garantir-nos coisa alguma, se o nosso juízo não interviesse. 
+Afinal, se ainda há hom ens que não estejam total mente convencidos da 
+existência de Deus e da alma, com as razões que apresentei, quero que saibam 
+que todas as outras coisas, a respeito das quais se consideram talvez certificados, 
+como a de possuírem um corpo, existirem astros e a Terra, e coisas parecidas, 
+são ainda menos certas. Pois, apesar de se ter dessas coisas uma certeza moral, 
+que é de tal ordem que, salvo sendo-se extravagante, parece impossível colocá-la 
+em dúvida; contudo, ao que concerne à certeza metafísica, não se pode negar, a 
+não ser que não tenhamos bom senso, que é motivo suficiente para não 
+possuirmos total segurança a respeito, o fato de observarmos que podemos da 
+mesma maneira imaginar, ao estarmos dormindo, que temos outro corpo, que 
+vemos outros astros e outra Terra, sem que isso seja verdade. Pois, de onde sabe-
+mos que os pensamentos que nos surgem em sonhos são menos verdadeiros do 
+que os outros, se muitos, com freqüência, não são menos vivos e nítidos? E, 
+mesmo que os melhores espíritos estudem o caso tanto quanto lhes agradar, não 
+acredito que possam oferecer alguma razão que seja suficiente para dirimir essa 
+dúvida, se não presumirem a existência de Deus. Pois, em princípio, aquilo 
+mesmo que há pouco tomei como regra, ou seja, que as coisas que concebemos 
+bastante evidente e distintamente são todas verdadeiras, não é correto a não ser 
+porque Deus é ou existe, e é um ser perfeito, e porque tudo o que existe em nós 
+se origina dele. De onde se conclui que as nossas idéias ou no ções, por serem 
+coisas reais e oriundas de Deus em tudo em que são evidentes e distintas, só 
+podem por isso ser verdadeiras. De maneira que, se temos muitas vezes outras 
+que contêm falsidade, só podem ser as que possuem algo de confuso e obscuro, 
+porque nisso participam do nada, ou seja, são assim confusas em nós porque nós 
+não somos totalmente perfeitos. E é eviden te que não causa menos aversão 
+admitir que a falsidade ou a imperfeição se originam de Deus, como tal, do que 
+admitir que a verdade ou a perfeição se originem do nada. P orém, se não 
+soubéssemos de maneira algu ma que tudo quanto existe em nós de real e 
+verdadeiro provém de um ser perfeito e infinito, por claras e distintas que fossem 
+nossas idéias, não teríamos razão alguma que nos garantisse que elas possuem a 
+perfeição de serem verdadeiras. 
+Depois que o conhecimento de Deus e da alma nos tenha dado a certeza 
+dessa regra, é muito fácil compreender que os sonhos que imaginamos quando 
+dormimos não devem, de forma alguma, levar -nos a duvidar da verdade dos 
+pensamentos que nos ocorrem quando despertos. Pois, se sucedesse que, mesmo 
+dormindo, tivéssemos alguma idéia muito distinta, como, por exemplo, que um 
+geômetra criasse qualquer nova demonstração, o sono deste não a impediria de 
+ser verdadeira. E, quanto ao equívoco mais recorrente de nossos sonhos, que 
+consiste em nos representarem vá rios objetos tal como fazem nossos sentidos 
+exteriores, não importa que ele nos dê a oportunidade de descon fiar da verdade 
+de tais idéias, porque estas também podem nos enganar repetidas vezes, sem que 
+estejamos dormindo, como ocorre quando os que têm icterícia vêem tudo da cor 
+amarela, ou quando os astros ou outros corpos extremamente distantes de nós se 
+nos afiguram muito menores do que são. Pois, enfim, quer estejamos despertos, 
+quer dorm indo, jamais devemos nos deixar convencer exceto pela evidência de 
+nossa razão. E deve -se observar que eu digo de nossa razão, de maneira alguma 
+de nossa imaginação ou de nossos sentidos. Porque, apesar de enxergarmos o sol 
+bastante claramente, não devemos julgar por isso que ele seja do tamanho que o 
+vemos; e bem podemos imaginar distintamente uma cabeça de leão enxertada no 
+corpo de uma cabra, sem que tenhamos de concluir, por isso, que no mundo 
+existe uma quimera; pois a razão não nos sugere que tudo qua nto vemos ou 
+imaginamos seja verdadeiro, mas nos sugere realmente que todas as nossas 
+idéias ou noções devem conter algum funda mento de verdade; pois não seria 
+possível que Deus, que é todo perfeito e verídico, as tivesse colocado em nós 
+sem isso. E, pelo fato de nossos raciocínios nunca serem tão evidentes nem tão 
+completos durante o sono como durante a vigília, apesar de que às vezes nossas 
+imaginações sejam tanto ou mais vivas e patentes, ela nos sugere também que, 
+não podendo nossos pensa mentos serem totalmente verdadeiros, porque não so-
+mos totalmente perfeitos, tudo o que eles contêm de verdade deve encontrar -se 
+inevitavelmente naquele que temos quando despertos, mais do que em nossos 
+sonhos. 
+ 
+ 
+QUINTA PARTE 
+ 
+ 
+SERIA DE MUITO meu agrado continuar e ex por aqui toda a cadeia de 
+outras verdades que deduzi dessas primeiras. Porém, suposto que, para tal 
+realização, seria agora necessário que abordasse muitas ques tões controvertidas 
+entre os eruditos, dos quais não desejo atrair a inimizade, acredito que s erá 
+melhor que eu me abstenha e apenas diga, em geral, quais elas são, para deixar 
+que os mais sábios julguem se seria útil que o público fosse mais 
+especificamente informado a esse respeito. Continuava sempre firme na decisão 
+que tomara de não presumir nenhum outro princípio, salvo aquele de que acabo 
+de me servir para provar a exis tência de Deus e da alma, e de não aceitar coisa 
+alguma por verdadeira que não se me afigurasse mais clara e mais correta do que 
+se me haviam afigurado anteriormente as demonstrações dos geômetras. Contu-
+do, atrevo -me a afirmar que não apenas encontrei modo de me satisfazer em 
+pouco tempo no tocante a todas as mais importantes dificuldades que costumam 
+ser enfrentadas na filosofia, mas também que percebi certas leis que Deus 
+estabeleceu de tal modo na natureza, e das quais imprimiu tais noções em nossas 
+almas que, após meditar bastante acerca delas, não podería mos pôr em dúvida 
+que não fossem exatamente obser vadas em tudo o que existe ou se faz no 
+mundo. Em seguida, atentando para a seqüência dessas leis, creio haver 
+descoberto muitas verdades mais úteis e mais importantes do que tudo quanto 
+aprendera até então, ou mesmo esperava aprender. 
+Porém, posto que tentei explicar as principais num tratado que certas 
+considerações me impedem de publicar, não poderia fazê-las conhecer melhor do 
+que explicando aqui, resumidamente, o que ele contém. Eu pleiteava, antes de 
+escrevê-lo, incluir nele tudo o que julgava saber a respeito da natureza das coisas 
+materiais. Contudo, tal qual os pi ntores que, não conseguin do representar 
+igualmente bem numa tela plana todas as diversas faces de um corpo sólido, 
+escolhem uma das principais, que põem à luz, e, sombreando as ou tras, só as 
+fazem aparecer tanto quanto se possa vê -las ao olhar aquela; re ceando dessa 
+forma, não colocar em meu discurso tudo o que havia em meu pensamento, 
+tentei apenas expor bem amplamente o que concebia da luz; depois, na ocasião 
+propícia, acrescentar alguma coisa a respeito do sol e das estrelas fixas, porque a 
+luz provém quase inteiramente deles; a respeito dos céus, porque a transmitem; a 
+respeito dos planetas, dos cometas e da Terra, porque a refletem; e, em 
+particular, a respeito de todos os corpos que existem sobre a Terra, porque são 
+ou coloridos, ou transparentes, ou  brilhantes; e, por fim, a respeito do homem, 
+porque é o seu espectador. Também, para sombrear um pouco todas essas coisas 
+e poder dizer mais livremente o que pensava acerca delas, sem ser obrigado a 
+seguir nem a desaprovar as opiniões aceitas entre os eruditos, decidi deixar todo 
+esse mundo às suas disputas, e a falar apenas do que aconteceria num novo se 
+Deus criasse agora em qualquer parte, nos espaços imaginários, su ficiente 
+matéria para compô -lo, e se agitasse de maneira diferente, e sem ordem, as 
+diferentes partes desta matéria, de forma que compusesse com ela um caos tão 
+tumultuado quanto os poetas possam nos fazer acreditar, e que, em seguida, não 
+fizesse outra coisa a não ser prestar o seu concurso comum à natureza, e deixá-la 
+agir conforme as l eis por ele estabelecidas. Assim, em primeiro lugar, descrevi 
+essa matéria e tentei rep resentá-la de tal maneira que nada existe no mundo, 
+parece-me, mais claro nem mais inteligível, salvo o que há pouco foi dito a 
+respeito de Deus e da alma; pois presumi  claramente que não havia nela 
+nenhuma dessas formas ou qualidades a respeito das quais se discute nas escolas, 
+nem, de modo geral, qualquer coisa cujo conhecimento não fosse tão natural às 
+nossas almas que não se pudesse fingir ignorá -la. Ademais, mostrei quais eram 
+as leis da natureza; e, sem alicerçar minhas razões em nenhum outro princípio, 
+exceto no das perfeições infinitas de Deus, tentei provar todas aquelas que 
+pudessem provocar alguma dúvida e mos trar que elas são tais que, ainda que 
+Deus tivesse criado muitos mundos, não poderia haver um só em que deixassem 
+de ser observadas. Depois disso, mostrei como a maior parte da matéria desse 
+caos devia, como conseqüência dessas leis, dispor-se e arranjar-se de uma certa 
+maneira que a torna semelhante ao s nossos céus; como, contudo, algumas de 
+suas partes deviam compor uma Terra, alguns dos planetas e cometas, e outras, 
+um sol e estrelas fixas. Neste ponto, estendendo -me acerca do tema da luz, 
+expliquei detidamente qual era a que se devia encontrar no sol  e nas estrelas, e 
+de que maneira, a partir daí, atravessava num instante os in comensuráveis 
+espaços dos céus, e de que forma se refletia dos planetas e dos cometas para a 
+Terra. Acrescentei a isso também várias coisas relativas à substân cia, posição, 
+movimentos e todas as várias qualidades desses céus e desses astros; de maneira 
+que pensava ter dito o suficiente a respeito, para fazer compreender que nada se 
+percebe nos deste mundo que não devesse, ou ao menos não pudesse, parecer 
+semelhante nos do mund o que eu descrevia. Daí me pus a falar especificamente 
+acerca da Terra: como, apesar de haver clara mente estabelecido que Deus não 
+colocara peso algum na matéria de que ela era formada, todas as suas partes não 
+deixavam de propender exatamente para o seu centro; como, existindo água e ar 
+em sua superfície, a disposição dos céus e dos astros, especialmente da lua, devia 
+nela causar um fluxo e refluxo, que fosse seme lhante, em todas as suas 
+circunstâncias, ao que se ob serva nos nossos mares; e, além disso, certo curso, 
+tanto da água como do ar, do levante para o poente, tal como se observa também 
+entre os trópicos; como as montanhas, os mares, as fontes e os rios podiam natu-
+ralmente formar-se nela, e os metais surgirem nas minas, e as plantas crescerem 
+nos campos, e em geral todos os corpos denominados mistos ou compostos se -
+rem nela gerados. E entre outras coisas, já que além dos astros nada conheço no 
+mundo, exceto o fogo, que produza a luz, dediquei -me a explicar com bastante 
+clareza tudo o que pertence à sua natureza, de que maneira ele se origina, como 
+se alimenta; como, às vezes, só há calor sem luz, e outras vezes, luz sem calor; 
+como pode introduzir várias cores em vários corpos e numerosas outras 
+qualidades; como funde uns e endurece outros; como os pode consumir a quase 
+todos ou transformar em cinzas e em fumo; e, por fim, como dessas cinzas, 
+apenas pela força de sua ação, produz o vidro; pois, ao considerar essa 
+transmutação de cinzas em vidro tão assombrosa como nenhuma outra que se 
+realize na natureza, proporcionou-me especial prazer descrevê-la. 
+Contudo, não desejava inferir, de todas essas coi sas, que este mundo 
+houvesse sido criado da forma como propunha; pois é muito mais provável que, 
+desde o início, Deus o tenha tomado tal como devia ser.  Mas é certo, e é uma 
+opinião geralmente adotada pelos teólogos, que a ação mediante a qual ele agora 
+o con serva é exatamente igual àquela mediante a qual o criou: de forma que, 
+apesar de não lhe haver dado, no início, outra forma a não ser a do caos, des de 
+quando, tendo instituído as leis da natureza, tenha lhe prestado seu concurso, 
+para ela agir assim como costuma, pode -se crer, sem nenhum prejuízo para o 
+milagre da criação, que apenas por isso todas as coisas que são ge nuinamente 
+materiais poderiam, ao longo do tempo, converter -se em tais como as vemos 
+atualmente. E sua natureza é muito mais fácil de ser compreendida quan do as 
+vemos nascer pouco a pouco desta forma do que quando já as consideramos 
+totalmente concluídas. 
+Da descrição dos corpos inanim ados e das plantas, passei à dos animais e 
+especificamente à dos homens. Porém, como ainda não possuía suficiente 
+conhecimento para falar a respeito deles no mesmo estilo que do resto, ou seja, 
+demonstrando os efeitos a partir das causas, e mostrando de quais sementes e de 
+que modo a natureza deve produzi -los, satisfiz-me em imaginar que Deus 
+formasse o corpo de um homem inteiramente semelhante a um dos nossos, tanto 
+no aspecto exterior de seus membros como na conformação interior de seus 
+órgãos, sem compô -lo de outra matéria exceto aquela que eu descrevera, e sem 
+colocar nele, no início, alma racional alguma, nem qualquer outra coisa para 
+servir-lhe de alma vegetativa ou sensitiva, mas sim avivasse em seu coração um 
+desses fogos sem luz que eu já explicara , e que não concebia outra natureza a 
+não ser a que aquece o feno quando o guardam antes de estar seco, ou a que faz 
+ferver os vinhos novos quando fermentam sobre o bagaço. Pois, examinando as 
+funções que, por causa disso, podiam se encontrar neste corpo, achava 
+exatamente todas as que podem estar em nós sem que o pensemos, nem, como 
+conseqüência que a nossa alma, isto é, essa parte distinta do corpo cuja função, 
+como já foi dito mais acima, é apenas a de pensar, para tal contribua, e que são 
+todas as mesm as, o que consente dizer que os animais sem razão se nos 
+assemelham, sem que eu possa encontrar para isso nenhuma daquelas razões 
+que, por dependerem do pensamento, são as únicas que nos pertencem enquanto 
+homens, enquanto encontrava a todas em seguida, a o presumir que Deus criara 
+uma alma racio nal e que a juntara a esse corpo de uma certa maneira que 
+descrevia. 
+Porém, para que se possa ver de que modo eu lidava com esta matéria, 
+quero mostrar aqui a explicação do movimento do coração e das artérias, o qual, 
+sendo o primeiro e o mais geral que se observa nos animais, consentirá julgar 
+com facilidade, a partir dele, o que se deve pensar de todos os outros. E, para que 
+seja mais fácil entender o que vou dizer a esse respeito, desejaria que todos os 
+que não são peritos em anatomia se dessem ao trabalho, antes de ler isto, de 
+mandar cortar diante deles o coração de um grande animal que possua pulmões, 
+já que é em tudo parecido com o do homem, e que peçam para ver as duas 
+câmaras ou concavidades nele existentes . Primeiramente, a que está no lado 
+direito, na qual se ligam dois tubos muito largos: a veia cava, que é o principal 
+receptáculo do sangue, como o tronco da árvore da qual todas as outras veias do 
+corpo são ramos; e a veia arteriosa, que foi assim indevid amente denominada, 
+pois em verdade se trata de uma artéria, a qual, originando -se do cora ção, se 
+divide, após sair dele, em muitos ramos que vão espalhar -se nos pulmões. 
+Depois, a que se encontra no lado esquerdo, na qual se ligam, de igual maneira, 
+dois tubos que são tanto ou mais largos que os ante -flores: a artéria venosa, que 
+também foi indevidamente denominada, porque se trata de uma veia que provém 
+dos pulmões, onde se reparte em vários ramos, entran çados com os da veia 
+arteriosa e com os desse conduto que se chama gasnete, por onde entra o ar da 
+respiração; e a grande artéria, que, saindo do coração, espalha seus ramos por 
+todo o corpo. Apreciaria também que lhes mostrassem cuidadosamente as onze 
+diminutas peles que, como outras tantas diminutas po rtas, abrem e fecham as 
+quatro aberturas que existem nessas duas concavidades três à entrada da veia 
+cava, onde estão dispostas de tal maneira que não podem de forma alguma 
+impedir que o sangue nela contido corra para a concavidade direita do coração, e 
+no entanto impe dem que possa dali sair; três à entrada da veia arterio sa, que, 
+estando dispostas bem ao contrário, permitem de fato ao sangue que se encontra 
+nessa concavidade fluir para os pulmões, mas não ao que se encontra nos 
+pulmões voltar para lá; e também duas outras a entra da da artéria venosa, que 
+deixam passar o sangue dos pulmões para a concavidade esquerda do coração, 
+mas obstam seu retorno; e três à entrada da grande artéria, que lhe permitem sair 
+do coração, porém impedem seu retorno. E não é  preciso procurar outra razão 
+para o numero dessas peles, exceto a de que a abertura da artéria venosa, por ser 
+oval em virtude do local onde se encontra, pode ser comodamente fechada com 
+duas, enquanto, por serem as outras redondas, três podem melhor fech á-las. 
+Além disso, desejaria que considerassem que a grande artéria e a veia arteriosa 
+são de uma composição muito mais rija e mais firme do que a artéria venosa e a 
+veia cava, e que as duas últimas se dilatam antes de penetrar no coração, 
+formando aí com o duas bolsas, denominadas orelhas do coração, que se 
+compõem de uma carne parecida com a deste; e que existe sempre mais calor no 
+coração do que em qualquer outro local do corpo, e, enfim, que este calor é 
+capaz de fazer com que, se uma gota de sangue entrar em suas concavidades, ela 
+inche prontamente e se dilate, como geralmente se comportam todos os líquidos 
+quando os deixamos cair gota a gota dentro de algum vaso que esteja bem 
+quente. 
+Depois disso, nada mais necessito dizer para expli car o movimento d o 
+coração, exceto que, quando as suas concavidades não estão repletas de sangue, 
+este flui necessariamente da veia cava para a concavidade direita, e da artéria 
+venosa para a esquerda; já que esses dois vasos se encontram sempre cheios, e 
+que suas aberturas, voltadas para o coração, não podem então ser fechadas; mas, 
+tão logo tenham entrado duas gotas de sangue, uma em cada concavidade, estas 
+gotas, que são bastante grossas, porque as aberturas por onde penetram são 
+muito largas, e os vasos de onde provêm bem cheios de sangue, diluem -se e 
+dilatam-se devido ao calor que aí encontram; dessa maneira, fa zendo inflar o 
+coração todo, empurram e fecham as cinco pequenas portas que ficam à entrada 
+dos dois vasos de onde provêm, impedindo, assim, que chegue mais sa ngue ao 
+coração; e, continuando a diluir -se cada vez mais, empurram e abrem as seis 
+outras pequenas portas situadas à entrada dos dois outros vasos por onde saem, 
+fazendo inflar dessa forma todos os ramos da veia arteriosa e da grande artéria, 
+quase no mesmo instante que o coração, o qual, imediatamente, desincha, como 
+ocorre também com essas artérias, por se resfriar o sangue que nelas entrou; e 
+suas seis pequenas portas se fecham e as cinco da veia cava e da artéria venosa 
+reabrem-se, dando passagem a dua s outras gotas de sangue, que vão de novo 
+inflar o coração e as artérias, da mesma maneira que as precedentes. E como o 
+sangue, que penetra assim no coração, passa por essas duas bolsas que são 
+denominadas suas orelhas, resulta que o movimento dessas é contrário ao seu, e 
+que elas desincham quando ele infla. De resto, para que aqueles que não 
+conhecem a força das demonstrações matemá ticas, e não estão habituados a 
+discernir as razões verdadeiras e as prováveis, não se arrisquem a negar tal fato 
+sem uma a nálise, quero chamar -lhes a atenção para o fato de que esse 
+movimento que acabo de descrever decorre necessariamente da simples 
+disposição dos órgãos que se podem divisar a olho nu no coração, e do calor que 
+se pode sentir com os dedos, e da natureza do sangue que se pode conhecer por 
+experiência, como o movimento de um relógio decorre da força, da posição e da 
+forma de seus contrapesos e rodas. 
+Porém, se me for perguntado por que o sangue das veias não se esgota, 
+fluindo continuamente para o coração, e p or que as artérias não se enchem 
+demais, já que tudo quanto passa pelo coração para elas se dirige, não preciso 
+responder nada mais do que já foi escrito por um médico da Inglaterra, a quem é 
+preciso dar o louvor de ter rompido o gelo neste ponto, e de ser o primeiro a ter 
+ensinado a existência de muitas pequenas passagens nas extremidades das 
+artérias, por onde o sangue que elas recebem do coração penetra nos diminutos 
+ramos das veias, de onde ele torna a dirigir-se para o coração, de maneira que o 
+seu cur so é uma circulação perpétua. E isso ele prova muito bem pela 
+experiência comum dos cirurgiões, que, amarrando o braço, sem apertá-lo muito, 
+acima do local onde abrem a veia, fazem com que o sangue saia dela com mais 
+abundância do que se não o tivessem ama rrado. E aconteceria exatamente o 
+contrário se eles o amarrassem mais abaixo, entre a mão e a abertura, ou então se 
+o amarrassem com muita força em cima. Pois é evidente que o laço 
+medianamente apertado, embora impedindo que o sangue, que já se encontra no 
+braço, retorne ao coração pelas veias, não impede que para aí sempre aflua novo 
+sangue pelas artérias, porque estas se situam por baixo das veias, e porque suas 
+peles, sendo mais rijas, são mais difíceis de pressionar, e também porque o 
+sangue provenient e do coração tende com mais força a passar por elas em 
+direção à mão do que a voltar daí para o coração pelas veias. E, como esse 
+sangue sai do braço pela abertura que há numa das veias, devem necessariamente 
+existir algumas passagens abaixo do laço, ou s eja, na direção das extremidades 
+do braço, por onde possa vir das artérias. Além disso, ele prova bastante bem o 
+que afirma a respeito do fluxo do sangue por certas pequenas peles, as quais se 
+encontram de tal maneira dispostas em diversos pontos ao longo das veias, que 
+não lhe permitem pas sar do meio do corpo para as extremidades, mas somente 
+retornar das extremidades para o coração, e, ademais, pela experiência que 
+mostra que todo o sangue que há no corpo pode dele sair em muito pouco tempo 
+por uma úni ca artéria, quando secionada, até mesmo se ela fosse fortemente 
+amarrada muito próxima do coração, e secionada entre ele e a ligadura, de 
+maneira que não houvesse motivo de imaginar que o sangue que daí saísse 
+procedesse de outro lugar. 
+Mas existem numerosas outras coisas que compro vam que a verdadeira 
+causa desse movimento do san gue é a que eu apresentei. Assim, em primeiro 
+lugar, a diferença que se percebe entre o sangue que sai das veias e o que sai das 
+artérias só pode se originar do fato de que, havendo-se diluído e como destilado 
+ao passar pelo coração, é mais fino, mais vivo e mais quente logo após sair dele, 
+ou seja, quando corre nas artérias, do que o é um pouco antes de nele penetrar, 
+isto é, quando corre nas veias. E, se se prestar atenção, veri fica-se que tal 
+diferença só aparece realmente na direção do coração e de forma alguma nos 
+lugares que dele são mais distantes. Depois, a rigidez das peles, de que a veia 
+arteriosa e a grande artéria se compõem, mostra satisfatoriamente que o sangue 
+bate c ontra elas com mais força do que contra as veias. E por que seriam a 
+concavidade esquerda do coração e a grande artéria maiores e mais largas do que 
+a concavidade direita e a veia arteriosa, se não fosse porque o sangue da artéria 
+venosa, tendo estado apen as nos pulmões depois de passar pelo coração, é mais 
+fino e se dilui mais facilmente do que aquele que procede imediatamente da veia 
+cava? E o que podem os médicos descobrir, ao tatear o pulso, se não sabem que, 
+conforme o sangue muda de natureza, pode s er diluído pelo calor do coração 
+mais ou menos forte e mais ou menos rápido do que antes? E, se se examina de 
+que maneira esse calor se transfere aos outros membros, não convém confessar 
+que é por meio do sangue que, ao passar pelo coração, nele se aquece e daí se 
+espalha por todo o corpo? Daí decorre que, se se retira o sangue de alguma parte, 
+retira-se-lhe da mesma forma o calor; e, mesmo que o coração fosse tão ardente 
+quanto um ferro em brasa, não bastaria, como não basta, para aquecer os pés e as 
+mãos, se não lhes enviasse ininterruptamente novo sangue. Depois, também se 
+sabe daí que a real utilidade da respiração é levar bastante ar fresco aos pulmões, 
+a fim de fazer com que o sangue, que para aí se dirige vindo da concavidade 
+direita do coração, onde foi diluído e como transmudado em vapores, se adense e 
+se transforme novamente, antes de recair na concavidade esquerda, sem o que 
+não seria apropriado para servir de alimento ao fogo aí existente. O que está de 
+acordo, porquanto os animais que não possue m pulmões não são providos de 
+mais do que uma concavidade no coração, e as crianças, que não podem utilizá-
+los por se encontrarem fechadas no ven tre de suas mães, apresentam uma 
+abertura por onde corre o sangue da veia cava em direção à concavidade 
+esquerda do coração e um conduto por onde ele pro vém da veia arteriosa para a 
+grande artéria, sem passar pelos pulmões. Depois a digestão: como ela se proces-
+saria no estômago se o coração não lhe enviasse calor pelas artérias, e, com esse, 
+alguns dos elementos  mais fluidos do sangue, que ajudam a dissolver os 
+alimentos que foram para ali levados? E a ação que transformou o suco desses 
+alimentos em sangue, não será ela fácil de conhecer, se se considera que este se 
+destila, passando e repassando pelo coração, t alvez mais de cem ou duzentas 
+vezes por dia? E de que mais se precisa para explicar a nutrição e a produção dos 
+vários humores que há no corpo, salvo afirmar que a força com que o sangue, ao 
+rarefazer-se, passa do coração para as extremidades das artérias  leva alguns de 
+seus elementos a se deterem entre os dos membros onde se encon tram e a 
+tomarem aí o lugar de alguns outros que elas expulsam; e que, de acordo com a 
+situação, ou com a configuração, ou com a pequenez dos poros que encontram, 
+alguns vão t er a certos lugares mais do que outros, de igual maneira como cada 
+um pode ter visto várias peneiras que, sendo diferentemente perfuradas, servem 
+para separar diversos grãos uns dos outros? E, por fim, o que existe de mais 
+extraordinário em tudo isso é a geração dos espíritos animais, que são como um 
+vento muito sutil, ou melhor, como uma chama muito pura e muito viva que, 
+subindo ininterruptamente em grande quantidade do coração ao cérebro, dirige-
+se a partir daí, pelos nervos, para os músculos, e imprime movimento a todos os 
+membros; sem que seja necessário imaginar outra causa que Leve os elementos 
+do sangue que, por serem os mais agitados e penetrantes, são os mais adequados 
+para compor tais espíritos, a se dirigirem mais ao cérebro do que a outras partes; 
+mas apenas que as artérias, que os transportam para aí, são aquelas que provêm 
+do coração em Linha mais reta de todas, e que, de acordo com as leis da mecâ -
+nica, que são as mesmas da natureza, quando várias coisas tendem a mover -se 
+em conjunto para um mesmo lado, onde não existe espaço suficiente para todas, 
+tal qual os elementos do sangue que saem da concavidade esquerda do coração 
+tendem para o cérebro, os mais débeis e menos agitados devem ser desviados 
+pelos mais fortes, que por esse meio aí chegam sozinhos. 
+Eu explanara muito particularmente todas essas coisas no tratado que 
+pretendi publicar em tempos passados. E, em seguida, expusera nele qual deve 
+ser a estrutura dos nervos e dos músculos do corpo humano, para fazer com que 
+os espíritos animais que se encontram dentro deles tenham a força de mover seus 
+membros: assim como se vê que as cabeças, pouco depois de decepadas, ainda se 
+movem e mordem a terra, apesar de não serem mais animadas; quais trans -
+formações se devem efetuar no cérebro para pro duzir a vigília, o sono e os 
+sonhos; como a luz, os sons, os odores, os sabores, o calor e todas as outras 
+qualidades dos objetos exteriores nele podem imprimir variadas idéias por 
+intermédio dos sentidos; como a fome, a sede e as outras paixões interiores  
+também podem lhe transmitir as suas; o que deve ser nele tomado pelo senso 
+comum, onde essas idéias são aceitas; pela me mória, que as conserva, e pela 
+fantasia, que as pode modificar diferentemente e formar com elas outras novas, e 
+pelo mesmo meio, distribuindo os espíritos animais nos músculos, movimentar 
+os membros desse corpo de tão diferentes maneiras, quer a respeito dos objetos 
+que se apresentam a seus sentidos, quer das paixões interiores que se encontram 
+nele, que os ossos se possam movimentar sem que a vontade os conduza. O que 
+não parecerá de maneira alguma estranho a quem, sabendo quão diversos 
+autômatos, ou máquinas móveis, a indústria dos homens pode produzir, sem 
+aplicar nisso senão pouquíssimas peças, em comparação à grande quantidade de 
+ossos, músculos, nervos, arté rias, veias e todas as outras partes existentes no 
+corpo de cada animal, considerará esse corpo uma máquina que, tendo sido feita 
+pelas mãos de Deus, é incompa ravelmente mais bem organizada e capaz de 
+movimentos mais admiráveis do que qualquer uma das que possam ser criadas 
+pelos homens. 
+E me demorara especificamente neste ponto, para mostrar que, se 
+existissem máquinas assim, que fossem providas de órgãos e do aspecto de um 
+macaco, ou de qualquer outro animal irracional, não  teríamos meio algum para 
+reconhecer que elas não seriam em tudo da mesma natureza que esses animais; 
+contudo, se existissem outras que se assemelhassem com os nossos corpos e 
+imitassem tanto nossas ações quanto moral mente fosse possível, teríamos 
+sempre dois meios bas tante seguros para constatar que nem por isso seriam 
+verdadeiros homens. Desses meios, o primeiro é que jamais poderiam utilizar 
+palavras, nem outros sinais, arranjando -os, como fazemos para manifestar aos 
+outros os nossos pensamentos. Pois  pode -se muito bem imaginar que uma 
+máquina seja feita de tal modo que articule palavras, e até que articule algumas a 
+respeito das ações corporais que causem alguma mudança em seus órgãos: por 
+exemplo, se a tocam num ponto, que indague o que se pretende dizer-lhe; se em 
+outro, que grite que lhe causam mal, e coisas análogas; mas não que ela as 
+arrume diferentemente, para responder ao sentido de tudo quanto se disser na sua 
+presença, assim como podem fazer os homens mais embrutecidos. E o segundo 
+meio é qu e, ainda que fizessem muitas coisas tão bem, ou talvez melhor do que 
+qualquer um de nós, falhariam inevitavelmente em algumas outras, pelas quais 
+se descobriria que não agem pelo conhecimento, mas apenas pela distribuição 
+ordenada de seus órgãos. Pois, enquanto a razão é um instrumento universal, que 
+serve em todas as ocasiões, tais órgãos precisam de alguma disposição específica 
+para cada ação específica; daí decorre que é moralmente impossível que numa 
+máquina haja muitas e diferentes para fazê-la agir em todas as ocasiões da vida, 
+da mesma maneira que a nossa razão nos faz agir. 
+Note-se que, por esses dois meios, pode -se também conhecer a diferença 
+que há entre os homens e os animais. Já que é algo extraordinário que não 
+existam homens tão embrutecidos e tão estúpidos, sem nem mesmo a exceção 
+dos loucos, que não tenham a capa cidade de ordenar diversas palavras, 
+arranjando-as num discurso mediante o qual consigam fazer entender seus 
+pensamentos; e que, ao contrário, não haja outro ani mal, por mais perfeito que 
+possa ser, capaz de fazer o mesmo. E isso não ocorre porque lhes faltem órgãos, 
+pois sabemos que as pegas e os papagaios podem articular palavras assim como 
+nós, no entanto não con seguem falar como nós, ou seja, demonstrando que 
+pensam o que dizem; enquanto os homens que, havendo nascido surdos e mudos, 
+são desprovidos dos órgã os que servem aos outros para falar, tanto ou mais que 
+os animais, costumam criar eles mesmos alguns sinais, mediante os quais se 
+fazem entender por quem, convi vendo com e les, disponha de tempo para 
+aprender a sua língua. E isso não prova somente que os animais possuem menos 
+razão do que os homens, mas que não possuem nenhuma razão. Pois vemos que 
+é necessário bem pouco para saber falar; e, se bem que se percebe desigualdade 
+entre os animais de uma mesma espécie, assim como entre os homens, e que uns 
+são mais fáceis de adestrar que outros, não é acreditável que um macaco ou um 
+papagaio, que fossem os mais perfeitos de sua espécie, não igualassem nisso 
+uma criança das mais e stúpidas ou pelo menos uma criança com o cérebro 
+confuso, se a sua alma não fosse de uma natureza totalmente diferente da nossa. 
+E não se devem confun dir as palavras com os movimentos naturais, que tes -
+temunham as paixões e podem ser imitados pelas má quinas e também pelos 
+animais; nem pensar, como alguns antigos, que os animais falam, embora não 
+entendamos sua linguagem: pois, se fosse verdade, visto que possuem muitos 
+órgãos correlatos aos nossos, poderiam fazer-se compreender tanto por nós como 
+por seus semelhantes. E também coisa digna de nota que, apesar de haver muitos 
+animais que demonstram mais habilidade do que nós em algumas de suas ações, 
+percebe-se, contudo, que não a demonstram nem um pouco em muitas outras: de 
+forma que aquilo que fazem melhor do que nós não prova que possuam alma; 
+pois, por esse critério, tê -la-iam mais do que qualquer um de nós e agiriam 
+melhor em tudo; mas, ao contrário, que não a possuem, e que é a natureza que 
+atua neles conforme a disposição de seus órgãos: assim como um relógio, que é 
+feito apenas de rodas e molas, pode contar as horas e medir o tempo com maior 
+precisão do que nós, com toda a nossa sensatez. 
+Depois disso, eu descrevera a alma racional, e havia mostrado que ela não 
+pode ser de maneira alguma tirada do poder da matéria, como as outras coisas a 
+respeito das quais falara, mas que devem claramente ter sido; e como não é 
+suficiente que esteja alojada no corpo humano, assim como um piloto em seu 
+navio, salvo talvez para mover seus membros, mas que é necessário  que esteja 
+junta e unida estreitamente com ele para ter, além disso, sentimentos e desejos 
+parecidos com os nossos, e assim compor um verdadeiro homem. Afinal de 
+contas, eu me estendi um pouco aqui sobre o tema da alma por ele ser um dos 
+mais importantes; pois, após o erro dos que negam Deus, que penso haver 
+refutado suficientemente mais acima, não existe outro que desvie mais os 
+espíritos fracos do caminho reto da virtude do que imaginar que a alma dos ani-
+mais seja da mesma natureza que a nossa, e que, p ortanto, nada temos a recear, 
+nem a esperar, depois dessa vida, não mais do que as moscas e as formigas; ao 
+mesmo tempo que, sabendo -se quanto diferem, com preende-se muito mais as 
+razões que provam que a nossa é de uma natureza inteiramente independente do 
+corpo e, consequentemente, que não está de maneira alguma sujeita a morrer 
+com ele; depois, como não se notam outras causas que a destruam, somos 
+naturalmente impelidos a supor por isso que ela é imortal. 
+ 
+ 
+ 
+ 
+SEXTA PARTE 
+ 
+ 
+FAZIA TRÊS ANOS que eu conclu íra o tratado que compreende todas 
+essas coisas, e que havia iniciado a revê -lo, com o intuito de entregá -lo a um 
+editor, quan do fiquei sabendo que pessoas, a quem respeito e cuja autoridade 
+sobre minhas ações não é menor que minha própria razão sobre meu s 
+pensamentos, não haviam concordado com uma opinião de física, publicada pou-
+co antes por alguém, opinião com a qual não afirmo que eu concordasse, mas 
+que nada notara nela, antes de a criticarem, que pudesse considerar nociva à reli-
+gião ou ao Estado, ne m, consequentemente, que me impossibilitasse de escrevê-
+la, se a razão tivesse me convencido a fazê -lo, e isso me fez temer que se en -
+contrasse, da mesma maneira, alguma entre as minhas, em que eu me tivesse 
+equivocado, apesar do grande cuidado que sempre tomei em não dar acolhida a 
+novas opiniões das quais não pudesse demonstrar com muita exatidão, e de não 
+escrever nenhuma que pudes se acarretar prejuízo para qualquer pessoa. O que 
+foi suficiente para me obrigar a mudar a decisão que eu tomara de publicá -las. 
+Pois, apesar de as razões, pelas quais eu a tomara anteriormente, fossem muito 
+fortes, minha inclinação, que sempre me levara a detestar o ofício de fazer livros, 
+me guiara imediatamente a en contrar muitas outras para dispensá -la. E essas 
+razões de u ma parte e de outra são tais que não apenas tenho aqui algum 
+interesse em expressá-las, como talvez o público também o tenha em conhecê -
+las. 
+Jamais dei muita atenção às coisas que provinham de meu espírito, e, à 
+medida que não colhi outros frutos do método  que emprego, exceto que fiquei 
+satisfeito em relação a algumas dificuldades que dizem respeito às ciências 
+especulativas, ou então que tentei pautar meus hábitos pelas razões que ele me 
+ensinava, não me considerei obrigado a nada escrever acerca dele. Pois, no que 
+se refere aos hábitos, cada qual segue de tal maneira sua própria opinião que se 
+poderia encontrar tantos reformadores quantas são as cabeças, se fosse permitido 
+a outros, além dos que Deus esta beleceu como soberanos dos povos, ou então 
+aos que concedeu suficiente graça e diligência para serem profetas, tentar mudá-
+los em algo; e, apesar de que minhas especulações me agradassem muito, pensei 
+que os ou tros também tinham as suas que lhes agradariam talvez mais. Porém, 
+apenas adquiri algumas noçõ es gerais concernentes a física, e, começando a 
+comprová-las em várias dificuldades particulares, percebi até onde podiam 
+conduzir e quanto diferem dos princípios que haviam sido utilizados até o 
+presente, considerei que não podia mantê -las escondidas sem transgredir a lei 
+que nos obriga a procurar, no que depende de nós, o bem geral de todos os 
+homens. Pois elas me mostraram que é possível chegar a conhecimentos que 
+sejam muito úteis à vida, e que, em lugar dessa filosofia especula tiva que se 
+ensina nas e scolas, é possível encontrar -se uma outra prática mediante a qual, 
+conhecendo a força e as ações do fogo, da água, do ar, dos astros, dos céus e de 
+todos os outros corpos que nos cercam, tão clara mente como conhecemos os 
+vários ofícios de nossos artífices , poderíamos utilizá-los da mesma forma em 
+todos os usos para os quais são próprios, e assim nos tornar como senhores e 
+possuidores da natureza. O que é de desejar, não apenas para a invenção de uma 
+infinidade de artifícios que permitiriam usufruir, sem custo algum, os frutos da 
+terra e todas as comodidades que nela se encontram, mas também, e 
+principalmente, para a conservação da saúde, que é sem dúvida o primeiro bem e 
+a base de todos os outros bens desta vida; pois mesmo o espírito depende tanto 
+do tempe ramento e da disposição dos órgãos do corpo que, se é possível 
+encontrar algum meio que torne comumente os homens mais sábios e mais 
+hábeis do que foram até aqui, creio que é na medicina que se deve procurá-lo. É 
+verdade que aquela que é agora empregada p ossui poucas coisas cuja utilidade 
+seja tão notável; porém, sem que eu tenha intenção alguma de desprezá-la, tenho 
+certeza de que não existe ninguém, mesmo entre os que a professam, que não 
+confesse que tudo quanto nela se sabe é quase nada se comparado co m o que 
+falta saber, e que poderíamos pôr-nos a salvo de grande número de doenças, quer 
+do espírito, quer do corpo, e talvez até mesmo da debilidade decorrente da 
+velhice, se possuíssemos suficiente conhecimento de suas causas e de todos os 
+remédios de que a natureza nos dotou. Ora, tendo a intenção de empregar toda a 
+minha vida na pesquisa de uma ciência tão necessária, e havendo encontrado um 
+caminho que se me afigura tal que se deve infalivelmente encontrá -la, se o 
+seguirmos, exceto se disso sejamos impossibilitados, ou pela breve duração da 
+vida, ou pela falta de experiências, julguei que não havia melhor remédio contra 
+esses dois impedimentos a não ser comunicar com fidelidade ao público o pouco 
+que já tivesse descoberto, e convidar os bons espíritos a empregarem todas as 
+forças para ir além, contribuindo, cada qual de acordo com sua inclinação e sua 
+capacidade, para as experiências que seria necessário realizar, e comunicando ao 
+público todas as coisas que aprendesse, para que os últimos começassem onde os 
+precedentes houvessem acabado, e assim, somando as vidas e os trabalhos de 
+muitos, fôssemos, todos juntos, muito mais longe do que poderia ir cada um em 
+particular. 
+Percebera também, a respeito das experiências, que elas são tanto mais 
+necessárias quanto mais avançados estivermos no conhecimento. Pois, no início, 
+mais vale servir-se apenas das que se apresentam por si mesmas aos nossos 
+sentidos, e que não poderíamos ignorar, desde que lhes dediquemos o pouco que 
+seja de reflexão, em vez de procurar as mais raras e complicadas: a razão disso é 
+que essas mais raras muitas vezes nos enganam, quando se conhecem ainda as 
+causas das mais comuns, e que as circunstâncias das quais dependem são quase 
+sempre tão específicas e tão pequenas que é muito penoso notá-las. Mas a ordem 
+que guardei nisso foi a que segue. Em princípio, procurei encontrar os princípios, 
+ou causas primeiras, de tudo quanto existe, ou pode existir, no mundo, sem nada 
+considerar, para tal efeito, senão Deus, que o criou, nem tirá -las de outra parte, 
+salvo de certas sementes de verdades que existem naturalmente em nossas almas. 
+Em seguida, examinei quais são os primeiros e os mais comuns efeitos que se 
+podem deduzir dessas causas: e parece -me que, por aí, encontrei céus, astros, 
+uma Terra, e  também acerca da terra, água, ar, fogo, minerais e algumas outras 
+dessas coisas que são as mais triviais de todas e as mais simples, e, 
+consequentemente, as mais fáceis de conhecer. Depois, quando quis descer às 
+que eram mais específicas, apresentaram-se-me tão va riadas que não acreditei 
+que fosse possível ao espírito humano distinguir as formas ou espécies de corpos 
+que existem sobre a Terra, de uma infinidade de outras que poderiam nela 
+existir, se fosse a vontade de Deus aí colocá-las, nem, por conseguinte, torná-las 
+de nosso uso, a não ser que se busquem as causas a partir dos efeitos e que se 
+recorra a muitas experiências específicas. Como conseqüência disso, repassando 
+meu espírito sobre todos os objetos que alguma vez se ofereceram aos meus 
+sentidos, atrevo -me a dizer que não observei nenhum que eu não pudesse 
+explicar muito comodamente por meio dos princípios que encontrara. Mas é 
+necessário que eu confesse também que o poder da natureza é tão amplo e tão 
+vasto e que esses princípios são tão simpl es e tão gerais que quase não percebi 
+um único efeito específico que eu já não soubesse ser pos sível deduzi-lo daí de 
+várias formas diferentes, e que a minha maior dificuldade é comumente 
+descobrir de qual dessas formas o referido efeito depende. Pois, para tanto, não 
+conheço outro meio, a não ser o de procurar novamente algumas experiências 
+tais que seu resultado não seja o mesmo, se explicado de uma dessas maneiras e 
+não de outra. Afinal de contas, encontro-me agora num ponto em que me parece 
+ver muito bem qual o meio a que se deve recorrer para realizar a maioria das que 
+podem servir para esse efeito; mas vejo também que são tais e em tão grande 
+número que nem as minhas mãos, nem a minha renda, ainda que eu pos suísse 
+mil vezes mais do que possuo, basta riam para todas; de maneira que, à medida 
+que de agora em diante tiver a comodidade de realizá -las em maior ou menor 
+número, avançarei mais ou menos no conheci mento da natureza. Fato que 
+prometia a mim mesmo tornar conhecido, pelo tratado que escrevera, e mostrar 
+tão claramente a utilidade que daí podia resultar para o público, que obrigaria a 
+todos aqueles que desejam o bem dos homens, ou seja, todos aqueles que são em 
+verdade virtuosos, e não apenas por hipocrisia, nem apenas por princípio, tanto a 
+comunicar-me as que já tivessem realizado como a me ajudar na pesquisa das 
+que ainda há por fazer. 
+A partir de então, porém, ocorreram outras razões que me fizeram mudar de 
+opinião e pensar que devia continuar escrevendo todas as coisas que 
+considerasse de alguma importância, conforme fosse descobrindo sua correção, e 
+proporcionar-lhes o mesmo cuidado que se desejasse mandar publicá -las: quer 
+para ter mais oportunidades de melhor analisá-las, porque não há dúvida de que 
+se tem mais cuidado com o que pensamos que deva ser visto por muitos, do que 
+com o que se faz apenas para si próprio, e, freqüentemente, as coisas que se me 
+afiguraram verdadeiras quando comecei a con cebê-las pareceram-me falsas 
+quando decidi colocá-las no papel; quer para não perder oportunidade alguma de 
+beneficiar o público, se é que disso sou capaz, quer para que, se meus textos 
+possuem algum valor, os que os tiverem em mãos depois da minha morte 
+possam utilizá-los como for mais conveniente; mas que não devia de maneira 
+alguma consentir que fossem publicados durante a minha vida, a fim de que nem 
+as objeções e as controvérsias a que estariam talvez sujei tos, nem mesmo a 
+reputação, qualquer que ela fosse, que me pudessem proporcionar, me dessem a 
+menor ocasião de perder o tempo que pretendo e mpregar em instruir-me. Pois, 
+apesar de ser verdade que cada ho mem deve procurar, no que depende dele, o 
+bem dos outros, e que é propriamente nada valer o não ser útil a ninguém, é 
+verdade também que os nossos cuidados devem estender -se para mais longe do 
+tempo presente, e que convém omitir as coisas que talvez redundem em algum 
+proveito aos que estão vivos, quando é com o propósito de fazer outras que serão 
+mais úteis aos homens do futuro. Porque, realmente, quero que se saiba que o 
+pouco que aprendi até agora não é quase nada em comparação com o que ignoro, 
+e que não desanimo de poder aprender; pois acontece quase a mesma coisa aos 
+que descobrem paulatinamente a verdade nas ciências, que àqueles que, 
+começando a enri quecer, têm menos dificuldade em realizar grandes aquisições 
+do que tiveram antes, quando mais pobres, em realizar outras muito menores. Ou 
+então pode -se compará-los aos comandantes de exército, cujas forças costumam 
+crescer na proporção de suas vitórias, e que necessitam de mais habilidade para 
+se manter depois de haver perdido uma batalha, do que possuem, depois de 
+vencê-la, para conquistar cidades e províncias. Pois é verdadeiramente dar 
+batalhas o procurar vencer todas as dificuldades e os erros que nos impedem de 
+chegar ao conhecimento da verdade, e é perder o dar acolhida a qualquer falsa 
+opinião acerca de uma matéria um pouco geral e importante; em seguida, é 
+necessário muito mais habilidade para retornar ao mesmo estado em que se 
+encontrava antes do que para realizar gran des progressos, quando já se têm 
+princípios que sejam seguros. No que me diz respeito, se deparei preceden -
+temente com algumas verdades nas ciências (e espero que as coisas contidas 
+neste volume levarão a julgar que descobri algumas), posso dizer que não 
+passam de conseqüências e dependências de cinco ou seis dificuldades principais 
+que superei, e que considero outras tantas batalhas em que a sorte esteve a meu 
+lado. Não recearei afirmar que creio ter necessidade de ganhar somente mais 
+duas ou três semelhantes para levar  to talmente a termo meus projetos; e que 
+minha idade não é tão avançada que, de acordo com o andamento nor mal da 
+natureza, não possa ainda dispor de tempo suficiente para tal efeito. Mas creio 
+estar tanto mais obrigado a economizar o tempo que me resta q uanto maior a 
+esperança de poder bem utilizá-lo; e teria, sem dúvida, muitas oportunidades de 
+perdê-lo, se publicasse os fundamentos de minha física. Pois, apesar de serem 
+quase todos tão evidentes que basta entendê -los para os aceitar, e não haver 
+nenhum de que não acre dite poder dar demonstração, é impossível que estejam 
+concordes com todas as diferentes opiniões dos outros homens, suponho que 
+seria muitas vezes desviado pelas oposições que originariam. 
+Pode-se dizer que essas oposições seriam úteis, t anto para me fazerem 
+conhecer os meus equívocos, como para que, se eu tivesse algo de bom, os 
+outros pudessem, por esse meio, entendê -lo melhor, e, como muitos homens 
+vêem melhor do que um só, para que, começando desde já a servir-se desse bem, 
+eles me ajudassem também com suas invenções. Porém, apesar de reconhecer 
+que sou muito sujeito a falhas, e que quase nunca me fio nas primeiras idéias que 
+me ocorrem, a experiência que possuo acerca das objeções que me podem ser 
+feitas impede-me de esperar delas qua lquer proveito: pois muitas vezes já 
+comprovei as opiniões tanto daqueles que considerava meus amigos quanto de 
+alguns outros a quem achava que eu fosse indiferente, e até mesmo de alguns de 
+quem eu sabia que a malignidade e a inveja se esforçariam bastante por revelar o 
+que o afeto ocultaria a meus amigos; mas raramente aconteceu que alguém me 
+objetasse algo que eu já não tivesse previsto, salvo se fosse coisa muito afastada 
+de meu assunto; de maneira que quase nunca deparei com algum crítico de 
+minhas opiniões que não me parecesse ou menos rigoroso ou menos equilibrado 
+do que eu mesmo. E jamais percebi tampouco que, por meio das disputas que 
+ocorrem nas escolas, alguém descobrisse alguma verdade até então ignorada, 
+pois, na medida em que cada qual se esf orça em vencer, empenha-se bem mais 
+em fazer valer a verossimilhança do que em avaliar as razões de uma e de outra 
+parte; e aqueles que foram durante muito tempo bons advogados nem por isso se 
+tornam melhores juizes. 
+A respeito da utilidade que os outros obteriam da divulgação de meus 
+pensamentos, não poderia também ser muito grande, sendo que ainda não os 
+levei tão longe que não seja necessário acrescentar -lhes muitas coisas antes de 
+aplicá-los ao uso. E creio poder afirmar, sem presunção, que, se existe alguém 
+que seja capaz disso, hei de ser eu mais do que outro qualquer: não que não 
+possa haver no mundo muitos espíritos melhores que o meu, mas porque não se 
+pode compreender tão bem uma coisa, e torná-la nossa, quando a aprendemos de 
+outrem, como quand o nós mesmos a criamos. O que é tão verdadeiro nesta 
+matéria que, apesar de haver muitas vezes explicado alguns de meus conceitos a 
+pessoas de ótimo espírito, e, enquanto eu lhes falava, pareciam entendê-las muito 
+claramente, contudo, quando as repetiam, percebi que quase sempre as mudavam 
+de tal maneira que não mais podia considerá -las minhas. Com essa intenção, 
+prezo muito pedir aqui, às futuras gerações, que jamais acreditem nas coisas que 
+lhes forem apresentadas como provindas de mim, se eu mesmo não a s tiver 
+divulgado. E não me surpreendem de maneira alguma as extravagâncias que se 
+atribuem a todos esses antigos filósofos, cujos escritos não possuímos, nem 
+julgo, por isso, que os seus pensamentos tenham sido muito disparatados, 
+porquanto eram os melhor es espíritos de seu tempo, mas apenas julgo que nos 
+foram mal referidos. Porque se vê também que quase nunca ocorreu que algum 
+de seus seguidores os tenha superado: e tenho certeza de que os mais 
+apaixonados dos atuais partidários de Aristóteles sentir -se-iam felizes se 
+tivessem tanto conhe cimento da natureza quanto ele o teve, apesar de sob a 
+condição de nunca o terem maior. São como a hera, que não sobe mais alto que 
+as árvores que a sustentam, e que muitas vezes torna a descer, depois de haver 
+alcançado o topo; pois tenho a impressão de que tam bém voltam a descer, ou 
+seja, tornam-se de certa maneira menos sábios do que se se abstivessem de estu-
+dar, aqueles que, não satisfeitos de saber tudo o que é inteligivelmente explicado 
+no seu autor, querem, além  disso, encontrar nele a solução de muitas 
+dificuldades, acerca das quais nada declarou e nas quais talvez ja mais pensou. 
+Contudo, o modo de filosofar é muito cômodo para aqueles que possuem 
+espíritos bastante medíocres; pois a falta de clareza das distin ções e dos 
+princípios de que se utilizam é causa de que possam falar de todas as coisas tão 
+ousadamente como se as conhecessem, e sustentar tudo o que dizem contra os 
+mais perspicazes e os mais capazes sem que haja meio de persuadi-los. Nisso se 
+me afiguram parecidos com um cego que, para lutar sem ficar em desvantagem 
+com alguém que enxerga, preferisse fazê -lo no fundo de uma adega escura; e 
+posso dizer que esses têm interesse que eu me abstenha de publicar os princípios 
+da filosofia de que me utilizo: pois, por serem muito simples e muito evidentes 
+como o são, faria quase o mesmo, ao publicá -los, que se abrisse algumas janelas 
+e fizesse entrar a luz nessa mesma adega, para onde desceram para lutar. Mas até 
+mesmo os melhores espí ritos não devem desejar con hecê-los: pois, se almejam 
+falar de todas as coisas com conhecimento e obter a fama de sábios, irão 
+consegui-lo mais facilmente satisfazendo-se com a verossimilhança, que pode 
+ser encon trada sem muito esforço em todas as espécies de ma térias do que 
+procurando a verdade, que só se descobre pouco a pouco em algumas, e que, 
+quando se trata de falar das outras, obriga a confessar sinceramente que nós as 
+ignoramos. Dado que preferem o conhecimento de um pouco de verdade à 
+vaidade de darem a impressão de nada ignorar, como sem dúvida é preferível, e 
+se pretendem seguir um desígnio parecido com o meu, não necessitam, para isso, 
+que lhes diga nada além do que já disse neste discurso. Pois, se são capa zes de 
+avançar mais do que eu fui, com maior razão serão também capazes de encontrar 
+por si próprios tudo o que penso ter encontrado. Ainda mais que, não havendo 
+nunca analisado algo a não ser por ordem, certamente o que ainda me falta 
+descobrir é em si mais difícil e mais obscuro do que aquilo que pude anterior -
+mente encontrar, e lhes seria muito menos prazeroso aprendê-lo por mim do que 
+por si mesmos; além do que, o hábito que adquirirão, procurando em princípio 
+coisas fáceis e passando, gradualmente, a outras mais difíceis, ser -lhes-á mais 
+proveitoso do que lhes poderiam ser todas as minhas instruções. Porque, quanto 
+a mim, cheguei à conclusão de que, se a partir da juven tude me tivessem 
+ensinado todas as verdades cujas demonstrações procurei depois, e se eu não 
+tivesse dificuldade alguma em aprendê -las, talvez n unca sou besse algumas 
+outras, e ao menos nunca teria adquirido o hábito e a facilidade, que julgo 
+possuir, para sempre descobrir outras novas, conforme me esforço em procurá-
+las. E se existe no mundo alguma obra que não possa ser tão bem executada por 
+nenhum outro a não ser pela mesma pessoa que a iniciou, é naquela que eu 
+trabalho. 
+A verdade é que, no que diz respeito às experiências que podem servir para 
+isso, um único homem não poderia ser suficiente para realizá-las todas; mas não 
+poderia também utilizar com proveito outras mãos que não as suas, salvo as dos 
+artesãos ou pessoas tais a quem pudesse pagar, e a quem o vislumbre do dinhei-
+ro, que é um meio muito eficiente, faria executar exatamente todas as coisas que 
+ele lhes determinasse. Pois, no que diz respeito aos voluntários, que, por curiosi-
+dade ou vontade de aprender, pudesse se oferecer para o ajudar, além de 
+geralmente apresentarem mais promessas do que resultados e de fazerem apenas 
+belas propostas das quais nenhuma nunca obtém sucesso, dese jariam 
+inevitavelmente ser pagos pela explicação de algumas dificuldades, ou ao menos 
+por cumprimentos e conversas estéreis, que lhe custariam sempre algum tempo, 
+por pouco que fosse. E, a respeito das experiên cias já realizadas pelos outros, 
+ainda que desejassem lhes comunicar o que aqueles que as chamam de segredos 
+jamais o fariam, são, na maioria, compostas de tantas circunstâncias, ou 
+ingredientes supérfluos, que lhe seria muito difícil decifrar-lhes a verdade; além 
+de que as encontraria quase todas t ão mal explicadas, ou mesmo tão errôneas, 
+pois aqueles que as realizaram esforçaram-se por torná-las conformes com seus 
+princípios que, se existissem algumas que lhe servissem, não poderiam valer 
+outra vez o tempo que teria de gastar a fim de escolhê -las. De maneira que, se 
+houvesse no mundo alguém de quem se soubesse que seria com certeza capaz de 
+encontrar as maiores coisas e as mais úteis possíveis para o público, e a quem, 
+por esse motivo, os demais homens se esforçassem, por todos os meios, em 
+ajudar na realização de seus intentos, não vejo que pudessem fazer mais por ele 
+além de financiar as despesas nas experiências de que precisasse e, de resto, 
+impedir que seu tempo lhe fosse tomado por pessoas inoportunas. Mas, além de 
+que não imagino tanto de mim  mesmo, que queira prometer algo de 
+extraordinário, nem me alimente de ilusões como imaginar que o público se deva 
+interessar muito pelos meus projetos, não tenho também a alma tão baixa que vá 
+aceitar de quem quer que seja qualquer favor que possam julga r que eu não 
+mereça. 
+Todas essas considerações juntas foram motivo, há três anos, de que eu me 
+recusasse a divulgar o tratado que tinha em mãos, e mesmo que decidisse não 
+elaborar outro qualquer, ao longo de minha existência, que fosse tão geral, nem 
+do q ual fosse possível conhecer os fundamentos da minha física. Mas em 
+seguida houve novamente duas outras razões, que me obrigaram a apresentar 
+aqui alguns ensaios particulares, e a prestar ao público alguma conta de minhas 
+ações e de meus intentos. A primeira é que, se não o fizesse, muitos, que haviam 
+sabido do projeto que eu alimentava ante riormente de mandar imprimir alguns 
+escritos, poderiam imaginar que as causas pelas quais me abstivera disso fossem 
+mais inconvenientes para mim do que na realidade o sã o. Pois, apesar de não 
+apreciar a glória em excesso, ou mesmo, se me atrevo a dizê -lo, a odeie, na 
+medida em que a julgo contrária ao repouso, que estimo acima de todas as 
+coisas, contudo jamais procurei esconder minhas ações como se fossem crimino-
+sas, nem usei muitas precauções para ficar desconhecido; tanto por acreditar que 
+isso me faria mal, como por saber que me provocaria uma espécie de 
+inquietação, que seria mais uma vez contrária à perfeita paz de espírito que 
+procuro. E sendo que, por haver -me sempre mantido assim indiferente entre o 
+cuidado de ser conhecido e o de não sê -lo, não pude evitar de adquirir certa 
+reputação, julgando que devia fazer o máximo para me livrar ao menos de tê-la 
+má. A outra razão que me obrigou a escrever este livro é que , vendo todos os 
+dias mais e mais o atraso que sofre meu propósito de me instruir, por causa de 
+um sem -número de experiências de que preciso realizar, o que me e impossível 
+sem o auxilio de outra pessoa, embora não me lisonjeie tanto a ponto de esperar 
+que o público tome grande parte em meus interesses, não quero faltar tanto a 
+mim próprio que dê motivo aos que me sobreviverão para me censurar um dia de 
+que eu poderia ter-lhes legado muitas coisas bem melhores do que as que leguei, 
+se não me tivesse descuidado tanto em fazê -los compreender em que poderiam 
+contribuir para os meus projetos. 
+E acreditei que me seria fácil escolher algumas matérias que, sem estarem 
+expostas a muitas controvérsias, nem me obrigarem a expor mais do que desejo a 
+respeito dos meus princípios, não deixariam de mostrar com bastante clareza o 
+que posso ou não posso nas ciências. E quanto a isso eu não poderia dizer se fui 
+bem-sucedido e não quero predispor os juízos de nin guém, falando eu próprio 
+sobre meus escritos; mas apreciaria muito que fossem analisados e, para que haja 
+tanto mais ocasião, suplico a todos aqueles que tiverem quaisquer objeções a 
+fazer-lhes que se dêem ao trabalho de enviá -las ao meu editor, para que, sendo 
+advertido, procure acrescentar-lhes ao mesmo tempo a min ha resposta; e por 
+esse meio, os leitores, vendo em conjunto uma e outra, julgarão tanto mais 
+facilmente a verdade. Pois prometo jamais lhes dar respostas longas, mas apenas 
+confessar meus equívocos de maneira franca, se os admitir, ou então, caso não 
+consiga percebê-los, dizer simplesmente o que julgar necessário para a defesa 
+das coisas que escrevi, sem acrescentar a explicação de qualquer nova matéria, a 
+fim de não me enredar inapelavelmente entre uma e outra. 
+Se algumas daquelas explicações que apresentei, no começo de Dióptrica e 
+de Meteoros, chocam de início por eu as denominar suposições, e por parecer 
+que não pretendo prová-las, que se tenha a paciência de ler o todo com atenção, e 
+espero que todos ficarão satisfeitos. Pois me parece que nelas as razões se 
+seguem de tal modo que, como as últimas são demonstradas pelas primeiras, que 
+são as suas causas, essas primeiras o são reciprocamente pelas últimas, que são 
+seus efeitos. E não se deve imaginar que cometo com isso o erro que os lógicos 
+chamam de  círculo; pois, como a experiência torna a maioria desses efeitos 
+muito correta, as causas das quais os deduzo não servem tanto para prová-los ou 
+explicá-los, mas, ao contrário, são elas que são pro vadas por eles. E não as 
+chamei suposições só para que se  saiba que penso poder deduzi -las dessas 
+primeiras verdades que expliquei mais acima, mas que deliberadamente não o 
+quis fazer para impedir que certos espíritos, que imaginam aprender num dia 
+tudo o que um outro pensou durante vinte anos, tão logo ele lhes diz duas ou três 
+palavras a respeito, e que são tanto mais sujeitos a falhar e menos capazes da 
+verdade quanto mais penetrantes e vivos são, não pudessem aproveitar a 
+oportunidade para constituir alguma filo sofia extravagante sobre o que 
+acreditariam ser os meus princípios, e que depois me atribuíssem a culpa disso. 
+Pois, a respeito das opiniões que são totalmente mi nhas, não as desculpo de 
+serem novas, tanto mais que, se se considerarem bem as suas razões, tenho 
+certeza de que serão julgadas tão simples e tão de acordo com o senso comum 
+que parecerão menos extraordinárias e menos estranhas do que quaisquer outras 
+que se possa ter acerca dos mesmos assuntos. E não me envaideço também de 
+ser o primeiro criador de qualquer uma delas, mas antes de não as ter  jamais 
+aceito, nem pelo fato de terem sido proferidas por outrem, nem pelo que possam 
+ter sido, mas unicamente porque a razão fez com que eu as aceitasse. 
+Se os artesãos não puderem tão cedo executar a invenção que é explicada 
+em Dióptrica, não acredito que por causa disso se possa afirmar que ela é má: 
+pois, sendo que é necessário habilidade e experiência para construir e ajustar as 
+máquinas que descrevi, sem que nelas falte componente algum, admirar -me-ia 
+mais se eles conseguissem na primeira tentativa, da mesma for ma se alguém 
+conseguisse aprender, num dia, a tocar o alaúde excelentemente apenas porque 
+lhe foi fornecida uma boa tablatura. E se escrevo em francês, que é o idioma de 
+meu país, e não em latim, que é o de meus mestres, é porque espero que aqueles 
+que se servem somente de sua razão natural totalmente pura julgarão melhor 
+minhas opiniões do que aqueles que só acreditam nos livros antigos. E quanto 
+aos que unem o bom senso ao estudo, os únicos que desejo para meus juizes, 
+tenho certeza de que não serão de maneira alguma tão parciais em favor do latim 
+que recusem ouvir minhas razões porque as explico em língua vulgar. 
+Ademais, não pretendo falar aqui a respeito dos progressos que no futuro 
+espero fazer nas ciências, nem me comprometer em relação ao público com 
+qualquer promessa que eu não esteja seguro de cumprir: mas direi unicamente 
+que decidi não empregar o tempo de vida que me resta em outra coisa que não 
+seja tentar adquirir algum conhecimento da natureza, que seja de tal ordem que 
+dele se possam extrair normas para a medicina, mais seguras do que as adotadas 
+até agora; e que minha tendência me afasta tanto de qualquer tipo de outras 
+intenções, especialmente das que não poderiam ser úteis a uns sem prejudicar a 
+outros, que, se algumas circunstâncias me obrigassem a dedicar-me a eles, não 
+acredito que fosse capaz de obter êxito. Faço, então, aqui uma declaração que, 
+tenho plena consciência, não poderá servir para me tornar famoso no mun do, 
+mas tampouco tenho o menor desejo de sê -lo; e ficarei sempre mais agradecido 
+àqueles em virtude dos quais desfrutarei sem estorvo do meu tempo, do que o 
+seria aos que me oferecessem os mais dignificantes empregos do mundo. 
+ 
