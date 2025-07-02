@@ -14,6 +14,8 @@ pydantic-settings
 langchain
 sentence-transformers
 pypdf # Para extrair texto de PDFs
+pymupdf # pdfs
+
 
 # Para a base vetorial
 chromadb
